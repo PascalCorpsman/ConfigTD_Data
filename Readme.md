@@ -9,8 +9,10 @@ The idea behind is, to seperate code from user data, this way you can more easil
 ## What needs to be done to play the game
 
 1. Download the content of the [bin](https://github.com/PascalCorpsman/ConfigTD/tree/main/bin) folder from the Config TD repository according to your operating system
-2. Merge the content of this repository
-3. Read the [manual](https://github.com/PascalCorpsman/ConfigTD/tree/main/documentation/Readme.md) as needed
+2. Download the content of the [textures](https://github.com/PascalCorpsman/ConfigTD/tree/main/textures) folder from the Config TD repository and merge it to the downloaded bin folder content
+3. Merge the content of this repository
+4. Read the [manual](https://github.com/PascalCorpsman/ConfigTD/tree/main/documentation/Readme.md) as needed
+   
 
 Linux users may need to run the following commands at least once:<br>
 
