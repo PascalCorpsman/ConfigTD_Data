@@ -8,10 +8,12 @@ The idea behind is, to seperate code from user data, this way you can more easil
 
 ## What needs to be done to play the game
 
-1. Download the content of the [bin](https://github.com/PascalCorpsman/ConfigTD/tree/main/bin) folder from the Config TD repository according to your operating system
-2. Download the content of the [textures](https://github.com/PascalCorpsman/ConfigTD/tree/main/textures) folder from the Config TD repository and merge it to the downloaded bin folder content
+1. Create a directory on your computer e.g. "ConfigTD"
+2. Download the content of the [bin](https://github.com/PascalCorpsman/ConfigTD/tree/main/bin) folder according to your operating system and store it in "ConfigTD"
 3. Merge the content of this repository
-4. Read the [manual](https://github.com/PascalCorpsman/ConfigTD/tree/main/documentation/Readme.md) as needed
+4. Merge the content of the [Config TD Data](https://github.com/PascalCorpsman/ConfigTD_Data) repository (holds maps and all the other gaming content) into "ConfigTD"
+5. Your directory should now look like this ![](https://github.com/PascalCorpsman/ConfigTD/tree/main/documentation/images/folder_preview.png)
+6. Read the [manual](https://github.com/PascalCorpsman/ConfigTD/tree/main/documentation/Readme.md) as needed
    
 
 Linux users may need to run the following commands at least once:<br>
