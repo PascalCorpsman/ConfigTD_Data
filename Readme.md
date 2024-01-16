@@ -12,7 +12,7 @@ The idea behind is, to seperate code from user data, this way you can more easil
 2. Download the content of the [bin](https://github.com/PascalCorpsman/ConfigTD/tree/main/bin) folder according to your operating system and store it in "ConfigTD"
 3. Merge the content of this repository
 4. Merge the content of the [Config TD Data](https://github.com/PascalCorpsman/ConfigTD_Data) repository (holds maps and all the other gaming content) into "ConfigTD"
-5. Your directory should now look like this ![](https://github.com/PascalCorpsman/ConfigTD/tree/main/documentation/images/folder_preview.png)
+5. Your directory should now look like this ![](documentation/images/folder_preview.png)
 6. Read the [manual](https://github.com/PascalCorpsman/ConfigTD/tree/main/documentation/Readme.md) as needed
    
 
