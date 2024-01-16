@@ -21,3 +21,24 @@ SSH bindings:
 OpenGL bindings:
 
 > sudo apt-get install freeglut3-dev
+
+## I want to contribute what is needed ?
+
+The project needs
+- more maps
+- more graphics
+- more tutorials
+
+### Rules to contribute:
+
+- The Project language is english
+- All content you contribute need to be free and compatible to the projects [license](license.md)
+
+## External sources
+
+This repository holds lots of images that are not only created by the owner, following is the list of external sources used to create some of the graphics:
+
+* https://opengameart.org/content/stone-tower-defense-game-art
+* https://opengameart.org/content/old-pixelart-scraps
+* https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Body_color_light&head=Human_male_light
+* https://openai.com/dall-e-3
