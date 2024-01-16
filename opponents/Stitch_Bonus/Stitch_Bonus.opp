@@ -1,0 +1,17 @@
+[opponent]
+name=Stitch_Bonus
+description=
+lifepoints0=800
+lifepoints1=0
+lifepoints2=0
+lifepoints3=0
+lifefactor0=0.5
+lifefactor1=1
+lifefactor2=1.5
+speed=2
+size=6.40x6.40
+image=otank2.bmp
+canfly=0
+boss=0
+bonus=1
+imagerotation=1
