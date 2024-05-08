@@ -47,3 +47,4 @@ This repository holds lots of images that are not only created by the owner, fol
 * https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Body_color_light&head=Human_male_light
 * https://openai.com/dall-e-3
 * https://dicegrimorium.com/free-rpg-map-library/
+* https://jetrotal.github.io/EasyChar/
