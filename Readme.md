@@ -29,6 +29,8 @@ OpenGL bindings:
 ## I want to contribute what is needed ?
 
 The project needs
+- more units
+- more buildings
 - more maps
 - more graphics
 - more tutorials
