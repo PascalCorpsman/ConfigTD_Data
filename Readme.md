@@ -17,16 +17,16 @@ The idea behind is, to seperate code from user data, this way you can more easil
 
 2. Run the launcher 
    ![](documentation/images/ctd_launcher_preview.png)
-   (1) press "check for updates"<br>
+   (1) press "Check for updates"<br>
    (2) press "Download and update files"<br>
-   (3) confirm (yes) to download and wait until the window closes<br>
+   (3) confirm "Yes" to download and wait until the window closes<br>
    (4) press "Launch Config TD" and enjoy
 
 3. Read the [manual](https://github.com/PascalCorpsman/ConfigTD/tree/main/documentation/Readme.md) as needed
 
 ## I want to contribute what is needed ?
 
-The project needs
+The project always needs
 - more units
 - more buildings
 - more maps
