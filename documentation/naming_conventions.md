@@ -21,7 +21,6 @@ All file names (except *.map files) are build from "shortcut" patterns, as follo
 ### List of already existing package identifiers
 | \<pi> |  Description |
 | --- | --- |
-| B | balloons graphic pack
 | C | colored graphic pack
 | CC | reserved, do not use this identifier
 | Co | comic graphic pack
@@ -31,10 +30,12 @@ All file names (except *.map files) are build from "shortcut" patterns, as follo
 
 | \<pi> | Damage class 1 | Damage class 2 | Damage class 3 | Damage class 4 |
 | --- | --- | --- | --- | --- |
-| B | Y(ellow) | G(reen) | R(ed) | B(lue)
 | C | Y(ellow) | G(reen) | R(ed) | B(lue)
 | Co | Y(ellow) | G(reen) | R(ed) | B(lue)
 | P | S(titch) | P(oisen) | M(agic) | A(ir)
+
+If a building does not make a damage on any damageclasses \<pi> could be "empty".<br>
+If a building / hero does a damage on multiple damageclasses \<pi> be concatenated or only the "first" can be used.
 
 ### Concrete naming conventions
 
@@ -51,7 +52,7 @@ The syntax of the patterns is as following:
 | Graphic | \<b>\<pk>\_\<name>\_\<level>\[_\<num>]\<ext> | bP_10_1.ani | building / hero graphic for classic pixelart package named "10" suggested for stage 1 
 | Graphic | \<w>\<pk>\_\<name>\[_\<num>]\<ext> | wC_star.ani | weapon graphic for colored package named "star"
 | Graphic | \<name>\<ext> | castle.jpg | arbiture texture named "castle" (e.g. for background image creation)
-| Opponent name | \<pk>\<dc>\<name>\[_\<num>] | C_B_Blue | Colored graphic set, damage class "B", name "Blue"
-| Building name | \<pk>\<dc>\<name>\[_\<num>] | C_G_Canon | Colored graphic set, damage class "G", name "Canon"
-| Hero name | \<pk>\<name>\[_\<num>] | Co_Knight | Comic graphic set, name "Knight"
+| Opponent name | \<pk>\_\<dc>\_\<name>\[_\<num>] | C_B_Blue | Colored graphic set, damage class "B", name "Blue"
+| Building name | \<pk>\_\<dc>\_\<name>\[_\<num>] | C_G_Canon | Colored graphic set, damage class "G", name "Canon"
+| Hero name | \<pk>\_\<name>\[_\<num>] | Co_Knight | Comic graphic set, name "Knight"
 | Map name | \<name>[_\<num>] | Castle | Map "Castle"

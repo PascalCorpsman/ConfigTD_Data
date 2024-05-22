@@ -123,25 +123,25 @@ count=0
 
 [buyables]
 count=7
-filename0=Green.geb
+filename0=C_G_Green.geb
 count0=0
 wave0=0
-filename1=Yellow.geb
+filename1=C_Y_Yellow.geb
 count1=0
 wave1=1
-filename2=Blue.geb
+filename2=C_B_Blue.geb
 count2=0
 wave2=2
-filename3=Red.geb
+filename3=C_R_Red.geb
 count3=0
 wave3=3
-filename4=Fence2.geb
+filename4=C__Fence2.geb
 count4=0
 wave4=4
-filename5=Fence1.geb
+filename5=C__Fence1.geb
 count5=0
 wave5=4
-filename6=Colored.geb
+filename6=C_YGRB_Colored.geb
 count6=0
 wave6=4
 

@@ -70,22 +70,22 @@ count=0
 
 [buyables]
 count=6
-filename0=StitchTower.geb
+filename0=P_S_StitchTower.geb
 count0=0
 wave0=0
-filename1=Splashtower.geb
+filename1=P_S_Splashtower.geb
 count1=0
 wave1=0
-filename2=Airtower.geb
+filename2=P_A_Airtower.geb
 count2=0
 wave2=0
-filename3=MagicTower.geb
+filename3=P_M_MagicTower.geb
 count3=0
 wave3=3
-filename4=PoisonTower.geb
+filename4=P_P_PoisonTower.geb
 count4=0
 wave4=2
-filename5=Traptower.geb
+filename5=P_SPM_Traptower.geb
 count5=0
 wave5=2
 

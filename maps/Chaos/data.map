@@ -70,25 +70,25 @@ count=0
 
 [buyables]
 count=7
-filename0=Hecke1.geb
+filename0=P__Hecke1.geb
 count0=0
 wave0=0
-filename1=Hecke2.geb
+filename1=P__Hecke2.geb
 count1=0
 wave1=0
-filename2=StitchTower.geb
+filename2=P_S_StitchTower.geb
 count2=0
 wave2=0
-filename3=Splashtower.geb
+filename3=P_S_Splashtower.geb
 count3=0
 wave3=1
-filename4=Airtower.geb
+filename4=P_A_Airtower.geb
 count4=0
 wave4=2
-filename5=PoisonTower.geb
+filename5=P_P_PoisonTower.geb
 count5=0
 wave5=3
-filename6=Slowtower.geb
+filename6=P__Slowtower.geb
 count6=0
 wave6=1
 

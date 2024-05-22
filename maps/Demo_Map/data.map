@@ -92,11 +92,11 @@ count=0
 
 [buyables]
 count=2
-filename0=Yellow.geb
+filename0=C_Y_Yellow.geb
 count0=0
 wave0=0
 kind0=building
-filename1=Green.geb
+filename1=C_G_Green.geb
 count1=0
 wave1=1
 kind1=building

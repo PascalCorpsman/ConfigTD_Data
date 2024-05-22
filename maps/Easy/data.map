@@ -70,28 +70,28 @@ count=0
 
 [buyables]
 count=8
-filename0=Yellow.geb
+filename0=C_Y_Yellow.geb
 count0=0
 wave0=0
-filename1=Blue.geb
+filename1=C_B_Blue.geb
 count1=0
 wave1=0
-filename2=Green.geb
+filename2=C_G_Green.geb
 count2=0
 wave2=0
-filename3=Red.geb
+filename3=C_R_Red.geb
 count3=0
 wave3=0
-filename4=Slowtower2.geb
+filename4=C__Slowtower2.geb
 count4=0
 wave4=1
-filename5=Colored.geb
+filename5=C_YGRB_Colored.geb
 count5=0
 wave5=4
-filename6=Banktower2.geb
+filename6=C__Banktower2.geb
 count6=4
 wave6=1
-filename7=Splashtower2.geb
+filename7=C_S_Splashtower2.geb
 count7=0
 wave7=1
 
