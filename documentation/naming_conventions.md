@@ -48,11 +48,11 @@ The syntax of the patterns is as following:
 
 |  Usecase | Pattern| example |  Description |
 | --- | --- | --- | --- |
-| Graphic | \<o>\<pk>\_\<name>\_\<level>\[_\<num>]\<ext> | oC_B_1.ani | opponent graphic for colored package named "B" suggested for level 1 opponents
-| Graphic | \<b>\<pk>\_\<name>\_\<level>\[_\<num>]\<ext> | bP_10_1.ani | building / hero graphic for classic pixelart package named "10" suggested for stage 1 
-| Graphic | \<w>\<pk>\_\<name>\[_\<num>]\<ext> | wC_star.ani | weapon graphic for colored package named "star"
+| Graphic | \<o>\<pi>\_\<name>\_\<level>\[_\<num>]\<ext> | oC_B_1.ani | opponent graphic for colored package named "B" suggested for level 1 opponents
+| Graphic | \<b>\<pi>\_\<name>\_\<level>\[_\<num>]\<ext> | bP_10_1.ani | building / hero graphic for classic pixelart package named "10" suggested for stage 1 
+| Graphic | \<w>\<pi>\_\<name>\[_\<num>]\<ext> | wC_star.ani | weapon graphic for colored package named "star"
 | Graphic | \<name>\<ext> | castle.jpg | arbiture texture named "castle" (e.g. for background image creation)
-| Opponent name | \<pk>\_\<dc>\_\<name>\[_\<num>] | C_B_Blue | Colored graphic set, damage class "B", name "Blue"
-| Building name | \<pk>\_\<dc>\_\<name>\[_\<num>] | C_G_Canon | Colored graphic set, damage class "G", name "Canon"
-| Hero name | \<pk>\_\<name>\[_\<num>] | Co_Knight | Comic graphic set, name "Knight"
+| Opponent name | \<pi>\_\<dc>\_\<name>\[_\<num>] | C_B_Blue | Colored graphic set, damage class "B", name "Blue"
+| Building name | \<pi>\_\<dc>\_\<name>\[_\<num>] | C_G_Canon | Colored graphic set, damage class "G", name "Canon"
+| Hero name | \<pi>\_\<name>\[_\<num>] | Co_Knight | Comic graphic set, name "Knight"
 | Map name | \<name>[_\<num>] | Castle | Map "Castle"
