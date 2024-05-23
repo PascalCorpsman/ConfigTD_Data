@@ -8,7 +8,7 @@ All file names (except *.map files) are build from "shortcut" patterns, as follo
 
 | Shortcut | Description |
 | --- | --- |
-| o | opponents
+| u | units (can be used for opponents / heros)
 | b | buildings
 | w | weapons
 | dc | damage class (see table damage per package identifier)
@@ -30,16 +30,17 @@ All file names (except *.map files) are build from "shortcut" patterns, as follo
 
 | \<pi> | Damage class 1 | Damage class 2 | Damage class 3 | Damage class 4 |
 | --- | --- | --- | --- | --- |
-| C | Y(ellow) | G(reen) | R(ed) | B(lue)
-| Co | Y(ellow) | G(reen) | R(ed) | B(lue)
-| P | S(titch) | P(oisen) | M(agic) | A(ir)
+| C | Y(ellow) ![](../graphics/damage_classes/colored/dc1.png) | G(reen) ![](../graphics/damage_classes/colored/dc2.png)| R(ed) ![](../graphics/damage_classes/colored/dc3.png) | B(lue) ![](../graphics/damage_classes/colored/dc4.png)
+| Co | Y(ellow) ![](../graphics/damage_classes/comic/dc1.png) | G(reen) ![](../graphics/damage_classes/comic/dc2.png)| R(ed) ![](../graphics/damage_classes/comic/dc3.png) | B(lue) ![](../graphics/damage_classes/comic/dc4.png)
+| P | S(titch) ![](../graphics/damage_classes/classic_pixelart/dc1.png) | P(oisen) ![](../graphics/damage_classes/classic_pixelart/dc2.png)| M(agic) ![](../graphics/damage_classes/classic_pixelart/dc3.png)| A(ir) ![](../graphics/damage_classes/classic_pixelart/dc4.png)
 
-If a building does not make a damage on any damageclasses \<pi> could be "empty".<br>
-If a building / hero does a damage on multiple damageclasses \<pi> be concatenated or only the "first" can be used.
+If a building does not make a damage on any damageclasses \<dc> could be "empty".<br>
+If a building / hero does a damage on multiple damageclasses \<dc> can be concatenated or only the "first" can be used.
 
 ### Concrete naming conventions
 
-The following namings shall be used when creating filenames. Do not use space in filenames instead use the underline char "_"
+The following naming conventions shall be used when creating filenames:
+- Do not use "space" in filenames / folders instead use the underline char "_"
 
 The syntax of the patterns is as following:
 
@@ -48,8 +49,8 @@ The syntax of the patterns is as following:
 
 |  Usecase | Pattern| example |  Description |
 | --- | --- | --- | --- |
-| Graphic | \<o>\<pi>\_\<name>\_\<level>\[_\<num>]\<ext> | oC_B_1.ani | opponent graphic for colored package named "B" suggested for level 1 opponents
-| Graphic | \<b>\<pi>\_\<name>\_\<level>\[_\<num>]\<ext> | bP_10_1.ani | building / hero graphic for classic pixelart package named "10" suggested for stage 1 
+| Graphic | \<o>\<pi>\_\<name>\_\<level>\[_\<num>]\<ext> | uC_B_1.ani | opponent / hero graphic for colored package named "B" suggested for level 1
+| Graphic | \<b>\<pi>\_\<name>\_\<level>\[_\<num>]\<ext> | bP_10_1.ani | building graphic for classic pixelart package named "10" suggested for stage 1 
 | Graphic | \<w>\<pi>\_\<name>\[_\<num>]\<ext> | wC_star.ani | weapon graphic for colored package named "star"
 | Graphic | \<name>\<ext> | castle.jpg | arbiture texture named "castle" (e.g. for background image creation)
 | Opponent name | \<pi>\_\<dc>\_\<name>\[_\<num>] | C_B_Blue | Colored graphic set, damage class "B", name "Blue"
