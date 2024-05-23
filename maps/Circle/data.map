@@ -2,16 +2,16 @@
 size=35x38
 description=12 Waves
 background=backtex.jpg
+dc1=dc1.png
+dc2=dc2.png
+dc3=dc3.png
+dc4=dc4.png
 maxplayer=1
 lives0=10
 lives1=5
 lives2=1
 type=0
 waves=12
-dc1=dc1.png
-dc2=dc2.png
-dc3=dc3.png
-dc4=dc4.png
 
 [data]
 row0=22222222222222222222222222111111222
@@ -52,18 +52,12 @@ row34=22222222222211111111111112222222222
 row35=22222222222222221111122222222222222
 row36=22222222222222222222222222222222222
 row37=22222222222222222222222222222222222
-row38=33333333333333333333333333333333333333333333333333
-row39=33333333333333333333333333333333333333333333333333
-row40=33333333333333333333333333333333333333333333333333
-row41=33333333333333333333333333333333333333333333333333
-row42=33333333333333333333333333333333333333333333333333
-row43=33333333333333333333333333333333333333333333333333
-row44=33333333333333333333333333333333333333333333333333
-row45=33333333333333333333333333333333333333333333333333
-row46=33333333333333333333333333333333333333333333333333
-row47=33333333333333333333333333333333333333333333333333
-row48=33333333333333333333333333333333333333333333333333
-row49=33333333333333333333333333333333333333333333333333
+
+[waypoint0]
+count=3
+pos0=29x0
+pos1=16x17
+pos2=34x31
 
 [placements]
 count=0
@@ -73,27 +67,27 @@ count=6
 filename0=P_S_StitchTower.geb
 count0=0
 wave0=0
+kind0=building
 filename1=P_S_Splashtower.geb
 count1=0
 wave1=0
+kind1=building
 filename2=P_A_Airtower.geb
 count2=0
 wave2=0
+kind2=building
 filename3=P_M_MagicTower.geb
 count3=0
 wave3=3
+kind3=building
 filename4=P_P_PoisonTower.geb
 count4=0
 wave4=2
+kind4=building
 filename5=P_SPM_Traptower.geb
 count5=0
 wave5=2
-
-[waypoint0]
-count=3
-pos0=29x0
-pos1=16x17
-pos2=34x31
+kind5=building
 
 [wave0]
 cashonstart=25
@@ -177,12 +171,6 @@ opponent_refund0=1
 unitsperspawn0=1
 spawndelay0=2500
 spawndelta0=1500
-opponent_filename1=P_S_Tank3.opp
-opponent_count1=50
-opponent_refund1=1
-unitsperspawn1=1
-spawndelay1=2500
-spawndelta1=1000
 
 [wave7]
 cashonstart=0
@@ -251,33 +239,10 @@ unitsperspawn0=1
 spawndelay0=2500
 spawndelta0=8000
 
+[HighScore]
+PlayerCats=0
+Hash=0
+
 [Rating]
 Count=0
 Sum=0
-
-[HighScore]
-PlayerCats=1
-PlayerCat0=1
-PlayerCat0Count=3
-PlayerCat0_0Name=Corpsman
-PlayerCat0_0Time=2022.01.14 14:27:32
-PlayerCat0_0Points=3259
-PlayerCat0_0Duration=783
-PlayerCat0_0Rounds=4
-PlayerCat0_0Difficulty=1
-PlayerCat0_0LivesLost=5
-PlayerCat0_1Name=Corpsman
-PlayerCat0_1Time=2022.01.14 14:29:04
-PlayerCat0_1Points=3144
-PlayerCat0_1Duration=899
-PlayerCat0_1Rounds=4
-PlayerCat0_1Difficulty=1
-PlayerCat0_1LivesLost=5
-PlayerCat0_2Name=Corpsman
-PlayerCat0_2Time=2022.01.14 14:39:45
-PlayerCat0_2Points=4565
-PlayerCat0_2Duration=1667
-PlayerCat0_2Rounds=12
-PlayerCat0_2Difficulty=0
-PlayerCat0_2LivesLost=10
-Hash=859384923
