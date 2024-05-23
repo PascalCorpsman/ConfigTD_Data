@@ -54,7 +54,7 @@ buildtime=5000
 
 [stage2]
 size=2x4
-image=bP_b12_3.bmp
+image=bP_b12_4.bmp
 description=
 cost=220
 reloadtime=3500
