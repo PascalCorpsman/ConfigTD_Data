@@ -2,7 +2,7 @@
 name=Blue
 size=2x2
 stagecount=4
-image=bBlue_S1.bmp
+image=bC_Blue_1.bmp
 category=
 refund0=100
 refund1=80
@@ -10,14 +10,14 @@ refund2=50
 
 [stage0]
 size=2x2
-image=bBlue_S1.bmp
+image=bC_Blue_1.bmp
 description=
 cost=10
 reloadtime=3500
 range=6
 earn=0
 bulletspeed=15
-bulletimage=wbullet_blue.bmp
+bulletimage=wC_bullet_blue.bmp
 bulletsplashradius=0
 bulletsize=0.80x0.80
 bulletexitpoint=1.00x1.00
@@ -32,14 +32,14 @@ buildtime=500
 
 [stage1]
 size=2x2
-image=bBlue_S2.bmp
+image=bC_Blue_2.bmp
 description=
 cost=17
 reloadtime=3500
 range=8
 earn=0
 bulletspeed=20
-bulletimage=wbullet_blue.bmp
+bulletimage=wC_bullet_blue.bmp
 bulletsplashradius=0
 bulletsize=0.80x0.80
 bulletexitpoint=1.00x1.00
@@ -54,14 +54,14 @@ buildtime=1500
 
 [stage2]
 size=2x2
-image=bBlue_S3.bmp
+image=bC_Blue_3.bmp
 description=
 cost=30
 reloadtime=3000
 range=10
 earn=0
 bulletspeed=25
-bulletimage=wbullet_blue.bmp
+bulletimage=wC_bullet_blue.bmp
 bulletsplashradius=0
 bulletsize=0.80x0.80
 bulletexitpoint=1.00x1.00
@@ -76,14 +76,14 @@ buildtime=2500
 
 [stage3]
 size=2x2
-image=bBlue_S4.ani
+image=bC_Blue_4.ani
 description=
 cost=50
 reloadtime=3000
 range=10
 earn=0
 bulletspeed=30
-bulletimage=wbullet_blue.bmp
+bulletimage=wC_bullet_blue.bmp
 bulletsplashradius=0
 bulletsize=0.80x0.80
 bulletexitpoint=1.00x1.00

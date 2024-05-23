@@ -2,7 +2,7 @@
 name=Slowtower2
 size=2x2
 stagecount=4
-image=bfrost_S1.bmp
+image=bC_frost_1.bmp
 category=
 refund0=100
 refund1=80
@@ -10,14 +10,14 @@ refund2=50
 
 [stage0]
 size=2x2
-image=bfrost_S1.bmp
+image=bC_frost_1.bmp
 description=30% slowdown for 4s
 cost=10
 reloadtime=1500
 range=5
 earn=0
 bulletspeed=10
-bulletimage=wbullet_blue.bmp
+bulletimage=wC_bullet_blue.bmp
 bulletsplashradius=0
 bulletsize=0.80x0.80
 bulletexitpoint=1.00x1.00
@@ -32,14 +32,14 @@ buildtime=150
 
 [stage1]
 size=2x2
-image=bfrost_S2.bmp
+image=bC_frost_2.bmp
 description=50% slowdown for 4s
 cost=25
 reloadtime=2000
 range=5
 earn=0
 bulletspeed=10
-bulletimage=wbullet_blue.bmp
+bulletimage=wC_bullet_blue.bmp
 bulletsplashradius=0
 bulletsize=0.80x0.80
 bulletexitpoint=1.00x1.00
@@ -54,14 +54,14 @@ buildtime=150
 
 [stage2]
 size=2x2
-image=bfrost_S3.bmp
+image=bC_frost_3.bmp
 description=20% permanent slowdown
 cost=50
 reloadtime=2500
 range=6
 earn=0
 bulletspeed=15
-bulletimage=wbullet_blue2.bmp
+bulletimage=wC_bullet_blue_2.bmp
 bulletsplashradius=0
 bulletsize=0.80x0.80
 bulletexitpoint=1.00x1.00
@@ -76,14 +76,14 @@ buildtime=150
 
 [stage3]
 size=2x2
-image=bfrost_S4.ani
+image=bC_frost_4.ani
 description=50% permanent slowdown
 cost=100
 reloadtime=2500
 range=6
 earn=0
 bulletspeed=15
-bulletimage=wbullet_blue2.bmp
+bulletimage=wC_bullet_blue_2.bmp
 bulletsplashradius=0
 bulletsize=0.80x0.80
 bulletexitpoint=1.00x1.00

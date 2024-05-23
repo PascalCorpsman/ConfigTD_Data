@@ -2,7 +2,7 @@
 name=Yellow
 size=2x2
 stagecount=4
-image=bYellow_S1.bmp
+image=bC_Yellow_1.bmp
 category=
 refund0=100
 refund1=80
@@ -10,14 +10,14 @@ refund2=50
 
 [stage0]
 size=2x2
-image=bYellow_S1.bmp
+image=bC_Yellow_1.bmp
 description=
 cost=10
 reloadtime=2500
 range=5
 earn=0
 bulletspeed=10
-bulletimage=wbullet_yellow.png
+bulletimage=wC_bullet_yellow.png
 bulletsplashradius=0
 bulletsize=0.80x0.80
 bulletexitpoint=1.00x1.00
@@ -32,14 +32,14 @@ buildtime=500
 
 [stage1]
 size=2x2
-image=bYellow_S2.bmp
+image=bC_Yellow_2.bmp
 description=
 cost=18
 reloadtime=2250
 range=5.5
 earn=0
 bulletspeed=10
-bulletimage=wbullet_yellow.png
+bulletimage=wC_bullet_yellow.png
 bulletsplashradius=0
 bulletsize=0.80x0.80
 bulletexitpoint=1.00x1.00
@@ -54,14 +54,14 @@ buildtime=1500
 
 [stage2]
 size=2x2
-image=bYellow_S3.bmp
+image=bC_Yellow_3.bmp
 description=
 cost=33
 reloadtime=2000
 range=6
 earn=0
 bulletspeed=15
-bulletimage=wbullet_yellow.png
+bulletimage=wC_bullet_yellow.png
 bulletsplashradius=0
 bulletsize=0.80x0.80
 bulletexitpoint=1.00x1.00
@@ -76,14 +76,14 @@ buildtime=2500
 
 [stage3]
 size=2x2
-image=bYellow_S4.ani
+image=bC_Yellow_4.ani
 description=
 cost=60
 reloadtime=2300
 range=7
 earn=0
 bulletspeed=15
-bulletimage=wbullet_yellow.png
+bulletimage=wC_bullet_yellow.png
 bulletsplashradius=0
 bulletsize=0.80x0.80
 bulletexitpoint=1.00x1.00

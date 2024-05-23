@@ -11,8 +11,8 @@ All file names (except *.map files) are build from "shortcut" patterns, as follo
 | u | units (can be used for opponents / heros)
 | b | buildings
 | w | weapons
-| dc | damage class (see table damage per package identifier)
 | pi | package identifier (see package identifier list)
+| dc | damage class (see table damage per package identifier)
 | level | number that can stand for a level 
 | name | a arbiture name of a "thing"
 | num | number that can stand for a arbiture number
@@ -49,7 +49,7 @@ The syntax of the patterns is as following:
 
 |  Usecase | Pattern| example |  Description |
 | --- | --- | --- | --- |
-| Graphic | \<o>\<pi>\_\<name>\_\<level>\[_\<num>]\<ext> | uC_B_1.ani | opponent / hero graphic for colored package named "B" suggested for level 1
+| Graphic | \<u>\<pi>\_\<name>\_\<level>\[_\<num>]\<ext> | uC_B_1.ani | opponent / hero graphic for colored package named "B" suggested for level 1
 | Graphic | \<b>\<pi>\_\<name>\_\<level>\[_\<num>]\<ext> | bP_10_1.ani | building graphic for classic pixelart package named "10" suggested for stage 1 
 | Graphic | \<w>\<pi>\_\<name>\[_\<num>]\<ext> | wC_star.ani | weapon graphic for colored package named "star"
 | Graphic | \<name>\<ext> | castle.jpg | arbiture texture named "castle" (e.g. for background image creation)

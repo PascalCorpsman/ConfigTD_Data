@@ -2,7 +2,7 @@
 name=Colortower
 size=2x2
 stagecount=3
-image=bColored_S1.bmp
+image=bC_Colored_1.bmp
 category=
 refund0=100
 refund1=80
@@ -10,14 +10,14 @@ refund2=50
 
 [stage0]
 size=2x2
-image=bColored_S1.bmp
+image=bC_Colored_1.bmp
 description=
 cost=50
 reloadtime=3000
 range=5
 earn=0
 bulletspeed=10
-bulletimage=wbullet_white.bmp
+bulletimage=wC_bullet_white.bmp
 bulletsplashradius=0
 bulletsize=0.80x0.80
 bulletexitpoint=1.00x1.00
@@ -32,14 +32,14 @@ buildtime=3000
 
 [stage1]
 size=2x2
-image=bColored_S2.bmp
+image=bC_Colored_2.bmp
 description=
 cost=150
 reloadtime=4000
 range=6
 earn=0
 bulletspeed=15
-bulletimage=wbullet_white.bmp
+bulletimage=wC_bullet_white.bmp
 bulletsplashradius=0
 bulletsize=0.80x0.80
 bulletexitpoint=1.00x1.00
@@ -54,14 +54,14 @@ buildtime=5000
 
 [stage2]
 size=2x2
-image=bColored_S3.ani
+image=bC_Colored_3.ani
 description=
 cost=220
 reloadtime=3500
 range=7
 earn=0
 bulletspeed=15
-bulletimage=wbullet_white.bmp
+bulletimage=wC_bullet_white.bmp
 bulletsplashradius=0
 bulletsize=0.80x0.80
 bulletexitpoint=1.00x1.00

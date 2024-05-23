@@ -2,7 +2,7 @@
 name=Splashtower2
 size=2x2
 stagecount=2
-image=bsplash_s1.bmp
+image=bC_splash_1.bmp
 category=
 refund0=100
 refund1=80
@@ -10,14 +10,14 @@ refund2=50
 
 [stage0]
 size=2x2
-image=bsplash_s1.bmp
+image=bC_splash_1.bmp
 description=
 cost=15
 reloadtime=4000
 range=5
 earn=0
 bulletspeed=10
-bulletimage=wkugel.bmp
+bulletimage=wP_kugel.bmp
 bulletsplashradius=4
 bulletsize=0.80x0.80
 bulletexitpoint=1.00x1.00
@@ -32,14 +32,14 @@ buildtime=500
 
 [stage1]
 size=2x2
-image=bsplash_s2.ani
+image=bC_splash_2.ani
 description=
 cost=50
 reloadtime=3000
 range=7.5
 earn=0
 bulletspeed=10
-bulletimage=wlandmine.png
+bulletimage=wP_landmine.png
 bulletsplashradius=5
 bulletsize=1.60x1.60
 bulletexitpoint=1.00x1.00

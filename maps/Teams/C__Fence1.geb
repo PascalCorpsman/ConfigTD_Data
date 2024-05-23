@@ -2,7 +2,7 @@
 name=Large Fence
 size=2x2
 stagecount=1
-image=fence.png
+image=bC_fence_1.png
 category=
 refund0=100
 refund1=80
@@ -10,7 +10,7 @@ refund2=50
 
 [stage0]
 size=2x2
-image=fence.png
+image=bC_fence_1.png
 description=
 cost=2
 reloadtime=2500

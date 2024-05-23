@@ -2,7 +2,7 @@
 name=Banktower
 size=2x2
 stagecount=3
-image=bbank_S1.bmp
+image=bC_bank_1.bmp
 category=
 refund0=100
 refund1=80
@@ -10,14 +10,14 @@ refund2=50
 
 [stage0]
 size=2x2
-image=bbank_S1.bmp
+image=bC_bank_1.bmp
 description=
 cost=50
 reloadtime=2500
 range=5
 earn=1
 bulletspeed=10
-bulletimage=wbullet_yellow.png
+bulletimage=wC_bullet_yellow.png
 bulletsplashradius=0
 bulletsize=0.80x0.80
 bulletexitpoint=1.00x1.00
@@ -32,14 +32,14 @@ buildtime=8000
 
 [stage1]
 size=2x2
-image=bbank_S2.ani
+image=bC_bank_2.ani
 description=
 cost=150
 reloadtime=2000
 range=5
 earn=2
 bulletspeed=10
-bulletimage=wbullet_yellow.png
+bulletimage=wC_bullet_yellow.png
 bulletsplashradius=0
 bulletsize=0.80x0.80
 bulletexitpoint=1.00x1.00
@@ -54,14 +54,14 @@ buildtime=10000
 
 [stage2]
 size=2x2
-image=bbank_S3.ani
+image=bC_bank_3.ani
 description=
 cost=500
 reloadtime=2000
 range=5
 earn=5
 bulletspeed=10
-bulletimage=wbullet_yellow.png
+bulletimage=wC_bullet_yellow.png
 bulletsplashradius=0
 bulletsize=0.80x0.80
 bulletexitpoint=1.00x1.00
