@@ -2,7 +2,7 @@
 name=Hecke2
 size=2x2
 stagecount=1
-image=b11stage0.bmp
+image=bP_b11_1.png
 category=
 refund0=100
 refund1=80
@@ -10,14 +10,14 @@ refund2=50
 
 [stage0]
 size=2x2
-image=b11stage0.bmp
+image=bP_b11_1.png
 description=
 cost=1
 reloadtime=0
 range=0
 earn=0
 bulletspeed=0
-bulletimage=b11stage0.bmp
+bulletimage=bP_b11_1.png
 bulletsplashradius=0
 bulletsize=2.00x2.00
 bulletexitpoint=1.00x1.00

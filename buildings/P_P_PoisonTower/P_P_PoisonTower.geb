@@ -2,7 +2,7 @@
 name=Poisontower
 size=2x2
 stagecount=4
-image=b7stage0.png
+image=bP_b7_1.png
 category=
 refund0=100
 refund1=80
@@ -10,7 +10,7 @@ refund2=50
 
 [stage0]
 size=2x3
-image=b7stage0.png
+image=bP_b7_1.png
 description=
 cost=15
 reloadtime=2500
@@ -32,7 +32,7 @@ buildtime=750
 
 [stage1]
 size=2x3
-image=b7stage1.png
+image=bP_b7_2.png
 description=
 cost=20
 reloadtime=2250
@@ -54,14 +54,14 @@ buildtime=1500
 
 [stage2]
 size=2x3
-image=b7stage2.png
+image=bP_b7_3.png
 description=
 cost=30
 reloadtime=2000
 range=5
 earn=0
 bulletspeed=15
-bulletimage=wgreen_glibber.bmp
+bulletimage=wP_green_glibber.bmp
 bulletsplashradius=0
 bulletsize=2.00x1.00
 bulletexitpoint=0.80x2.20
@@ -76,14 +76,14 @@ buildtime=2000
 
 [stage3]
 size=2x3
-image=b7stage3.png
+image=bP_b7_4.png
 description=
 cost=50
 reloadtime=2300
 range=6
 earn=0
 bulletspeed=15
-bulletimage=wgreen_glibber.bmp
+bulletimage=wP_green_glibber.bmp
 bulletsplashradius=0
 bulletsize=2.00x1.00
 bulletexitpoint=0.80x2.10

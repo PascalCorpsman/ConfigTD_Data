@@ -2,7 +2,7 @@
 name=Traptower
 size=3x3
 stagecount=4
-image=b8stage0.png
+image=bP_b8_1.png
 category=
 refund0=100
 refund1=80
@@ -10,14 +10,14 @@ refund2=50
 
 [stage0]
 size=3x3
-image=b8stage0.png
+image=bP_b8_1.png
 description=
 cost=20
 reloadtime=4000
 range=4
 earn=0
 bulletspeed=-10
-bulletimage=wnail.png
+bulletimage=wP_nail.png
 bulletsplashradius=1
 bulletsize=1.00x0.50
 bulletexitpoint=1.50x1.50
@@ -32,14 +32,14 @@ buildtime=250
 
 [stage1]
 size=3x3
-image=b8stage1.png
+image=bP_b8_2.png
 description=
 cost=40
 reloadtime=3750
 range=5
 earn=0
 bulletspeed=-10
-bulletimage=wnails.png
+bulletimage=wP_nails.png
 bulletsplashradius=1.5
 bulletsize=1.40x1.30
 bulletexitpoint=1.50x1.50
@@ -54,14 +54,14 @@ buildtime=500
 
 [stage2]
 size=3x3
-image=b8stage2.png
+image=bP_b8_3.png
 description=
 cost=80
 reloadtime=3500
 range=5.5
 earn=0
 bulletspeed=-10
-bulletimage=wnailss.png
+bulletimage=wP_nailss.png
 bulletsplashradius=1.5
 bulletsize=1.50x1.60
 bulletexitpoint=1.50x1.50
@@ -76,14 +76,14 @@ buildtime=1500
 
 [stage3]
 size=3x3
-image=b8stage3.png
+image=bP_b8_4.png
 description=
 cost=150
 reloadtime=3000
 range=6
 earn=0
 bulletspeed=-10
-bulletimage=wshurice.png
+bulletimage=wP_shurice.png
 bulletsplashradius=2
 bulletsize=1.50x1.90
 bulletexitpoint=1.50x1.50

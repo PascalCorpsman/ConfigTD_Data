@@ -2,7 +2,7 @@
 name=Slowtower
 size=2x2
 stagecount=4
-image=b3icon.bmp
+image=bP_b3icon.bmp
 category=
 refund0=100
 refund1=80
@@ -10,7 +10,7 @@ refund2=50
 
 [stage0]
 size=2x3
-image=b3stage0.bmp
+image=bP_b3_1.bmp
 description=30% slowdown for 4s
 cost=10
 reloadtime=1500
@@ -32,7 +32,7 @@ buildtime=150
 
 [stage1]
 size=2x3
-image=b3stage1.bmp
+image=bP_b3_2.bmp
 description=50% slowdown for 4s
 cost=25
 reloadtime=2000
@@ -54,14 +54,14 @@ buildtime=150
 
 [stage2]
 size=2x3
-image=b3stage2.bmp
+image=bP_b3_3.bmp
 description=20% permanent slowdown
 cost=50
 reloadtime=2500
 range=6
 earn=0
 bulletspeed=15
-bulletimage=wblue_glibber.bmp
+bulletimage=wP_blue_glibber.bmp
 bulletsplashradius=0
 bulletsize=2.00x1.00
 bulletexitpoint=1.00x2.25
@@ -76,14 +76,14 @@ buildtime=150
 
 [stage3]
 size=2x3
-image=b3stage3.bmp
+image=bP_b3_4.bmp
 description=50% permanent slowdown
 cost=100
 reloadtime=2500
 range=6
 earn=0
 bulletspeed=15
-bulletimage=wblue_glibber.bmp
+bulletimage=wP_blue_glibber.bmp
 bulletsplashradius=0
 bulletsize=2.00x1.00
 bulletexitpoint=1.00x2.25

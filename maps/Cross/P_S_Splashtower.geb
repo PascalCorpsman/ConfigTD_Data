@@ -2,7 +2,7 @@
 name=Splashtower
 size=2x2
 stagecount=2
-image=b6icon.bmp
+image=bP_b6icon.bmp
 category=
 refund0=100
 refund1=80
@@ -10,7 +10,7 @@ refund2=50
 
 [stage0]
 size=2x3
-image=b6stage0.bmp
+image=bP_b6_1.bmp
 description=
 cost=15
 reloadtime=4000
@@ -32,7 +32,7 @@ buildtime=500
 
 [stage1]
 size=2x3
-image=b6stage1.bmp
+image=bP_b6_2.bmp
 description=
 cost=50
 reloadtime=3000
