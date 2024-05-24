@@ -59,18 +59,23 @@ count=5
 filename0=C_Y_Yellow.geb
 count0=0
 wave0=0
+kind0=building
 filename1=C_G_Green.geb
 count1=0
 wave1=1
+kind1=building
 filename2=C_R_Red.geb
 count2=0
 wave2=2
+kind2=building
 filename3=C_B_Blue.geb
 count3=0
 wave3=3
+kind3=building
 filename4=C__Slowtower2.geb
 count4=0
 wave4=4
+kind4=building
 
 [wave0]
 cashonstart=25
@@ -372,18 +377,9 @@ spawndelay3=5000
 spawndelta3=1030
 
 [HighScore]
-PlayerCats=1
-PlayerCat0=1
-PlayerCat0Count=1
-PlayerCat0_0Name=Corpsman
-PlayerCat0_0Time=2022.01.18 18:10:54
-PlayerCat0_0Points=13304
-PlayerCat0_0Duration=620
-PlayerCat0_0Rounds=13
-PlayerCat0_0Difficulty=1
-PlayerCat0_0LivesLost=1
-Hash=859505894
+PlayerCats=0
+Hash=0
 
 [Rating]
-Count=1
-Sum=5
+Count=0
+Sum=0

@@ -149,21 +149,27 @@ count=6
 filename0=C_B_Blue.geb
 count0=0
 wave0=0
+kind0=building
 filename1=C_G_Green.geb
 count1=0
 wave1=0
+kind1=building
 filename2=C_R_Red.geb
 count2=0
 wave2=0
+kind2=building
 filename3=C_Y_Yellow.geb
 count3=0
 wave3=0
+kind3=building
 filename4=C__Fence2.geb
 count4=0
 wave4=2
+kind4=building
 filename5=C__Fence1.geb
 count5=0
 wave5=2
+kind5=building
 
 [wave0]
 cashonstart=50

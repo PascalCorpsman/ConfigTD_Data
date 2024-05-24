@@ -2,16 +2,16 @@
 size=58x52
 description=14 Waves
 background=backtex.jpg
+dc1=dc1.png
+dc2=dc2.png
+dc3=dc3.png
+dc4=dc4.png
 maxplayer=2
 lives0=10
 lives1=5
 lives2=1
 type=1
 waves=14
-dc1=dc1.png
-dc2=dc2.png
-dc3=dc3.png
-dc4=dc4.png
 
 [data]
 row0=2222222222222222222222221112222111222222222222222222222222
@@ -67,27 +67,6 @@ row49=2222222222222222222222221111111111222222222222222222222222
 row50=2222222222222222222222222222222222222222222222222222222222
 row51=2222222222222222222222222222222222222222222222222222222222
 
-[placements]
-count=0
-
-[buyables]
-count=5
-filename0=P_S_StitchTower.geb
-count0=0
-wave0=0
-filename1=P_A_Airtower.geb
-count1=0
-wave1=0
-filename2=P_S_Splashtower.geb
-count2=0
-wave2=0
-filename3=P_P_PoisonTower.geb
-count3=0
-wave3=2
-filename4=P_M_MagicTower.geb
-count4=0
-wave4=3
-
 [waypoint0]
 count=13
 pos0=25x0
@@ -119,6 +98,32 @@ pos9=3x22
 pos10=14x18
 pos11=25x9
 pos12=25x0
+
+[placements]
+count=0
+
+[buyables]
+count=5
+filename0=P_S_StitchTower.geb
+count0=0
+wave0=0
+kind0=building
+filename1=P_A_Airtower.geb
+count1=0
+wave1=0
+kind1=building
+filename2=P_S_Splashtower.geb
+count2=0
+wave2=0
+kind2=building
+filename3=P_P_PoisonTower.geb
+count3=0
+wave3=2
+kind3=building
+filename4=P_M_MagicTower.geb
+count4=0
+wave4=3
+kind4=building
 
 [wave0]
 cashonstart=25
@@ -364,10 +369,10 @@ unitsperspawn3=40
 spawndelay3=82500
 spawndelta3=4000
 
-[Rating]
-Count=0
-Sum=0
-
 [HighScore]
 PlayerCats=0
 Hash=0
+
+[Rating]
+Count=0
+Sum=0

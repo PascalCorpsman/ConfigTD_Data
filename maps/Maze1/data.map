@@ -591,17 +591,8 @@ spawndelay5=3000
 spawndelta5=1030
 
 [HighScore]
-PlayerCats=1
-PlayerCat0=3
-PlayerCat0Count=1
-PlayerCat0_0Name=Corpsman, Decipator, Dirk
-PlayerCat0_0Time=2023.05.28 23:21:30
-PlayerCat0_0Points=85832
-PlayerCat0_0Duration=1833
-PlayerCat0_0Rounds=18
-PlayerCat0_0Difficulty=0
-PlayerCat0_0LivesLost=24
-Hash=1796369158
+PlayerCats=0
+Hash=0
 
 [Rating]
 Count=0

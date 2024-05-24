@@ -126,24 +126,31 @@ count=7
 filename0=C_G_Green.geb
 count0=0
 wave0=0
+kind0=building
 filename1=C_Y_Yellow.geb
 count1=0
 wave1=1
+kind1=building
 filename2=C_B_Blue.geb
 count2=0
 wave2=2
+kind2=building
 filename3=C_R_Red.geb
 count3=0
 wave3=3
+kind3=building
 filename4=C__Fence2.geb
 count4=0
 wave4=4
+kind4=building
 filename5=C__Fence1.geb
 count5=0
 wave5=4
+kind5=building
 filename6=C_YGRB_Colored.geb
 count6=0
 wave6=4
+kind6=building
 
 [wave0]
 cashonstart=75
@@ -810,31 +817,8 @@ spawndelay5=4000
 spawndelta5=1090
 
 [HighScore]
-PlayerCats=1
-PlayerCat0=4
-PlayerCat0Count=3
-PlayerCat0_0Name=Corpsman, Decipator, Michael, Yannick
-PlayerCat0_0Time=2022.04.23 00:07:59
-PlayerCat0_0Points=211517
-PlayerCat0_0Duration=2060
-PlayerCat0_0Rounds=20
-PlayerCat0_0Difficulty=1
-PlayerCat0_0LivesLost=20
-PlayerCat0_1Name=Corpsman, Decipator, Michael, Yannick
-PlayerCat0_1Time=2022.04.23 00:10:38
-PlayerCat0_1Points=199281
-PlayerCat0_1Duration=2043
-PlayerCat0_1Rounds=20
-PlayerCat0_1Difficulty=1
-PlayerCat0_1LivesLost=20
-PlayerCat0_2Name=Corpsman, Decipator, Michael, Yannick
-PlayerCat0_2Time=2022.04.23 00:13:27
-PlayerCat0_2Points=194483
-PlayerCat0_2Duration=2037
-PlayerCat0_2Rounds=20
-PlayerCat0_2Difficulty=1
-PlayerCat0_2LivesLost=19
-Hash=390584249
+PlayerCats=0
+Hash=0
 
 [Rating]
 Count=0

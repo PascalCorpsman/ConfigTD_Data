@@ -95,24 +95,31 @@ count=7
 filename0=C_B_Blue.geb
 count0=0
 wave0=0
+kind0=building
 filename1=C_YGRB_Colored.geb
 count1=0
 wave1=0
+kind1=building
 filename2=C_G_Green.geb
 count2=0
 wave2=0
+kind2=building
 filename3=C_R_Red.geb
 count3=0
 wave3=0
+kind3=building
 filename4=C_Y_Yellow.geb
 count4=0
 wave4=0
+kind4=building
 filename5=C__Fence1.geb
 count5=0
 wave5=0
+kind5=building
 filename6=C__Fence2.geb
 count6=0
 wave6=0
+kind6=building
 
 [wave0]
 cashonstart=100
@@ -393,17 +400,8 @@ spawndelay4=3000
 spawndelta4=1500
 
 [HighScore]
-PlayerCats=1
-PlayerCat0=5
-PlayerCat0Count=1
-PlayerCat0_0Name=Corpsman, Deci, Hactar, Leonard, Yannick
-PlayerCat0_0Time=2022.07.29 20:15:57
-PlayerCat0_0Points=12671
-PlayerCat0_0Duration=474
-PlayerCat0_0Rounds=10
-PlayerCat0_0Difficulty=1
-PlayerCat0_0LivesLost=21
-Hash=1712552396
+PlayerCats=0
+Hash=0
 
 [Rating]
 Count=0

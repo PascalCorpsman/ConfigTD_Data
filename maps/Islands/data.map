@@ -444,17 +444,8 @@ spawndelay2=4000
 spawndelta2=10000
 
 [HighScore]
-PlayerCats=1
-PlayerCat0=1
-PlayerCat0Count=1
-PlayerCat0_0Name=Corpsman
-PlayerCat0_0Time=2023.01.24 08:51:34
-PlayerCat0_0Points=13139
-PlayerCat0_0Duration=629
-PlayerCat0_0Rounds=12
-PlayerCat0_0Difficulty=1
-PlayerCat0_0LivesLost=4
-Hash=859770451
+PlayerCats=0
+Hash=0
 
 [Rating]
 Count=0
