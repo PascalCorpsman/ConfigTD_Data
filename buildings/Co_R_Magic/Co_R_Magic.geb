@@ -2,7 +2,7 @@
 name=C_Magic
 size=2x2
 stagecount=4
-image=bMagic_S1.png
+image=bCo_Magic_1.png
 category=
 refund0=100
 refund1=80
@@ -10,7 +10,7 @@ refund2=50
 
 [stage0]
 size=2x4
-image=bMagic_S1.png
+image=bCo_Magic_1.png
 description=
 cost=25
 reloadtime=2500
@@ -32,7 +32,7 @@ buildtime=500
 
 [stage1]
 size=2x4
-image=bMagic_S2.png
+image=bCo_Magic_2.png
 description=
 cost=35
 reloadtime=2250
@@ -54,7 +54,7 @@ buildtime=2000
 
 [stage2]
 size=2x4
-image=bMagic_S3.png
+image=bCo_Magic_3.png
 description=
 cost=60
 reloadtime=2000
@@ -76,7 +76,7 @@ buildtime=2000
 
 [stage3]
 size=2x4
-image=bMagic_S4.png
+image=bCo_Magic_4.png
 description=
 cost=90
 reloadtime=2300

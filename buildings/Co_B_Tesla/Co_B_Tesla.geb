@@ -2,7 +2,7 @@
 name=C_Tesla
 size=2x2
 stagecount=4
-image=bStar_S1.png
+image=bCo_Star_1.png
 category=
 refund0=100
 refund1=80
@@ -10,7 +10,7 @@ refund2=50
 
 [stage0]
 size=2x4
-image=bStar_S1.png
+image=bCo_Star_1.png
 description=
 cost=10
 reloadtime=3500
@@ -32,7 +32,7 @@ buildtime=500
 
 [stage1]
 size=2x4
-image=bTesla_S1.png
+image=bCo_Tesla_1.png
 description=
 cost=17
 reloadtime=3500
@@ -54,7 +54,7 @@ buildtime=1500
 
 [stage2]
 size=2x4
-image=bTesla_S2.png
+image=bCo_Tesla_2.png
 description=
 cost=30
 reloadtime=3000
@@ -76,7 +76,7 @@ buildtime=2500
 
 [stage3]
 size=2x4
-image=bTesla_S3.png
+image=bCo_Tesla_3.png
 description=
 cost=50
 reloadtime=3000

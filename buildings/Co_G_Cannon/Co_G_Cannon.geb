@@ -2,7 +2,7 @@
 name=C_Cannon
 size=2x2
 stagecount=4
-image=bCanon_S1.png
+image=bCo_Cannon_1.png
 category=
 refund0=100
 refund1=80
@@ -10,7 +10,7 @@ refund2=50
 
 [stage0]
 size=2x4
-image=bCanon_S1.png
+image=bCo_Cannon_1.png
 description=
 cost=15
 reloadtime=2500
@@ -32,7 +32,7 @@ buildtime=750
 
 [stage1]
 size=2x4
-image=bCanon_S2.png
+image=bCo_Cannon_2.png
 description=
 cost=20
 reloadtime=2250
@@ -54,7 +54,7 @@ buildtime=1500
 
 [stage2]
 size=2x4
-image=bCanon_S3.png
+image=bCo_Cannon_3.png
 description=
 cost=30
 reloadtime=2000
@@ -76,7 +76,7 @@ buildtime=2000
 
 [stage3]
 size=2x4
-image=bCanon_S4.png
+image=bCo_Cannon_4.png
 description=
 cost=50
 reloadtime=2300

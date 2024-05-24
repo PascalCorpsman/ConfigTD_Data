@@ -13,9 +13,8 @@ All file names (except *.map files) are build from "shortcut" patterns, as follo
 | w | weapons
 | pi | package identifier (see package identifier list)
 | dc | damage class (see table damage per package identifier)
-| level | number that can stand for a level 
+| level | number that can stand for a level (in case of opponents also "Bonus", "Boss" allowed) 
 | name | a arbiture name of a "thing"
-| num | number that can stand for a arbiture number
 | ext | file extension (.opp, .geb, .hero, .map, .bmp, .png, .jpg, .ani)
 
 ### List of already existing package identifiers
@@ -49,11 +48,11 @@ The syntax of the patterns is as following:
 
 |  Usecase | Pattern| example |  Description |
 | --- | --- | --- | --- |
-| Graphic | \<u>\<pi>\_\<name>\_\<level>\[_\<num>]\<ext> | uC_B_1.ani | opponent / hero graphic for colored package named "B" suggested for level 1
-| Graphic | \<b>\<pi>\_\<name>\_\<level>\[_\<num>]\<ext> | bP_10_1.ani | building graphic for classic pixelart package named "10" suggested for stage 1 
-| Graphic | \<w>\<pi>\_\<name>\[_\<num>]\<ext> | wC_star.ani | weapon graphic for colored package named "star"
+| Graphic | \<u>\<pi>\_\<name>\[\_\<level>]\<ext> | uC_B_1.ani | opponent / hero graphic for colored package named "B" suggested for level 1
+| Graphic | \<b>\<pi>\_\<name>\[\_\<level>]\<ext> | bP_10_1.ani | building graphic for classic pixelart package named "10" suggested for stage 1 
+| Graphic | \<w>\<pi>\_\<name>\[_\<level>]\<ext> | wC_star.ani | weapon graphic for colored package named "star"
 | Graphic | \<name>\<ext> | castle.jpg | arbiture texture named "castle" (e.g. for background image creation)
-| Opponent name | \<pi>\_\<dc>\_\<name>\[_\<num>] | C_B_Blue | Colored graphic set, damage class "B", name "Blue"
-| Building name | \<pi>\_\<dc>\_\<name>\[_\<num>] | C_G_Canon | Colored graphic set, damage class "G", name "Canon"
-| Hero name | \<pi>\_\<name>\[_\<num>] | Co_Knight | Comic graphic set, name "Knight"
-| Map name | \<name>[_\<num>] | Castle | Map "Castle"
+| Opponent name | \<pi>\_\<dc>\_\<name>\[_\<level>] | C_B_Blue | Colored graphic set, damage class "B", name "Blue"
+| Building name | \<pi>\_\<dc>\_\<name> | C_G_Canon | Colored graphic set, damage class "G", name "Canon"
+| Hero name | \<pi>\_\<name> | Co_Knight | Comic graphic set, name "Knight"
+| Map name | \<name> | Castle | Map "Castle"

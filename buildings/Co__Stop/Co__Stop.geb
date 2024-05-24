@@ -2,7 +2,7 @@
 name=C_Stop
 size=2x2
 stagecount=1
-image=bStop.png
+image=bCo_Stop.png
 category=
 refund0=100
 refund1=80
@@ -10,14 +10,14 @@ refund2=50
 
 [stage0]
 size=2x2
-image=bStop.png
+image=bCo_Stop.png
 description=
 cost=1
 reloadtime=0
 range=0
 earn=0
 bulletspeed=0
-bulletimage=bStop.png
+bulletimage=bCo_Stop.png
 bulletsplashradius=0
 bulletsize=2.00x2.00
 bulletexitpoint=1.00x1.00
