@@ -1,7 +1,7 @@
 [map]
 size=62x62
 description=
-background=C_G_Green.jpg
+background=green.jpg
 dc1=dc1.png
 dc2=dc2.png
 dc3=dc3.png
