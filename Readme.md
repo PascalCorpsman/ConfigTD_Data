@@ -46,6 +46,7 @@ This repository holds lots of images that are not only created by the owner, fol
 Charactes:
 * https://jetrotal.github.io/EasyChar/
 * https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/
+* https://elvgames.itch.io/free-fantasy-dreamland-sprites
   
 Maps:
 * https://openai.com/dall-e-3
