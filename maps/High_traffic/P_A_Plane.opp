@@ -1,5 +1,5 @@
 [opponent]
-name=Plain
+name=Plane
 description=
 lifepoints0=0
 lifepoints1=0
@@ -10,7 +10,7 @@ lifefactor1=1
 lifefactor2=1.5
 speed=6
 size=2.70x2.50
-image=uP_plain.png
+image=uP_Plane.png
 canfly=1
 boss=0
 bonus=0
