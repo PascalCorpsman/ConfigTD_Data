@@ -37,7 +37,8 @@ The project always needs
 
 - The Project language is english
 - All content you contribute need to be free and compatible to the projects [license](license.md)
-- before contributing it is essential to read and follow the [naming conventions](documentation/naming_conventions.md)
+- Before contributing it is essential to read and follow the [naming conventions](documentation/naming_conventions.md)
+- Also it could be helpfull to read the [general game informations](documentation/general_game_informations.md)
 
 ## External sources
 
