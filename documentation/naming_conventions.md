@@ -23,6 +23,7 @@ All file names (except *.map files) are build from "shortcut" patterns, as follo
 | C | colored graphic pack
 | CC | reserved, do not use this identifier
 | Co | comic graphic pack
+| M | MiniTD
 | P | classic pixelart graphic pack
 
 ### List of damage classes per package identifier
@@ -31,6 +32,7 @@ All file names (except *.map files) are build from "shortcut" patterns, as follo
 | --- | --- | --- | --- | --- |
 | C | Y(ellow) ![](../graphics/damage_classes/colored/dc1.png) | G(reen) ![](../graphics/damage_classes/colored/dc2.png)| R(ed) ![](../graphics/damage_classes/colored/dc3.png) | B(lue) ![](../graphics/damage_classes/colored/dc4.png)
 | Co | Y(ellow) ![](../graphics/damage_classes/comic/dc1.png) | G(reen) ![](../graphics/damage_classes/comic/dc2.png)| R(ed) ![](../graphics/damage_classes/comic/dc3.png) | B(lue) ![](../graphics/damage_classes/comic/dc4.png)
+| M | | | | 
 | P | S(titch) ![](../graphics/damage_classes/classic_pixelart/dc1.png) | P(oisen) ![](../graphics/damage_classes/classic_pixelart/dc2.png)| M(agic) ![](../graphics/damage_classes/classic_pixelart/dc3.png)| A(ir) ![](../graphics/damage_classes/classic_pixelart/dc4.png)
 
 If a building does not make a damage on any damageclasses \<dc> could be "empty".<br>
