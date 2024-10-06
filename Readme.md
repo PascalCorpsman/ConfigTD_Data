@@ -52,6 +52,7 @@ Charactes:
 Maps:
 * https://openai.com/dall-e-3
 * https://dicegrimorium.com/free-rpg-map-library/
+* https://deepai.org/machine-learning-model/text2img
 
 Towers:
 * https://opengameart.org/content/stone-tower-defense-game-art
