@@ -56,7 +56,10 @@ To get the best results you should choose the map dimensions twice as big as the
 
 Follow then the [Mapguide](https://github.com/PascalCorpsman/ConfigTD/blob/main/documentation/mapguide.md) step 4 to create the walkable, buildable and "None" areas (do not use the feature walkable and buildable). When creating the map background texture step 6 use the following settings:
 
-  1. \- 4. Load the textures you created above, the "Walkable+Buildable" texture can be ignored.
+  1. Load the "None" image
+  2. Load the "Walkable" image
+  3. Load the "Buildable" image
+  4. Load any graphik you want, it will be ignored anyway
   5. To get best results use "Upscale" with 40
   6. and set "Smoothing" to 0
   7. Click "Create texture"
