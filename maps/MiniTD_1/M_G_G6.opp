@@ -1,0 +1,17 @@
+[opponent]
+name=Balloon White
+description=
+lifepoints0=0
+lifepoints1=1500
+lifepoints2=0
+lifepoints3=0
+lifefactor0=0.5
+lifefactor1=1
+lifefactor2=1.5
+speed=2
+size=1.50x1.50
+image=uM_G_6.png
+canfly=0
+boss=1
+bonus=0
+imagerotation=0
