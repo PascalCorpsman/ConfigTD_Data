@@ -101,7 +101,7 @@ spawndelay0=2500
 spawndelta0=1000
 
 [wave1]
-cashonstart=0
+cashonstart=15
 opponents=2
 hint=
 opponent_filename0=P_S_Car.opp
@@ -112,35 +112,35 @@ spawndelay0=2500
 spawndelta0=1000
 opponent_filename1=P_S_Tank3.opp
 opponent_count1=2
-opponent_refund1=1
+opponent_refund1=5
 unitsperspawn1=1
 spawndelay1=2500
 spawndelta1=10000
 
 [wave2]
-cashonstart=0
+cashonstart=10
 opponents=1
 hint=
 opponent_filename0=P_S_Tank3.opp
 opponent_count0=10
-opponent_refund0=1
+opponent_refund0=5
 unitsperspawn0=1
 spawndelay0=2500
 spawndelta0=1000
 
 [wave3]
-cashonstart=0
+cashonstart=15
 opponents=1
 hint=
 opponent_filename0=P_P_Mouse.opp
 opponent_count0=10
-opponent_refund0=1
+opponent_refund0=3
 unitsperspawn0=1
 spawndelay0=500
 spawndelta0=1000
 
 [wave4]
-cashonstart=0
+cashonstart=10
 opponents=1
 hint=
 opponent_filename0=P_S_Bug.opp
@@ -151,29 +151,29 @@ spawndelay0=2500
 spawndelta0=500
 
 [wave5]
-cashonstart=0
+cashonstart=10
 opponents=1
 hint=
 opponent_filename0=P_A_Bird.opp
 opponent_count0=2
-opponent_refund0=1
+opponent_refund0=2
 unitsperspawn0=1
 spawndelay0=2500
 spawndelta0=3000
 
 [wave6]
-cashonstart=0
+cashonstart=25
 opponents=1
 hint=
 opponent_filename0=P_P_Opponent1.opp
 opponent_count0=10
-opponent_refund0=1
+opponent_refund0=4
 unitsperspawn0=1
 spawndelay0=2500
 spawndelta0=1500
 
 [wave7]
-cashonstart=0
+cashonstart=10
 opponents=1
 hint=
 opponent_filename0=P_M_Balloon_Blue.opp
@@ -184,40 +184,40 @@ spawndelay0=2500
 spawndelta0=1000
 
 [wave8]
-cashonstart=0
+cashonstart=15
 opponents=2
 hint=
 opponent_filename0=P_P_Tank1.opp
 opponent_count0=6
-opponent_refund0=1
+opponent_refund0=7
 unitsperspawn0=1
 spawndelay0=2500
 spawndelta0=1000
 opponent_filename1=P_S_Panzer.opp
 opponent_count1=3
-opponent_refund1=1
+opponent_refund1=10
 unitsperspawn1=1
 spawndelay1=2500
 spawndelta1=1000
 
 [wave9]
-cashonstart=0
+cashonstart=10
 opponents=1
 hint=
 opponent_filename0=P_A_Starfighter.opp
 opponent_count0=3
-opponent_refund0=1
+opponent_refund0=3
 unitsperspawn0=1
 spawndelay0=2500
 spawndelta0=4000
 
 [wave10]
-cashonstart=0
+cashonstart=10
 opponents=2
 hint=
 opponent_filename0=P_S_Tank5.opp
 opponent_count0=1
-opponent_refund0=1
+opponent_refund0=50
 unitsperspawn0=1
 spawndelay0=2500
 spawndelta0=1000
@@ -229,15 +229,15 @@ spawndelay1=500
 spawndelta1=250
 
 [wave11]
-cashonstart=0
+cashonstart=15
 opponents=1
 hint=
 opponent_filename0=P_P_Sheep.opp
 opponent_count0=10
 opponent_refund0=2
 unitsperspawn0=1
-spawndelay0=2500
-spawndelta0=8000
+spawndelay0=8000
+spawndelta0=4000
 
 [HighScore]
 PlayerCats=0
