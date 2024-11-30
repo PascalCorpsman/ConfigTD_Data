@@ -1,6 +1,6 @@
 [map]
 size=22x14
-description=
+description=Work in progress 5 Waves
 background=Background.png
 dc1=dc1.png
 dc2=dc2.png
@@ -146,7 +146,7 @@ spawndelta3=1000
 [HighScore]
 PlayerCats=1
 PlayerCat0=1
-PlayerCat0Count=1
+PlayerCat0Count=2
 PlayerCat0_0Name=Corpsman
 PlayerCat0_0Time=2024.11.03 11:39:11
 PlayerCat0_0Points=6253
@@ -154,7 +154,14 @@ PlayerCat0_0Duration=136
 PlayerCat0_0Rounds=5
 PlayerCat0_0Difficulty=1
 PlayerCat0_0LivesLost=2
-Hash=892937105
+PlayerCat0_1Name=Corpsman
+PlayerCat0_1Time=2024.11.30 09:53:36
+PlayerCat0_1Points=6235
+PlayerCat0_1Duration=134
+PlayerCat0_1Rounds=5
+PlayerCat0_1Difficulty=1
+PlayerCat0_1LivesLost=2
+Hash=17170740
 
 [Rating]
 Count=0
