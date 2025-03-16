@@ -2,16 +2,16 @@
 size=70x70
 description=
 background=backtex.jpg
+dc1=dc1.png
+dc2=dc2.png
+dc3=dc3.png
+dc4=dc4.png
 maxplayer=8
 lives0=10
 lives1=5
 lives2=1
 type=1
 waves=0
-dc1=dc1.png
-dc2=dc2.png
-dc3=dc3.png
-dc4=dc4.png
 
 [data]
 row0=2222222222222222222222222222222222222222222222222222222222222222222222
@@ -85,12 +85,6 @@ row67=2222211111111111122111111221111112222111111221111112211111111111122222
 row68=2222211111222222222222222222222222222222222222222222222222221111122222
 row69=2222222222222222222222222222222222222222222222222222222222222222222222
 
-[placements]
-count=0
-
-[buyables]
-count=0
-
 [waypoint0]
 count=2
 pos0=6x2
@@ -131,5 +125,16 @@ count=2
 pos0=2x6
 pos1=34x34
 
+[placements]
+count=0
+
+[buyables]
+count=0
+
 [HighScore]
 PlayerCats=0
+Hash=0
+
+[Rating]
+Count=0
+Sum=0
