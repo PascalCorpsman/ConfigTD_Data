@@ -2630,6 +2630,12 @@
       "Size":188
     },
     {
+      "Name":"graphics\/units\/comic\/uCo_Yellow1.ani",
+      "HASH":"5086c370236395abc8d315245b379287",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Yellow1.ani",
+      "Size":64912
+    },
+    {
       "Name":"graphics\/units\/comic\/uCo_Easy_B6.ani",
       "HASH":"9e6a3cb0e496200acbb933d7978c5672",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Easy_B6.ani",
@@ -2658,6 +2664,18 @@
       "HASH":"c4f2c186bf65053f93d31d03cb734a4f",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Easy2_B3.ani",
       "Size":64912
+    },
+    {
+      "Name":"graphics\/units\/comic\/uCo_Red4.ani",
+      "HASH":"15a306e0db46a583110da743a6b68042",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Red4.ani",
+      "Size":322960
+    },
+    {
+      "Name":"graphics\/units\/comic\/uCo_Black5.ani",
+      "HASH":"8b8c095bc88a0a8ed0aa03c8ab5cf155",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Black5.ani",
+      "Size":322960
     },
     {
       "Name":"graphics\/units\/comic\/uCo_Easy_B5.ani",
@@ -2786,6 +2804,18 @@
       "Size":9358
     },
     {
+      "Name":"graphics\/units\/comic\/uCo_Blue5.ani",
+      "HASH":"6f610ac210463d9ede6a37b0c043eb59",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Blue5.ani",
+      "Size":322960
+    },
+    {
+      "Name":"graphics\/units\/comic\/uCo_Red3.ani",
+      "HASH":"044ba0a70fadc618bd68c36b4eadff42",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Red3.ani",
+      "Size":322960
+    },
+    {
       "Name":"graphics\/units\/comic\/uCo_Easy2_G6.ani",
       "HASH":"e8788b7f5992b6e7a62ed96effe30630",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Easy2_G6.ani",
@@ -2808,6 +2838,12 @@
       "HASH":"3a73d7e07453df3ec795556895c0a6fb",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Easy2_G1.ani",
       "Size":64912
+    },
+    {
+      "Name":"graphics\/units\/comic\/uCo_Black4.ani",
+      "HASH":"18eaf60487ed41f898e45ab6bd01b89a",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Black4.ani",
+      "Size":322960
     },
     {
       "Name":"graphics\/units\/comic\/uCo_Dragon.ani",
@@ -2858,6 +2894,12 @@
       "Size":885136
     },
     {
+      "Name":"graphics\/units\/comic\/uCo_Red2.ani",
+      "HASH":"4fad8144251fe1dcbe1e24627fa89e3e",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Red2.ani",
+      "Size":322960
+    },
+    {
       "Name":"graphics\/units\/comic\/uCo_Easy_R5_3.ani",
       "HASH":"d5f2f7681796f67edb378b66b9a19826",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Easy_R5_3.ani",
@@ -2879,6 +2921,12 @@
       "Name":"graphics\/units\/comic\/uCo_Easy_R4_3.ani",
       "HASH":"2298cb194df912b76a71fd95a322b15d",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Easy_R4_3.ani",
+      "Size":64912
+    },
+    {
+      "Name":"graphics\/units\/comic\/uCo_Blue1.ani",
+      "HASH":"b8dda3b22b040f54ba25ac67e8bfd9e6",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Blue1.ani",
       "Size":64912
     },
     {
@@ -2930,6 +2978,12 @@
       "Size":64912
     },
     {
+      "Name":"graphics\/units\/comic\/uCo_Green4.ani",
+      "HASH":"2df62f7ff3bdf6271161e0b4e26f3891",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Green4.ani",
+      "Size":322960
+    },
+    {
       "Name":"graphics\/units\/comic\/uCo_Easy_B2.ani",
       "HASH":"5ba5e16a1c5875ed15e435840f2cf892",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Easy_B2.ani",
@@ -2957,6 +3011,12 @@
       "Name":"graphics\/units\/comic\/uCo_Easy_Gr3_2.ani",
       "HASH":"99877016cd00347eb50ea00fe02de694",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Easy_Gr3_2.ani",
+      "Size":64912
+    },
+    {
+      "Name":"graphics\/units\/comic\/uCo_Gray1.ani",
+      "HASH":"0cd0fc98ddb014b692054ae51435790e",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Gray1.ani",
       "Size":64912
     },
     {
@@ -3128,6 +3188,12 @@
       "Size":9358
     },
     {
+      "Name":"graphics\/units\/comic\/uCo_Red5.ani",
+      "HASH":"b9d758bd699557febaf75440b9a52cea",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Red5.ani",
+      "Size":322960
+    },
+    {
       "Name":"graphics\/units\/comic\/uCo_Robot3.ani",
       "HASH":"44dbf33f6f47d916a3480f32553dfbbc",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Robot3.ani",
@@ -3198,6 +3264,12 @@
       "HASH":"d0ed7f65bbdd6166048a505a9d6e183e",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Jerry.ani",
       "Size":1742440
+    },
+    {
+      "Name":"graphics\/units\/comic\/uCo_Red1.ani",
+      "HASH":"cd8a288c1892bf527276d15c45d62c10",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Red1.ani",
+      "Size":64912
     },
     {
       "Name":"graphics\/units\/comic\/uCo_Yoda.ani",
@@ -3302,6 +3374,12 @@
       "Size":64912
     },
     {
+      "Name":"graphics\/units\/comic\/uCo_Black1.ani",
+      "HASH":"9afe71540f6cd135432a88f83075362e",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Black1.ani",
+      "Size":64912
+    },
+    {
       "Name":"graphics\/units\/comic\/uCo_Knight_2.ani",
       "HASH":"611c91b591461b8a41e54c80da8fd198",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Knight_2.ani",
@@ -3390,6 +3468,12 @@
       "HASH":"eb73d6b8a0818a8590a12661f749cd4d",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Easy2_Gr6.ani",
       "Size":64912
+    },
+    {
+      "Name":"graphics\/units\/comic\/uCo_Green5.ani",
+      "HASH":"5fa73491a6efbb3ecaebe5b712900430",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/comic\/uCo_Green5.ani",
+      "Size":322960
     },
     {
       "Name":"graphics\/units\/comic\/uCo_Fox.ani",
@@ -4116,6 +4200,12 @@
       "HASH":"29e684efb9f53e6a434baf39aebc91b6",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/maps\/9_player_spiral.png",
       "Size":1276
+    },
+    {
+      "Name":"graphics\/weapons\/comic\/wCo_Lavaball.ani",
+      "HASH":"259257fa50495630b43e58ecfa987590",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/weapons\/comic\/wCo_Lavaball.ani",
+      "Size":172228
     },
     {
       "Name":"graphics\/weapons\/minitd\/wM_Blue_1.bmp",
@@ -16442,6 +16532,30 @@
       "Size":1254
     },
     {
+      "Name":"opponents\/Co_R_Tiny\/Co_R_Tiny.opp",
+      "HASH":"bbae2a61323bf1227f336ecaa387e8d8",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_R_Tiny\/Co_R_Tiny.opp",
+      "Size":224
+    },
+    {
+      "Name":"opponents\/Co_R_Tiny\/uCo_Black1.ani",
+      "HASH":"9afe71540f6cd135432a88f83075362e",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_R_Tiny\/uCo_Black1.ani",
+      "Size":64912
+    },
+    {
+      "Name":"opponents\/Co_R_Bigger\/uCo_Red3.ani",
+      "HASH":"044ba0a70fadc618bd68c36b4eadff42",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_R_Bigger\/uCo_Red3.ani",
+      "Size":322960
+    },
+    {
+      "Name":"opponents\/Co_R_Bigger\/Co_R_Bigger.opp",
+      "HASH":"7c2f52b26b74be2a296efd29a8c8c254",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_R_Bigger\/Co_R_Bigger.opp",
+      "Size":228
+    },
+    {
       "Name":"opponents\/C_B_B2\/uC_Blue_2.ani",
       "HASH":"829b3e58e1b68c06a695a3497047b9b4",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/C_B_B2\/uC_Blue_2.ani",
@@ -16742,6 +16856,18 @@
       "Size":67380
     },
     {
+      "Name":"opponents\/Co_Y_Tiny3\/uCo_Yellow1.ani",
+      "HASH":"5086c370236395abc8d315245b379287",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_Y_Tiny3\/uCo_Yellow1.ani",
+      "Size":64912
+    },
+    {
+      "Name":"opponents\/Co_Y_Tiny3\/Co_Y_Tiny3.opp",
+      "HASH":"29734f7f139cf0446077f55be1c89966",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_Y_Tiny3\/Co_Y_Tiny3.opp",
+      "Size":223
+    },
+    {
       "Name":"opponents\/P_M_Balloon_Yellow\/P_M_Balloon_Yellow.opp",
       "HASH":"2999c7a24cb64d7c3066ed0c52a681a7",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/P_M_Balloon_Yellow\/P_M_Balloon_Yellow.opp",
@@ -16812,6 +16938,18 @@
       "HASH":"8fbd806831b515e9e1399ec8efe7dc5b",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_Y_Y5\/uM_Y_5.png",
       "Size":99
+    },
+    {
+      "Name":"opponents\/Co_G_Big2\/Co_G_Big2.opp",
+      "HASH":"c14bc123f3c685b0e21f7f62910bee26",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_G_Big2\/Co_G_Big2.opp",
+      "Size":232
+    },
+    {
+      "Name":"opponents\/Co_G_Big2\/uCo_Green5.ani",
+      "HASH":"5fa73491a6efbb3ecaebe5b712900430",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_G_Big2\/uCo_Green5.ani",
+      "Size":322960
     },
     {
       "Name":"opponents\/C_Y_Ge3\/C_Y_Ge3.opp",
@@ -16898,6 +17036,18 @@
       "Size":248
     },
     {
+      "Name":"opponents\/Co_G_Big\/uCo_Blue5.ani",
+      "HASH":"6f610ac210463d9ede6a37b0c043eb59",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_G_Big\/uCo_Blue5.ani",
+      "Size":322960
+    },
+    {
+      "Name":"opponents\/Co_G_Big\/Co_G_Big.opp",
+      "HASH":"70a561bc946dd91cf8777891a2ef3362",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_G_Big\/Co_G_Big.opp",
+      "Size":232
+    },
+    {
       "Name":"opponents\/C_B_B3\/uC_Blue_3.ani",
       "HASH":"41059af91b5eef53d367e2c4974a6be3",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/C_B_B3\/uC_Blue_3.ani",
@@ -16908,6 +17058,18 @@
       "HASH":"2bc28b33a9e47e210d86c2677d6a5d77",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/C_B_B3\/C_B_B3.opp",
       "Size":235
+    },
+    {
+      "Name":"opponents\/Co_Y_Tiny2\/uCo_Red1.ani",
+      "HASH":"cd8a288c1892bf527276d15c45d62c10",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_Y_Tiny2\/uCo_Red1.ani",
+      "Size":64912
+    },
+    {
+      "Name":"opponents\/Co_Y_Tiny2\/Co_Y_Tiny2.opp",
+      "HASH":"695ee0562197dcfcb95363b3151d1673",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_Y_Tiny2\/Co_Y_Tiny2.opp",
+      "Size":220
     },
     {
       "Name":"opponents\/C_Y_Ge2\/uC_Yellow_2.bmp",
@@ -17004,6 +17166,18 @@
       "HASH":"73322f44510cfe30411501c28cffba9d",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/C_R_R2\/C_R_R2.opp",
       "Size":236
+    },
+    {
+      "Name":"opponents\/Co_R_Bigger_2\/Co_R_Bigger_2.opp",
+      "HASH":"fc817547715e04f26d7bb9e44eee3062",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_R_Bigger_2\/Co_R_Bigger_2.opp",
+      "Size":229
+    },
+    {
+      "Name":"opponents\/Co_R_Bigger_2\/uCo_Red5.ani",
+      "HASH":"b9d758bd699557febaf75440b9a52cea",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_R_Bigger_2\/uCo_Red5.ani",
+      "Size":322960
     },
     {
       "Name":"opponents\/P_A_Hubi\/P_A_Hubi.opp",
@@ -17114,6 +17288,18 @@
       "Size":9358
     },
     {
+      "Name":"opponents\/Co_G_Men\/Co_G_Men.opp",
+      "HASH":"4ee8847e4ce51abe308913470d1fdb79",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_G_Men\/Co_G_Men.opp",
+      "Size":226
+    },
+    {
+      "Name":"opponents\/Co_G_Men\/uCo_Green4.ani",
+      "HASH":"2df62f7ff3bdf6271161e0b4e26f3891",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_G_Men\/uCo_Green4.ani",
+      "Size":322960
+    },
+    {
       "Name":"opponents\/P_M_Herz\/P_M_Herz.opp",
       "HASH":"e313efb97fbf4aaefe08f524438f028c",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/P_M_Herz\/P_M_Herz.opp",
@@ -17162,6 +17348,18 @@
       "Size":146
     },
     {
+      "Name":"opponents\/Co_B_Eye2\/Co_B_Eye2.opp",
+      "HASH":"1f6019e4bcdbb42d564953eab24b78d1",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_B_Eye2\/Co_B_Eye2.opp",
+      "Size":226
+    },
+    {
+      "Name":"opponents\/Co_B_Eye2\/uCo_Black4.ani",
+      "HASH":"18eaf60487ed41f898e45ab6bd01b89a",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_B_Eye2\/uCo_Black4.ani",
+      "Size":322960
+    },
+    {
       "Name":"opponents\/Co_B_FlyRobot\/Co_B_FlyRobot.opp",
       "HASH":"8ea525605b20448e38b2adb3b5dd8a26",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_B_FlyRobot\/Co_B_FlyRobot.opp",
@@ -17184,6 +17382,18 @@
       "HASH":"2c382dc29bd724af91a965d3d645f16e",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_R_PigWizzard3\/uCo_PigWizzard3_4.ani",
       "Size":885136
+    },
+    {
+      "Name":"opponents\/Co_G_Tiny\/Co_G_Tiny.opp",
+      "HASH":"ae23b0d675dcb3d7f0e3e7c036d3ba33",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_G_Tiny\/Co_G_Tiny.opp",
+      "Size":224
+    },
+    {
+      "Name":"opponents\/Co_G_Tiny\/uCo_Blue1.ani",
+      "HASH":"b8dda3b22b040f54ba25ac67e8bfd9e6",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_G_Tiny\/uCo_Blue1.ani",
+      "Size":64912
     },
     {
       "Name":"opponents\/M_B_B5\/uM_B_5.png",
@@ -17270,6 +17480,18 @@
       "Size":3126
     },
     {
+      "Name":"opponents\/Co_R_Big\/uCo_Black5.ani",
+      "HASH":"8b8c095bc88a0a8ed0aa03c8ab5cf155",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_R_Big\/uCo_Black5.ani",
+      "Size":322960
+    },
+    {
+      "Name":"opponents\/Co_R_Big\/Co_R_Big.opp",
+      "HASH":"36cd345cd41402792e6ba718e784a87c",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_R_Big\/Co_R_Big.opp",
+      "Size":230
+    },
+    {
       "Name":"opponents\/C_G_Gr4\/C_G_Gr4.opp",
       "HASH":"2f90b5a0ef01be53fd3ea4a029591914",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/C_G_Gr4\/C_G_Gr4.opp",
@@ -17282,6 +17504,18 @@
       "Size":1254
     },
     {
+      "Name":"opponents\/Co_R_Middle\/uCo_Red2.ani",
+      "HASH":"4fad8144251fe1dcbe1e24627fa89e3e",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_R_Middle\/uCo_Red2.ani",
+      "Size":322960
+    },
+    {
+      "Name":"opponents\/Co_R_Middle\/Co_R_Middle.opp",
+      "HASH":"07e9f327332a58b530a4ee550e667ef7",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_R_Middle\/Co_R_Middle.opp",
+      "Size":230
+    },
+    {
       "Name":"opponents\/M_B_B1\/M_B_B1.opp",
       "HASH":"d9da6e21320ad96ef9e9e735170d7175",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_B_B1\/M_B_B1.opp",
@@ -17292,6 +17526,18 @@
       "HASH":"66a0733ba4888627aa271e26e16a030c",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_B_B1\/uM_B_1.png",
       "Size":75
+    },
+    {
+      "Name":"opponents\/Co_Y_Tiny\/Co_Y_Tiny.opp",
+      "HASH":"5f685a73dcffc50389d7fab8360ecaa5",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_Y_Tiny\/Co_Y_Tiny.opp",
+      "Size":221
+    },
+    {
+      "Name":"opponents\/Co_Y_Tiny\/uCo_Gray1.ani",
+      "HASH":"0cd0fc98ddb014b692054ae51435790e",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_Y_Tiny\/uCo_Gray1.ani",
+      "Size":64912
     },
     {
       "Name":"opponents\/P_M_Tank6\/P_M_Tank6.opp",
@@ -17532,6 +17778,18 @@
       "HASH":"db6d865a699bf7b637a9bc2aa868b325",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/P_A_Ufo\/P_A_Ufo.opp",
       "Size":237
+    },
+    {
+      "Name":"opponents\/Co_Y_Bigger\/uCo_Red4.ani",
+      "HASH":"15a306e0db46a583110da743a6b68042",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_Y_Bigger\/uCo_Red4.ani",
+      "Size":322960
+    },
+    {
+      "Name":"opponents\/Co_Y_Bigger\/Co_Y_Bigger.opp",
+      "HASH":"66a2b2aa4c22f396774de303fc3855e7",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_Y_Bigger\/Co_Y_Bigger.opp",
+      "Size":226
     },
     {
       "Name":"opponents\/C_Y_Ge6\/uC_Yellow_6.bmp",
