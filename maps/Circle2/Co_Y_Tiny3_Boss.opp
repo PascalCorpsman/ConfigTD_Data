@@ -1,0 +1,17 @@
+[opponent]
+name=C_Ge2_Boss
+description=
+lifepoints0=5000
+lifepoints1=2000
+lifepoints2=2000
+lifepoints3=0
+lifefactor0=0.5
+lifefactor1=1
+lifefactor2=1.5
+speed=4
+size=2.40x2.40
+image=uCo_Yellow1.ani
+canfly=0
+boss=1
+bonus=0
+imagerotation=1
