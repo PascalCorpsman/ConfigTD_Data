@@ -5,7 +5,7 @@ This guide explains how to create the nice looking MiniTD background images from
 ![](../../../documentation/images/mini_td_demo.png)
 
 
-- Choose the dimension you want to create your map in, for this example we choose 11 tiles in width and 7 tiles ind height.
+- Choose the dimension you want to create your map in, for this example we choose 11 tiles in width and 7 tiles in height.
 
 - Open the wfc application from the [Raw](Raw) folder (its source code can be found [here](https://github.com/PascalCorpsman/mini_projects/tree/main/miniprojects/Wave_function_collapse/Tile_model))
 
