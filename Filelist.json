@@ -4466,6 +4466,42 @@
       "Size":3866
     },
     {
+      "Name":"maps\/G2\/dc4.png",
+      "HASH":"3cd4508753f27805a490dfa67749b735",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/G2\/dc4.png",
+      "Size":189
+    },
+    {
+      "Name":"maps\/G2\/Background.png",
+      "HASH":"6b67a0d539996e6cb210856ed786211e",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/G2\/Background.png",
+      "Size":5362
+    },
+    {
+      "Name":"maps\/G2\/dc1.png",
+      "HASH":"58373f6c9f58e15e8a971d9ca50f5b23",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/G2\/dc1.png",
+      "Size":185
+    },
+    {
+      "Name":"maps\/G2\/dc2.png",
+      "HASH":"ba43a3b41194a95940ecd27c5290d996",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/G2\/dc2.png",
+      "Size":183
+    },
+    {
+      "Name":"maps\/G2\/dc3.png",
+      "HASH":"1c38772c75115c206293970ead9d970e",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/G2\/dc3.png",
+      "Size":188
+    },
+    {
+      "Name":"maps\/G2\/data.map",
+      "HASH":"43570fc46116df487e39faf094af6e0f",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/G2\/data.map",
+      "Size":2697
+    },
+    {
       "Name":"maps\/Merge4\/dc4.png",
       "HASH":"af4a34a52ce908819b5c63739f69921a",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/Merge4\/dc4.png",
