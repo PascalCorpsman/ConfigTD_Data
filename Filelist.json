@@ -14,6 +14,42 @@
       "Size":27022
     },
     {
+      "Name":"buildings\/M_3_R1\/bMLaser1_3.png",
+      "HASH":"967f7cfd6fadf689d7f1514a57b16666",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_3_R1\/bMLaser1_3.png",
+      "Size":1447
+    },
+    {
+      "Name":"buildings\/M_3_R1\/bMLaser1_4.png",
+      "HASH":"b3725ab7eabf6ed094fa6621aabca0ea",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_3_R1\/bMLaser1_4.png",
+      "Size":1480
+    },
+    {
+      "Name":"buildings\/M_3_R1\/bMLaser1_2.png",
+      "HASH":"0575e4949b5466e6eda7647a5ebfe71d",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_3_R1\/bMLaser1_2.png",
+      "Size":1235
+    },
+    {
+      "Name":"buildings\/M_3_R1\/bMLaser1_1.png",
+      "HASH":"8ab241cadab2b7679ce2169a5fc6de2b",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_3_R1\/bMLaser1_1.png",
+      "Size":792
+    },
+    {
+      "Name":"buildings\/M_3_R1\/wM_Red_1.bmp",
+      "HASH":"d4c728d60951b563394b4468a7b756d8",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_3_R1\/wM_Red_1.bmp",
+      "Size":134
+    },
+    {
+      "Name":"buildings\/M_3_R1\/M_R_R1.geb",
+      "HASH":"2cd0cdd6d35b2d9931065e6f2e5dcd7d",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_3_R1\/M_R_R1.geb",
+      "Size":1414
+    },
+    {
       "Name":"buildings\/Co_YGRB_Statue\/wP_bunt_glibber2.bmp",
       "HASH":"746347a6567df42ce8c22694c758f568",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/Co_YGRB_Statue\/wP_bunt_glibber2.bmp",
@@ -54,6 +90,42 @@
       "HASH":"f557aa089b932da3a1fbca48965caca4",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/Co_YGRB_Statue\/wP_bunt_glibber.bmp",
       "Size":654
+    },
+    {
+      "Name":"buildings\/M_4_B1\/wM_Blue_1.bmp",
+      "HASH":"239ffb74a0373a730f10bb34fb18b39f",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_4_B1\/wM_Blue_1.bmp",
+      "Size":134
+    },
+    {
+      "Name":"buildings\/M_4_B1\/bMLaser2_3.ani",
+      "HASH":"f1d0f88c200e27fc4361357f996b3d25",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_4_B1\/bMLaser2_3.ani",
+      "Size":224196
+    },
+    {
+      "Name":"buildings\/M_4_B1\/M_B_B1.geb",
+      "HASH":"453d4c78d8f66c9ce83d2e864030a4f3",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_4_B1\/M_B_B1.geb",
+      "Size":1417
+    },
+    {
+      "Name":"buildings\/M_4_B1\/bMLaser2_1.ani",
+      "HASH":"9620283503771f2713f74c95c370fe48",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_4_B1\/bMLaser2_1.ani",
+      "Size":224196
+    },
+    {
+      "Name":"buildings\/M_4_B1\/bMLaser2_2.ani",
+      "HASH":"f7ed107188093e6af937ecc8afd616c6",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_4_B1\/bMLaser2_2.ani",
+      "Size":224196
+    },
+    {
+      "Name":"buildings\/M_4_B1\/bMLaser2_4.ani",
+      "HASH":"4c80600051bdb554fb43ef1318390404",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_4_B1\/bMLaser2_4.ani",
+      "Size":224196
     },
     {
       "Name":"buildings\/C_YGRB_Colored\/wC_bullet_white.bmp",
@@ -198,6 +270,42 @@
       "HASH":"3ed66210122c4af16fdddc3906acfe63",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/P__Slowtower\/bP_b3_3.bmp",
       "Size":1854
+    },
+    {
+      "Name":"buildings\/M_2_G1\/bMPoison1_4.png",
+      "HASH":"c04c0b1f25e29f6ee029c446ade45671",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_2_G1\/bMPoison1_4.png",
+      "Size":884
+    },
+    {
+      "Name":"buildings\/M_2_G1\/bMPoison1_2.png",
+      "HASH":"e1b574c44d13852718dca3c620a6d182",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_2_G1\/bMPoison1_2.png",
+      "Size":586
+    },
+    {
+      "Name":"buildings\/M_2_G1\/bMPoison1_3.png",
+      "HASH":"5e92d2cefdbeb23e7ea52e5c6311a818",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_2_G1\/bMPoison1_3.png",
+      "Size":755
+    },
+    {
+      "Name":"buildings\/M_2_G1\/bMPoison1_1.png",
+      "HASH":"07683833c4de219c02b656d7dae71228",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_2_G1\/bMPoison1_1.png",
+      "Size":496
+    },
+    {
+      "Name":"buildings\/M_2_G1\/wM_Green_1.bmp",
+      "HASH":"46542c3a5724a1df747a0301d5c4a0d1",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_2_G1\/wM_Green_1.bmp",
+      "Size":134
+    },
+    {
+      "Name":"buildings\/M_2_G1\/M_G_G1.geb",
+      "HASH":"e1760d22d180b28b0dcc8b90e30a9b23",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_2_G1\/M_G_G1.geb",
+      "Size":1426
     },
     {
       "Name":"buildings\/P__Banktower\/bP_b5_2.png",
@@ -428,6 +536,42 @@
       "Size":246
     },
     {
+      "Name":"buildings\/M_1_Y1\/bMLaser3_1.png",
+      "HASH":"ea5e5ea0bbc06abce212d2de65cfb2cc",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_1_Y1\/bMLaser3_1.png",
+      "Size":1078
+    },
+    {
+      "Name":"buildings\/M_1_Y1\/M_1_Y1.geb",
+      "HASH":"bdf79b9784abe39b03aedd3028c7b4ba",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_1_Y1\/M_1_Y1.geb",
+      "Size":1427
+    },
+    {
+      "Name":"buildings\/M_1_Y1\/bMLaser3_2.png",
+      "HASH":"fec322318dc1b9704cde0ec5da637a90",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_1_Y1\/bMLaser3_2.png",
+      "Size":1569
+    },
+    {
+      "Name":"buildings\/M_1_Y1\/bMLaser3_3.png",
+      "HASH":"aeae947a7052c4ec61a54ab9b9a48ba7",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_1_Y1\/bMLaser3_3.png",
+      "Size":1558
+    },
+    {
+      "Name":"buildings\/M_1_Y1\/wM_Yellow_1.bmp",
+      "HASH":"f396d12800f197b108843d4da81552a2",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_1_Y1\/wM_Yellow_1.bmp",
+      "Size":134
+    },
+    {
+      "Name":"buildings\/M_1_Y1\/bMLaser3_4.png",
+      "HASH":"bfed08704d6ca3fe96864c11de17e2be",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_1_Y1\/bMLaser3_4.png",
+      "Size":1745
+    },
+    {
       "Name":"buildings\/C__Fence2\/C__Fence2.geb",
       "HASH":"1c316ea8cd5d0d07428f8ea228fc54bb",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/C__Fence2\/C__Fence2.geb",
@@ -450,42 +594,6 @@
       "HASH":"02e9540cea06956d7cb4e5934f79860e",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/P__Hecke1\/P__Hecke1.geb",
       "Size":442
-    },
-    {
-      "Name":"buildings\/M_1_Y1\/bMLaser3_1.png",
-      "HASH":"ea5e5ea0bbc06abce212d2de65cfb2cc",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_1_Y1\/bMLaser3_1.png",
-      "Size":1078
-    },
-    {
-      "Name":"buildings\/M_1_Y1\/bMLaser3_2.png",
-      "HASH":"fec322318dc1b9704cde0ec5da637a90",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_1_Y1\/bMLaser3_2.png",
-      "Size":1569
-    },
-    {
-      "Name":"buildings\/M_1_Y1\/M_1_Y1.geb",
-      "HASH":"bdf79b9784abe39b03aedd3028c7b4ba",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_1_Y1\/M_1_Y1.geb",
-      "Size":1427
-    },
-    {
-      "Name":"buildings\/M_1_Y1\/bMLaser3_3.png",
-      "HASH":"aeae947a7052c4ec61a54ab9b9a48ba7",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_1_Y1\/bMLaser3_3.png",
-      "Size":1558
-    },
-    {
-      "Name":"buildings\/M_1_Y1\/wM_Yellow_1.bmp",
-      "HASH":"f396d12800f197b108843d4da81552a2",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_1_Y1\/wM_Yellow_1.bmp",
-      "Size":134
-    },
-    {
-      "Name":"buildings\/M_1_Y1\/bMLaser3_4.png",
-      "HASH":"bfed08704d6ca3fe96864c11de17e2be",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_1_Y1\/bMLaser3_4.png",
-      "Size":1745
     },
     {
       "Name":"buildings\/P_M_MagicTower\/wC_bullet_blue_2.bmp",
@@ -734,42 +842,6 @@
       "Size":7326
     },
     {
-      "Name":"buildings\/M_4_B1\/wM_Blue_1.bmp",
-      "HASH":"239ffb74a0373a730f10bb34fb18b39f",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_4_B1\/wM_Blue_1.bmp",
-      "Size":134
-    },
-    {
-      "Name":"buildings\/M_4_B1\/bMLaser2_3.ani",
-      "HASH":"f1d0f88c200e27fc4361357f996b3d25",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_4_B1\/bMLaser2_3.ani",
-      "Size":224196
-    },
-    {
-      "Name":"buildings\/M_4_B1\/M_4_B1.geb",
-      "HASH":"453d4c78d8f66c9ce83d2e864030a4f3",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_4_B1\/M_4_B1.geb",
-      "Size":1417
-    },
-    {
-      "Name":"buildings\/M_4_B1\/bMLaser2_1.ani",
-      "HASH":"9620283503771f2713f74c95c370fe48",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_4_B1\/bMLaser2_1.ani",
-      "Size":224196
-    },
-    {
-      "Name":"buildings\/M_4_B1\/bMLaser2_2.ani",
-      "HASH":"f7ed107188093e6af937ecc8afd616c6",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_4_B1\/bMLaser2_2.ani",
-      "Size":224196
-    },
-    {
-      "Name":"buildings\/M_4_B1\/bMLaser2_4.ani",
-      "HASH":"4c80600051bdb554fb43ef1318390404",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_4_B1\/bMLaser2_4.ani",
-      "Size":224196
-    },
-    {
       "Name":"buildings\/C_B_Blue\/wC_bullet_blue.bmp",
       "HASH":"ecb1116e7b3737d82e4f04c5f171d685",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/C_B_Blue\/wC_bullet_blue.bmp",
@@ -854,42 +926,6 @@
       "Size":1254
     },
     {
-      "Name":"buildings\/M_2_G1\/bMPoison1_4.png",
-      "HASH":"c04c0b1f25e29f6ee029c446ade45671",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_2_G1\/bMPoison1_4.png",
-      "Size":884
-    },
-    {
-      "Name":"buildings\/M_2_G1\/bMPoison1_2.png",
-      "HASH":"e1b574c44d13852718dca3c620a6d182",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_2_G1\/bMPoison1_2.png",
-      "Size":586
-    },
-    {
-      "Name":"buildings\/M_2_G1\/bMPoison1_3.png",
-      "HASH":"5e92d2cefdbeb23e7ea52e5c6311a818",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_2_G1\/bMPoison1_3.png",
-      "Size":755
-    },
-    {
-      "Name":"buildings\/M_2_G1\/bMPoison1_1.png",
-      "HASH":"07683833c4de219c02b656d7dae71228",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_2_G1\/bMPoison1_1.png",
-      "Size":496
-    },
-    {
-      "Name":"buildings\/M_2_G1\/wM_Green_1.bmp",
-      "HASH":"46542c3a5724a1df747a0301d5c4a0d1",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_2_G1\/wM_Green_1.bmp",
-      "Size":134
-    },
-    {
-      "Name":"buildings\/M_2_G1\/M_2_G1.geb",
-      "HASH":"e1760d22d180b28b0dcc8b90e30a9b23",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_2_G1\/M_2_G1.geb",
-      "Size":1426
-    },
-    {
       "Name":"buildings\/Co_R_Magic\/wC_bullet_blue_2.bmp",
       "HASH":"3d9afbf73a0aa0dcc68b1d6ed95d6a63",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/Co_R_Magic\/wC_bullet_blue_2.bmp",
@@ -936,42 +972,6 @@
       "HASH":"7f7f8e8e8dacdf330b02d7ab0fb6f9d9",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/Co_R_Magic\/Co_R_Magic.geb",
       "Size":1445
-    },
-    {
-      "Name":"buildings\/M_3_R1\/bMLaser1_3.png",
-      "HASH":"967f7cfd6fadf689d7f1514a57b16666",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_3_R1\/bMLaser1_3.png",
-      "Size":1447
-    },
-    {
-      "Name":"buildings\/M_3_R1\/bMLaser1_4.png",
-      "HASH":"b3725ab7eabf6ed094fa6621aabca0ea",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_3_R1\/bMLaser1_4.png",
-      "Size":1480
-    },
-    {
-      "Name":"buildings\/M_3_R1\/bMLaser1_2.png",
-      "HASH":"0575e4949b5466e6eda7647a5ebfe71d",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_3_R1\/bMLaser1_2.png",
-      "Size":1235
-    },
-    {
-      "Name":"buildings\/M_3_R1\/bMLaser1_1.png",
-      "HASH":"8ab241cadab2b7679ce2169a5fc6de2b",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_3_R1\/bMLaser1_1.png",
-      "Size":792
-    },
-    {
-      "Name":"buildings\/M_3_R1\/wM_Red_1.bmp",
-      "HASH":"d4c728d60951b563394b4468a7b756d8",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_3_R1\/wM_Red_1.bmp",
-      "Size":134
-    },
-    {
-      "Name":"buildings\/M_3_R1\/M_3_R1.geb",
-      "HASH":"2cd0cdd6d35b2d9931065e6f2e5dcd7d",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/buildings\/M_3_R1\/M_3_R1.geb",
-      "Size":1414
     },
     {
       "Name":"buildings\/P_S_Splashtower\/wP_landmine.png",
@@ -3536,64 +3536,16 @@
       "Size":64912
     },
     {
-      "Name":"graphics\/units\/minitd\/uM_1_1.png",
-      "HASH":"4110f9c129b2c952a3249c3790aef648",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_1_1.png",
-      "Size":73
+      "Name":"graphics\/units\/minitd\/uM_3_6.png",
+      "HASH":"e0f3d9879cbc985ee041c8c314d4dff7",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_3_6.png",
+      "Size":113
     },
     {
-      "Name":"graphics\/units\/minitd\/uM_2_5.png",
-      "HASH":"f398f7dd03380d695545764e2826a0cd",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_2_5.png",
-      "Size":123
-    },
-    {
-      "Name":"graphics\/units\/minitd\/uM_4_6.png",
-      "HASH":"8f7eede0b0203f8b7ff873e1ea12459a",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_4_6.png",
-      "Size":122
-    },
-    {
-      "Name":"graphics\/units\/minitd\/uM_3_4.png",
-      "HASH":"05fd7fe02f7fb5d7f64d377a4dc338bf",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_3_4.png",
-      "Size":111
-    },
-    {
-      "Name":"graphics\/units\/minitd\/uM_4_2.png",
-      "HASH":"f7636a5577986902ad7ac5f214c90148",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_4_2.png",
-      "Size":105
-    },
-    {
-      "Name":"graphics\/units\/minitd\/uM_4_5.png",
-      "HASH":"a1797f4f84dd895009616ab7fe8cd11a",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_4_5.png",
-      "Size":120
-    },
-    {
-      "Name":"graphics\/units\/minitd\/uM_Green_3.bmp",
-      "HASH":"6e26eda96a7cda3b8a1a4e13785e1ef4",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_Green_3.bmp",
-      "Size":1782
-    },
-    {
-      "Name":"graphics\/units\/minitd\/uM_1_2.png",
-      "HASH":"2d760ab9789b8587acb6b39e57858a4b",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_1_2.png",
-      "Size":96
-    },
-    {
-      "Name":"graphics\/units\/minitd\/uM_Green_2.bmp",
-      "HASH":"b56146bbf42d6006832ea61940e8cbfe",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_Green_2.bmp",
-      "Size":822
-    },
-    {
-      "Name":"graphics\/units\/minitd\/uM_4_3.png",
-      "HASH":"1e64b1bd1d991df2b706cf1edca661c4",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_4_3.png",
-      "Size":112
+      "Name":"graphics\/units\/minitd\/uM_1_4.png",
+      "HASH":"0ff57318c553b9ff7e30b53eebef7621",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_1_4.png",
+      "Size":99
     },
     {
       "Name":"graphics\/units\/minitd\/uM_4_4.png",
@@ -3602,16 +3554,46 @@
       "Size":114
     },
     {
+      "Name":"graphics\/units\/minitd\/uM_2_5.png",
+      "HASH":"f398f7dd03380d695545764e2826a0cd",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_2_5.png",
+      "Size":123
+    },
+    {
+      "Name":"graphics\/units\/minitd\/uM_3_5.png",
+      "HASH":"296b1529e470b66dad4ac93558207469",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_3_5.png",
+      "Size":112
+    },
+    {
+      "Name":"graphics\/units\/minitd\/uM_3_4.png",
+      "HASH":"05fd7fe02f7fb5d7f64d377a4dc338bf",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_3_4.png",
+      "Size":111
+    },
+    {
+      "Name":"graphics\/units\/minitd\/uM_2_6.png",
+      "HASH":"2d1fde47ef322f8783b14c486ba4cdb9",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_2_6.png",
+      "Size":140
+    },
+    {
+      "Name":"graphics\/units\/minitd\/uM_1_5.png",
+      "HASH":"8fbd806831b515e9e1399ec8efe7dc5b",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_1_5.png",
+      "Size":99
+    },
+    {
+      "Name":"graphics\/units\/minitd\/uM_2_1.bmp",
+      "HASH":"5f9575210b6567545b973ec3c5fde9e9",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_2_1.bmp",
+      "Size":246
+    },
+    {
       "Name":"graphics\/units\/minitd\/uM_3_1.png",
       "HASH":"2e484113ae389b164bf20c985406b00c",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_3_1.png",
       "Size":102
-    },
-    {
-      "Name":"graphics\/units\/minitd\/uM_3_6.png",
-      "HASH":"e0f3d9879cbc985ee041c8c314d4dff7",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_3_6.png",
-      "Size":113
     },
     {
       "Name":"graphics\/units\/minitd\/uM_2_3.png",
@@ -3620,15 +3602,33 @@
       "Size":107
     },
     {
-      "Name":"graphics\/units\/minitd\/uM_2_4.png",
-      "HASH":"08fcc587ddf13300419830a0816dde05",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_2_4.png",
-      "Size":113
+      "Name":"graphics\/units\/minitd\/uM_4_1.png",
+      "HASH":"66a0733ba4888627aa271e26e16a030c",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_4_1.png",
+      "Size":75
+    },
+    {
+      "Name":"graphics\/units\/minitd\/uM_2_2.png",
+      "HASH":"a20104b9486fbffc147dbef1f4ef8724",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_2_2.png",
+      "Size":100
     },
     {
       "Name":"graphics\/units\/minitd\/uM_3_2.png",
       "HASH":"a76f9e05c1857c9681c4cdeb31e8b165",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_3_2.png",
+      "Size":105
+    },
+    {
+      "Name":"graphics\/units\/minitd\/uM_1_6.png",
+      "HASH":"d488c67800c5f2d37c3d6141d0b4247f",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_1_6.png",
+      "Size":99
+    },
+    {
+      "Name":"graphics\/units\/minitd\/uM_4_2.png",
+      "HASH":"f7636a5577986902ad7ac5f214c90148",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_4_2.png",
       "Size":105
     },
     {
@@ -3638,16 +3638,52 @@
       "Size":111
     },
     {
-      "Name":"graphics\/units\/minitd\/uM_1_5.png",
-      "HASH":"8fbd806831b515e9e1399ec8efe7dc5b",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_1_5.png",
-      "Size":99
+      "Name":"graphics\/units\/minitd\/uM_1_2.png",
+      "HASH":"2d760ab9789b8587acb6b39e57858a4b",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_1_2.png",
+      "Size":96
     },
     {
-      "Name":"graphics\/units\/minitd\/uM_2_1.png",
-      "HASH":"ca47630fb8559875407d2873472fd20b",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_2_1.png",
-      "Size":95
+      "Name":"graphics\/units\/minitd\/uM_4_3.png",
+      "HASH":"1e64b1bd1d991df2b706cf1edca661c4",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_4_3.png",
+      "Size":112
+    },
+    {
+      "Name":"graphics\/units\/minitd\/uM_4_5.png",
+      "HASH":"a1797f4f84dd895009616ab7fe8cd11a",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_4_5.png",
+      "Size":120
+    },
+    {
+      "Name":"graphics\/units\/minitd\/uM_2_3.bmp",
+      "HASH":"6e26eda96a7cda3b8a1a4e13785e1ef4",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_2_3.bmp",
+      "Size":1782
+    },
+    {
+      "Name":"graphics\/units\/minitd\/uM_2_2.bmp",
+      "HASH":"b56146bbf42d6006832ea61940e8cbfe",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_2_2.bmp",
+      "Size":822
+    },
+    {
+      "Name":"graphics\/units\/minitd\/uM_1_1.png",
+      "HASH":"4110f9c129b2c952a3249c3790aef648",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_1_1.png",
+      "Size":73
+    },
+    {
+      "Name":"graphics\/units\/minitd\/uM_2_4.png",
+      "HASH":"08fcc587ddf13300419830a0816dde05",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_2_4.png",
+      "Size":113
+    },
+    {
+      "Name":"graphics\/units\/minitd\/uM_4_6.png",
+      "HASH":"8f7eede0b0203f8b7ff873e1ea12459a",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_4_6.png",
+      "Size":122
     },
     {
       "Name":"graphics\/units\/minitd\/uM_1_3.png",
@@ -3656,46 +3692,10 @@
       "Size":98
     },
     {
-      "Name":"graphics\/units\/minitd\/uM_3_5.png",
-      "HASH":"296b1529e470b66dad4ac93558207469",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_3_5.png",
-      "Size":112
-    },
-    {
-      "Name":"graphics\/units\/minitd\/uM_2_6.png",
-      "HASH":"2d1fde47ef322f8783b14c486ba4cdb9",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_2_6.png",
-      "Size":140
-    },
-    {
-      "Name":"graphics\/units\/minitd\/uM_1_6.png",
-      "HASH":"d488c67800c5f2d37c3d6141d0b4247f",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_1_6.png",
-      "Size":99
-    },
-    {
-      "Name":"graphics\/units\/minitd\/uM_Green_1.bmp",
-      "HASH":"5f9575210b6567545b973ec3c5fde9e9",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_Green_1.bmp",
-      "Size":246
-    },
-    {
-      "Name":"graphics\/units\/minitd\/uM_2_2.png",
-      "HASH":"a20104b9486fbffc147dbef1f4ef8724",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_2_2.png",
-      "Size":100
-    },
-    {
-      "Name":"graphics\/units\/minitd\/uM_1_4.png",
-      "HASH":"0ff57318c553b9ff7e30b53eebef7621",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_1_4.png",
-      "Size":99
-    },
-    {
-      "Name":"graphics\/units\/minitd\/uM_4_1.png",
-      "HASH":"66a0733ba4888627aa271e26e16a030c",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_4_1.png",
-      "Size":75
+      "Name":"graphics\/units\/minitd\/uM_2_1.png",
+      "HASH":"ca47630fb8559875407d2873472fd20b",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/units\/minitd\/uM_2_1.png",
+      "Size":95
     },
     {
       "Name":"graphics\/units\/classic_pixelart\/uP_redballoon.png",
@@ -6692,10 +6692,16 @@
       "Size":884
     },
     {
-      "Name":"maps\/zig zag\/uM_1_1.png",
-      "HASH":"4110f9c129b2c952a3249c3790aef648",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/uM_1_1.png",
-      "Size":73
+      "Name":"maps\/zig zag\/M_4_B1.opp",
+      "HASH":"c785a1c795264f54770281a2f932e04b",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_4_B1.opp",
+      "Size":215
+    },
+    {
+      "Name":"maps\/zig zag\/M_3_R1.geb",
+      "HASH":"2cd0cdd6d35b2d9931065e6f2e5dcd7d",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_3_R1.geb",
+      "Size":1414
     },
     {
       "Name":"maps\/zig zag\/wM_Blue_1.bmp",
@@ -6704,14 +6710,26 @@
       "Size":134
     },
     {
-      "Name":"maps\/zig zag\/M_4_B4.opp",
-      "HASH":"fcc3bc2b3fcd53842497b4ea33903167",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_4_B4.opp",
-      "Size":216
+      "Name":"maps\/zig zag\/uM_4_4.png",
+      "HASH":"8273251f325015a1b3e4423d042024cc",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/uM_4_4.png",
+      "Size":114
+    },
+    {
+      "Name":"maps\/zig zag\/M_2_G2.opp",
+      "HASH":"ed626e0bed062302cbbc553733d45bfb",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_2_G2.opp",
+      "Size":218
+    },
+    {
+      "Name":"maps\/zig zag\/M_1_Y1.geb",
+      "HASH":"bdf79b9784abe39b03aedd3028c7b4ba",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_1_Y1.geb",
+      "Size":1427
     },
     {
       "Name":"maps\/zig zag\/M_3_R2.opp",
-      "HASH":"96fedfadf8f9ca54f46175318e3cca1a",
+      "HASH":"ca7b211ae1c51c432685e09e1b477b16",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_3_R2.opp",
       "Size":217
     },
@@ -6722,15 +6740,9 @@
       "Size":22516
     },
     {
-      "Name":"maps\/zig zag\/M_4_B2.opp",
-      "HASH":"1dba7aaa5691e43b75e4e707310c122b",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_4_B2.opp",
-      "Size":215
-    },
-    {
-      "Name":"maps\/zig zag\/M_2_G1.opp",
-      "HASH":"dcb814e2f4fd21f257346bdcf678b582",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_2_G1.opp",
+      "Name":"maps\/zig zag\/M_4_B4.opp",
+      "HASH":"2de91cf1edff252d641ec40cecd111e9",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_4_B4.opp",
       "Size":216
     },
     {
@@ -6752,10 +6764,10 @@
       "Size":1447
     },
     {
-      "Name":"maps\/zig zag\/uM_4_2.png",
-      "HASH":"f7636a5577986902ad7ac5f214c90148",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/uM_4_2.png",
-      "Size":105
+      "Name":"maps\/zig zag\/M_4_B1.geb",
+      "HASH":"453d4c78d8f66c9ce83d2e864030a4f3",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_4_B1.geb",
+      "Size":1417
     },
     {
       "Name":"maps\/zig zag\/bMPoison1_1.png",
@@ -6776,6 +6788,12 @@
       "Size":134
     },
     {
+      "Name":"maps\/zig zag\/M_2_G1.geb",
+      "HASH":"e1760d22d180b28b0dcc8b90e30a9b23",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_2_G1.geb",
+      "Size":1426
+    },
+    {
       "Name":"maps\/zig zag\/bMLaser2_3.ani",
       "HASH":"f1d0f88c200e27fc4361357f996b3d25",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/bMLaser2_3.ani",
@@ -6788,16 +6806,22 @@
       "Size":1480
     },
     {
-      "Name":"maps\/zig zag\/uM_1_2.png",
-      "HASH":"2d760ab9789b8587acb6b39e57858a4b",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/uM_1_2.png",
-      "Size":96
+      "Name":"maps\/zig zag\/M_3_R1.opp",
+      "HASH":"833e938e9fd161e1cd28858b54fd7110",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_3_R1.opp",
+      "Size":215
     },
     {
       "Name":"maps\/zig zag\/bMLaser1_2.png",
       "HASH":"0575e4949b5466e6eda7647a5ebfe71d",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/bMLaser1_2.png",
       "Size":1235
+    },
+    {
+      "Name":"maps\/zig zag\/uM_3_1.png",
+      "HASH":"2e484113ae389b164bf20c985406b00c",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/uM_3_1.png",
+      "Size":102
     },
     {
       "Name":"maps\/zig zag\/bMLaser1_1.png",
@@ -6812,46 +6836,46 @@
       "Size":97
     },
     {
-      "Name":"maps\/zig zag\/uM_4_4.png",
-      "HASH":"8273251f325015a1b3e4423d042024cc",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/uM_4_4.png",
-      "Size":114
+      "Name":"maps\/zig zag\/uM_4_1.png",
+      "HASH":"66a0733ba4888627aa271e26e16a030c",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/uM_4_1.png",
+      "Size":75
     },
     {
-      "Name":"maps\/zig zag\/uM_3_1.png",
-      "HASH":"2e484113ae389b164bf20c985406b00c",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/uM_3_1.png",
-      "Size":102
+      "Name":"maps\/zig zag\/uM_2_2.png",
+      "HASH":"a20104b9486fbffc147dbef1f4ef8724",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/uM_2_2.png",
+      "Size":100
     },
     {
-      "Name":"maps\/zig zag\/M_2_G1.geb",
-      "HASH":"e1760d22d180b28b0dcc8b90e30a9b23",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_2_G1.geb",
-      "Size":1426
+      "Name":"maps\/zig zag\/M_1_Y2.opp",
+      "HASH":"e2cfb45591eb65fb60d931195a799ca4",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_1_Y2.opp",
+      "Size":218
     },
     {
-      "Name":"maps\/zig zag\/M_4_B1.opp",
-      "HASH":"d9da6e21320ad96ef9e9e735170d7175",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_4_B1.opp",
-      "Size":215
-    },
-    {
-      "Name":"maps\/zig zag\/M_1_Y1.geb",
-      "HASH":"bdf79b9784abe39b03aedd3028c7b4ba",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_1_Y1.geb",
-      "Size":1427
-    },
-    {
-      "Name":"maps\/zig zag\/M_4_B1.geb",
-      "HASH":"453d4c78d8f66c9ce83d2e864030a4f3",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_4_B1.geb",
-      "Size":1417
+      "Name":"maps\/zig zag\/uM_3_2.png",
+      "HASH":"a76f9e05c1857c9681c4cdeb31e8b165",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/uM_3_2.png",
+      "Size":105
     },
     {
       "Name":"maps\/zig zag\/bMLaser3_3.png",
       "HASH":"aeae947a7052c4ec61a54ab9b9a48ba7",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/bMLaser3_3.png",
       "Size":1558
+    },
+    {
+      "Name":"maps\/zig zag\/M_4_B2.opp",
+      "HASH":"290b1cd4310423df46af88aebb7e2485",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_4_B2.opp",
+      "Size":215
+    },
+    {
+      "Name":"maps\/zig zag\/uM_4_2.png",
+      "HASH":"f7636a5577986902ad7ac5f214c90148",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/uM_4_2.png",
+      "Size":105
     },
     {
       "Name":"maps\/zig zag\/bMLaser2_1.ani",
@@ -6866,12 +6890,6 @@
       "Size":224196
     },
     {
-      "Name":"maps\/zig zag\/uM_3_2.png",
-      "HASH":"a76f9e05c1857c9681c4cdeb31e8b165",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/uM_3_2.png",
-      "Size":105
-    },
-    {
       "Name":"maps\/zig zag\/wM_Red_1.bmp",
       "HASH":"d4c728d60951b563394b4468a7b756d8",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/wM_Red_1.bmp",
@@ -6884,16 +6902,10 @@
       "Size":157
     },
     {
-      "Name":"maps\/zig zag\/uM_2_1.png",
-      "HASH":"ca47630fb8559875407d2873472fd20b",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/uM_2_1.png",
-      "Size":95
-    },
-    {
-      "Name":"maps\/zig zag\/M_2_G2.opp",
-      "HASH":"960570d94253bd105a50e158407a0ccc",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_2_G2.opp",
-      "Size":218
+      "Name":"maps\/zig zag\/uM_1_2.png",
+      "HASH":"2d760ab9789b8587acb6b39e57858a4b",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/uM_1_2.png",
+      "Size":96
     },
     {
       "Name":"maps\/zig zag\/bMLaser2_4.ani",
@@ -6902,22 +6914,16 @@
       "Size":224196
     },
     {
-      "Name":"maps\/zig zag\/M_1_Y2.opp",
-      "HASH":"0cc0fafd6b4e63990cb7db19c1db020a",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_1_Y2.opp",
-      "Size":218
-    },
-    {
-      "Name":"maps\/zig zag\/M_1_Y1.opp",
-      "HASH":"0f0bb30a3dfdcef83dc7e25969bc62fc",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_1_Y1.opp",
-      "Size":216
-    },
-    {
       "Name":"maps\/zig zag\/dc3.png",
       "HASH":"323aa827dd89f57966b4e90937ced591",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/dc3.png",
       "Size":109
+    },
+    {
+      "Name":"maps\/zig zag\/uM_1_1.png",
+      "HASH":"4110f9c129b2c952a3249c3790aef648",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/uM_1_1.png",
+      "Size":73
     },
     {
       "Name":"maps\/zig zag\/wM_Yellow_1.bmp",
@@ -6926,14 +6932,8 @@
       "Size":134
     },
     {
-      "Name":"maps\/zig zag\/M_3_R1.geb",
-      "HASH":"2cd0cdd6d35b2d9931065e6f2e5dcd7d",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_3_R1.geb",
-      "Size":1414
-    },
-    {
       "Name":"maps\/zig zag\/data.map",
-      "HASH":"8a5855903191288aeff1a4d5d20736c0",
+      "HASH":"0649e77f4eed3076e7885cd5507bcc59",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/data.map",
       "Size":4498
     },
@@ -6944,22 +6944,22 @@
       "Size":1745
     },
     {
-      "Name":"maps\/zig zag\/uM_2_2.png",
-      "HASH":"a20104b9486fbffc147dbef1f4ef8724",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/uM_2_2.png",
-      "Size":100
+      "Name":"maps\/zig zag\/M_1_Y1.opp",
+      "HASH":"b8e86f4265df2c66f9f4d299bb07f397",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_1_Y1.opp",
+      "Size":216
     },
     {
-      "Name":"maps\/zig zag\/M_3_R1.opp",
-      "HASH":"ae097b59b47c58549565b67506e3e6a3",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_3_R1.opp",
-      "Size":215
+      "Name":"maps\/zig zag\/uM_2_1.png",
+      "HASH":"ca47630fb8559875407d2873472fd20b",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/uM_2_1.png",
+      "Size":95
     },
     {
-      "Name":"maps\/zig zag\/uM_4_1.png",
-      "HASH":"66a0733ba4888627aa271e26e16a030c",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/uM_4_1.png",
-      "Size":75
+      "Name":"maps\/zig zag\/M_2_G1.opp",
+      "HASH":"0e67d74d48c2e283a3f649358f9f2e1e",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/zig zag\/M_2_G1.opp",
+      "Size":216
     },
     {
       "Name":"maps\/Snake\/dc4.png",
@@ -7034,12 +7034,6 @@
       "Size":3804
     },
     {
-      "Name":"maps\/MiniTD_1\/M_1_Y4.opp",
-      "HASH":"6922b41accf3cbe51ec96b2c2c5422ee",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_1_Y4.opp",
-      "Size":219
-    },
-    {
       "Name":"maps\/MiniTD_1\/bMLaser3_1.png",
       "HASH":"ea5e5ea0bbc06abce212d2de65cfb2cc",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/bMLaser3_1.png",
@@ -7064,16 +7058,16 @@
       "Size":27587
     },
     {
-      "Name":"maps\/MiniTD_1\/M_3_R3.opp",
-      "HASH":"51374da5b570ce65a1928935a5974a76",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_3_R3.opp",
-      "Size":216
+      "Name":"maps\/MiniTD_1\/M_4_B1.opp",
+      "HASH":"c785a1c795264f54770281a2f932e04b",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_4_B1.opp",
+      "Size":215
     },
     {
-      "Name":"maps\/MiniTD_1\/uM_1_1.png",
-      "HASH":"4110f9c129b2c952a3249c3790aef648",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_1_1.png",
-      "Size":73
+      "Name":"maps\/MiniTD_1\/M_3_R1.geb",
+      "HASH":"2cd0cdd6d35b2d9931065e6f2e5dcd7d",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_3_R1.geb",
+      "Size":1414
     },
     {
       "Name":"maps\/MiniTD_1\/wM_Blue_1.bmp",
@@ -7082,8 +7076,38 @@
       "Size":134
     },
     {
+      "Name":"maps\/MiniTD_1\/M_4_B3.opp",
+      "HASH":"8a98f1f07165a4d480b40fae8878ed5a",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_4_B3.opp",
+      "Size":215
+    },
+    {
+      "Name":"maps\/MiniTD_1\/M_3_R4.opp",
+      "HASH":"083629f569ea1121aa54d2ea119aa9b3",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_3_R4.opp",
+      "Size":216
+    },
+    {
+      "Name":"maps\/MiniTD_1\/uM_1_4.png",
+      "HASH":"0ff57318c553b9ff7e30b53eebef7621",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_1_4.png",
+      "Size":99
+    },
+    {
+      "Name":"maps\/MiniTD_1\/M_2_G2.opp",
+      "HASH":"ed626e0bed062302cbbc553733d45bfb",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_2_G2.opp",
+      "Size":218
+    },
+    {
+      "Name":"maps\/MiniTD_1\/M_1_Y1.geb",
+      "HASH":"bdf79b9784abe39b03aedd3028c7b4ba",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_1_Y1.geb",
+      "Size":1427
+    },
+    {
       "Name":"maps\/MiniTD_1\/M_3_R2.opp",
-      "HASH":"96fedfadf8f9ca54f46175318e3cca1a",
+      "HASH":"ca7b211ae1c51c432685e09e1b477b16",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_3_R2.opp",
       "Size":217
     },
@@ -7094,15 +7118,9 @@
       "Size":111
     },
     {
-      "Name":"maps\/MiniTD_1\/M_4_B2.opp",
-      "HASH":"95e0571c940cae715a3a24f06d48c75a",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_4_B2.opp",
-      "Size":215
-    },
-    {
-      "Name":"maps\/MiniTD_1\/M_2_G1.opp",
-      "HASH":"dcb814e2f4fd21f257346bdcf678b582",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_2_G1.opp",
+      "Name":"maps\/MiniTD_1\/M_1_Y3.opp",
+      "HASH":"03f75bf56fbc1a84e55ecd425f56ce15",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_1_Y3.opp",
       "Size":216
     },
     {
@@ -7124,10 +7142,16 @@
       "Size":1447
     },
     {
-      "Name":"maps\/MiniTD_1\/uM_4_2.png",
-      "HASH":"f7636a5577986902ad7ac5f214c90148",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_4_2.png",
-      "Size":105
+      "Name":"maps\/MiniTD_1\/M_2_G4.opp",
+      "HASH":"10ec366f6c210b73241a946e0be8c91c",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_2_G4.opp",
+      "Size":220
+    },
+    {
+      "Name":"maps\/MiniTD_1\/M_4_B1.geb",
+      "HASH":"453d4c78d8f66c9ce83d2e864030a4f3",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_4_B1.geb",
+      "Size":1417
     },
     {
       "Name":"maps\/MiniTD_1\/bMPoison1_1.png",
@@ -7148,6 +7172,12 @@
       "Size":134
     },
     {
+      "Name":"maps\/MiniTD_1\/M_2_G1.geb",
+      "HASH":"e1760d22d180b28b0dcc8b90e30a9b23",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_2_G1.geb",
+      "Size":1426
+    },
+    {
       "Name":"maps\/MiniTD_1\/bMLaser2_3.ani",
       "HASH":"f1d0f88c200e27fc4361357f996b3d25",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/bMLaser2_3.ani",
@@ -7160,10 +7190,10 @@
       "Size":1480
     },
     {
-      "Name":"maps\/MiniTD_1\/uM_1_2.png",
-      "HASH":"2d760ab9789b8587acb6b39e57858a4b",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_1_2.png",
-      "Size":96
+      "Name":"maps\/MiniTD_1\/M_3_R1.opp",
+      "HASH":"833e938e9fd161e1cd28858b54fd7110",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_3_R1.opp",
+      "Size":215
     },
     {
       "Name":"maps\/MiniTD_1\/bMLaser1_2.png",
@@ -7172,16 +7202,16 @@
       "Size":1235
     },
     {
-      "Name":"maps\/MiniTD_1\/uM_4_3.png",
-      "HASH":"1e64b1bd1d991df2b706cf1edca661c4",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_4_3.png",
-      "Size":112
+      "Name":"maps\/MiniTD_1\/uM_3_1.png",
+      "HASH":"2e484113ae389b164bf20c985406b00c",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_3_1.png",
+      "Size":102
     },
     {
-      "Name":"maps\/MiniTD_1\/M_2_G4.opp",
-      "HASH":"5b6430618262f2b18884aefec53fb898",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_2_G4.opp",
-      "Size":220
+      "Name":"maps\/MiniTD_1\/M_1_Y4.opp",
+      "HASH":"934fb5427d32add29a66fb7bfb74ccd1",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_1_Y4.opp",
+      "Size":219
     },
     {
       "Name":"maps\/MiniTD_1\/bMLaser1_1.png",
@@ -7196,46 +7226,46 @@
       "Size":97
     },
     {
-      "Name":"maps\/MiniTD_1\/uM_3_1.png",
-      "HASH":"2e484113ae389b164bf20c985406b00c",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_3_1.png",
-      "Size":102
+      "Name":"maps\/MiniTD_1\/uM_4_1.png",
+      "HASH":"66a0733ba4888627aa271e26e16a030c",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_4_1.png",
+      "Size":75
     },
     {
-      "Name":"maps\/MiniTD_1\/M_4_B3.opp",
-      "HASH":"7685a279d8cb307471a059771997f57f",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_4_B3.opp",
-      "Size":215
+      "Name":"maps\/MiniTD_1\/uM_2_2.png",
+      "HASH":"a20104b9486fbffc147dbef1f4ef8724",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_2_2.png",
+      "Size":100
     },
     {
-      "Name":"maps\/MiniTD_1\/M_2_G1.geb",
-      "HASH":"e1760d22d180b28b0dcc8b90e30a9b23",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_2_G1.geb",
-      "Size":1426
+      "Name":"maps\/MiniTD_1\/M_1_Y2.opp",
+      "HASH":"e2cfb45591eb65fb60d931195a799ca4",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_1_Y2.opp",
+      "Size":218
     },
     {
-      "Name":"maps\/MiniTD_1\/M_4_B1.opp",
-      "HASH":"d9da6e21320ad96ef9e9e735170d7175",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_4_B1.opp",
-      "Size":215
-    },
-    {
-      "Name":"maps\/MiniTD_1\/M_1_Y1.geb",
-      "HASH":"bdf79b9784abe39b03aedd3028c7b4ba",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_1_Y1.geb",
-      "Size":1427
-    },
-    {
-      "Name":"maps\/MiniTD_1\/M_4_B1.geb",
-      "HASH":"453d4c78d8f66c9ce83d2e864030a4f3",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_4_B1.geb",
-      "Size":1417
+      "Name":"maps\/MiniTD_1\/uM_3_2.png",
+      "HASH":"a76f9e05c1857c9681c4cdeb31e8b165",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_3_2.png",
+      "Size":105
     },
     {
       "Name":"maps\/MiniTD_1\/bMLaser3_3.png",
       "HASH":"aeae947a7052c4ec61a54ab9b9a48ba7",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/bMLaser3_3.png",
       "Size":1558
+    },
+    {
+      "Name":"maps\/MiniTD_1\/M_4_B2.opp",
+      "HASH":"58cbe03b8e3fbbf8d2afe2a4546128ec",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_4_B2.opp",
+      "Size":215
+    },
+    {
+      "Name":"maps\/MiniTD_1\/uM_4_2.png",
+      "HASH":"f7636a5577986902ad7ac5f214c90148",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_4_2.png",
+      "Size":105
     },
     {
       "Name":"maps\/MiniTD_1\/bMLaser2_1.ani",
@@ -7248,24 +7278,6 @@
       "HASH":"f7ed107188093e6af937ecc8afd616c6",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/bMLaser2_2.ani",
       "Size":224196
-    },
-    {
-      "Name":"maps\/MiniTD_1\/uM_2_4.png",
-      "HASH":"08fcc587ddf13300419830a0816dde05",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_2_4.png",
-      "Size":113
-    },
-    {
-      "Name":"maps\/MiniTD_1\/uM_3_2.png",
-      "HASH":"a76f9e05c1857c9681c4cdeb31e8b165",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_3_2.png",
-      "Size":105
-    },
-    {
-      "Name":"maps\/MiniTD_1\/M_1_Y3.opp",
-      "HASH":"c04e69bc199eee5627d3006e14f0fa68",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_1_Y3.opp",
-      "Size":216
     },
     {
       "Name":"maps\/MiniTD_1\/uM_3_3.png",
@@ -7286,28 +7298,16 @@
       "Size":157
     },
     {
-      "Name":"maps\/MiniTD_1\/uM_2_1.png",
-      "HASH":"ca47630fb8559875407d2873472fd20b",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_2_1.png",
-      "Size":95
+      "Name":"maps\/MiniTD_1\/uM_1_2.png",
+      "HASH":"2d760ab9789b8587acb6b39e57858a4b",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_1_2.png",
+      "Size":96
     },
     {
-      "Name":"maps\/MiniTD_1\/M_3_R4.opp",
-      "HASH":"80d1f40b9f0473c3ff6d88098b144121",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_3_R4.opp",
-      "Size":216
-    },
-    {
-      "Name":"maps\/MiniTD_1\/M_2_G2.opp",
-      "HASH":"960570d94253bd105a50e158407a0ccc",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_2_G2.opp",
-      "Size":218
-    },
-    {
-      "Name":"maps\/MiniTD_1\/uM_1_3.png",
-      "HASH":"f0bc2457736fbb104a9b99558c18fd1d",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_1_3.png",
-      "Size":98
+      "Name":"maps\/MiniTD_1\/uM_4_3.png",
+      "HASH":"1e64b1bd1d991df2b706cf1edca661c4",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_4_3.png",
+      "Size":112
     },
     {
       "Name":"maps\/MiniTD_1\/bMLaser2_4.ani",
@@ -7316,22 +7316,16 @@
       "Size":224196
     },
     {
-      "Name":"maps\/MiniTD_1\/M_1_Y2.opp",
-      "HASH":"0cc0fafd6b4e63990cb7db19c1db020a",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_1_Y2.opp",
-      "Size":218
-    },
-    {
-      "Name":"maps\/MiniTD_1\/M_1_Y1.opp",
-      "HASH":"0f0bb30a3dfdcef83dc7e25969bc62fc",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_1_Y1.opp",
-      "Size":216
-    },
-    {
       "Name":"maps\/MiniTD_1\/dc3.png",
       "HASH":"323aa827dd89f57966b4e90937ced591",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/dc3.png",
       "Size":109
+    },
+    {
+      "Name":"maps\/MiniTD_1\/uM_1_1.png",
+      "HASH":"4110f9c129b2c952a3249c3790aef648",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_1_1.png",
+      "Size":73
     },
     {
       "Name":"maps\/MiniTD_1\/wM_Yellow_1.bmp",
@@ -7340,14 +7334,14 @@
       "Size":134
     },
     {
-      "Name":"maps\/MiniTD_1\/M_3_R1.geb",
-      "HASH":"2cd0cdd6d35b2d9931065e6f2e5dcd7d",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_3_R1.geb",
-      "Size":1414
+      "Name":"maps\/MiniTD_1\/uM_2_4.png",
+      "HASH":"08fcc587ddf13300419830a0816dde05",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_2_4.png",
+      "Size":113
     },
     {
       "Name":"maps\/MiniTD_1\/data.map",
-      "HASH":"e0b6f83087bf68e18432fc7da876fdc9",
+      "HASH":"2548903c168ec3aa398c152c01f0dae7",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/data.map",
       "Size":5631
     },
@@ -7358,28 +7352,34 @@
       "Size":1745
     },
     {
-      "Name":"maps\/MiniTD_1\/uM_2_2.png",
-      "HASH":"a20104b9486fbffc147dbef1f4ef8724",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_2_2.png",
-      "Size":100
+      "Name":"maps\/MiniTD_1\/uM_1_3.png",
+      "HASH":"f0bc2457736fbb104a9b99558c18fd1d",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_1_3.png",
+      "Size":98
     },
     {
-      "Name":"maps\/MiniTD_1\/uM_1_4.png",
-      "HASH":"0ff57318c553b9ff7e30b53eebef7621",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_1_4.png",
-      "Size":99
+      "Name":"maps\/MiniTD_1\/M_1_Y1.opp",
+      "HASH":"b8e86f4265df2c66f9f4d299bb07f397",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_1_Y1.opp",
+      "Size":216
     },
     {
-      "Name":"maps\/MiniTD_1\/M_3_R1.opp",
-      "HASH":"ae097b59b47c58549565b67506e3e6a3",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_3_R1.opp",
-      "Size":215
+      "Name":"maps\/MiniTD_1\/M_3_R3.opp",
+      "HASH":"100dbf53af822280c912a2df3d0e6517",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_3_R3.opp",
+      "Size":216
     },
     {
-      "Name":"maps\/MiniTD_1\/uM_4_1.png",
-      "HASH":"66a0733ba4888627aa271e26e16a030c",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_4_1.png",
-      "Size":75
+      "Name":"maps\/MiniTD_1\/uM_2_1.png",
+      "HASH":"ca47630fb8559875407d2873472fd20b",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/uM_2_1.png",
+      "Size":95
+    },
+    {
+      "Name":"maps\/MiniTD_1\/M_2_G1.opp",
+      "HASH":"0e67d74d48c2e283a3f649358f9f2e1e",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/MiniTD_1\/M_2_G1.opp",
+      "Size":216
     },
     {
       "Name":"maps\/Circles\/wC_bullet_blue_2.bmp",
@@ -8402,12 +8402,6 @@
       "Size":1254
     },
     {
-      "Name":"maps\/too long\/M_1_Y4.opp",
-      "HASH":"6922b41accf3cbe51ec96b2c2c5422ee",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_1_Y4.opp",
-      "Size":219
-    },
-    {
       "Name":"maps\/too long\/bMLaser3_1.png",
       "HASH":"ea5e5ea0bbc06abce212d2de65cfb2cc",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMLaser3_1.png",
@@ -8426,16 +8420,16 @@
       "Size":884
     },
     {
-      "Name":"maps\/too long\/M_3_R3.opp",
-      "HASH":"51374da5b570ce65a1928935a5974a76",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_3_R3.opp",
-      "Size":216
+      "Name":"maps\/too long\/M_4_B1.opp",
+      "HASH":"c785a1c795264f54770281a2f932e04b",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_4_B1.opp",
+      "Size":215
     },
     {
-      "Name":"maps\/too long\/uM_1_1.png",
-      "HASH":"4110f9c129b2c952a3249c3790aef648",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_1_1.png",
-      "Size":73
+      "Name":"maps\/too long\/M_3_R1.geb",
+      "HASH":"2cd0cdd6d35b2d9931065e6f2e5dcd7d",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_3_R1.geb",
+      "Size":1414
     },
     {
       "Name":"maps\/too long\/wM_Blue_1.bmp",
@@ -8444,14 +8438,44 @@
       "Size":134
     },
     {
-      "Name":"maps\/too long\/M_4_B4.opp",
-      "HASH":"d7fa9d8fd7ab4819c9e3b99f2b73a500",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_4_B4.opp",
+      "Name":"maps\/too long\/M_4_B3.opp",
+      "HASH":"8a98f1f07165a4d480b40fae8878ed5a",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_4_B3.opp",
+      "Size":215
+    },
+    {
+      "Name":"maps\/too long\/M_3_R4.opp",
+      "HASH":"083629f569ea1121aa54d2ea119aa9b3",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_3_R4.opp",
       "Size":216
     },
     {
+      "Name":"maps\/too long\/uM_1_4.png",
+      "HASH":"0ff57318c553b9ff7e30b53eebef7621",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_1_4.png",
+      "Size":99
+    },
+    {
+      "Name":"maps\/too long\/uM_4_4.png",
+      "HASH":"8273251f325015a1b3e4423d042024cc",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_4_4.png",
+      "Size":114
+    },
+    {
+      "Name":"maps\/too long\/M_2_G2.opp",
+      "HASH":"ed626e0bed062302cbbc553733d45bfb",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_2_G2.opp",
+      "Size":218
+    },
+    {
+      "Name":"maps\/too long\/M_1_Y1.geb",
+      "HASH":"bdf79b9784abe39b03aedd3028c7b4ba",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_1_Y1.geb",
+      "Size":1427
+    },
+    {
       "Name":"maps\/too long\/M_3_R2.opp",
-      "HASH":"96fedfadf8f9ca54f46175318e3cca1a",
+      "HASH":"ca7b211ae1c51c432685e09e1b477b16",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_3_R2.opp",
       "Size":217
     },
@@ -8462,15 +8486,15 @@
       "Size":111
     },
     {
-      "Name":"maps\/too long\/M_4_B2.opp",
-      "HASH":"95e0571c940cae715a3a24f06d48c75a",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_4_B2.opp",
-      "Size":215
+      "Name":"maps\/too long\/M_4_B4.opp",
+      "HASH":"5dc0df2076c9c00f6214cac42f0ef5ae",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_4_B4.opp",
+      "Size":216
     },
     {
-      "Name":"maps\/too long\/M_2_G1.opp",
-      "HASH":"dcb814e2f4fd21f257346bdcf678b582",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_2_G1.opp",
+      "Name":"maps\/too long\/M_1_Y3.opp",
+      "HASH":"03f75bf56fbc1a84e55ecd425f56ce15",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_1_Y3.opp",
       "Size":216
     },
     {
@@ -8492,16 +8516,22 @@
       "Size":1447
     },
     {
-      "Name":"maps\/too long\/uM_4_2.png",
-      "HASH":"f7636a5577986902ad7ac5f214c90148",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_4_2.png",
-      "Size":105
+      "Name":"maps\/too long\/M_2_G4.opp",
+      "HASH":"10ec366f6c210b73241a946e0be8c91c",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_2_G4.opp",
+      "Size":220
     },
     {
-      "Name":"maps\/too long\/M_1_Y5.opp",
-      "HASH":"4718d55c83988679e0d82d808c447462",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_1_Y5.opp",
-      "Size":220
+      "Name":"maps\/too long\/uM_1_5.png",
+      "HASH":"8fbd806831b515e9e1399ec8efe7dc5b",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_1_5.png",
+      "Size":99
+    },
+    {
+      "Name":"maps\/too long\/M_4_B1.geb",
+      "HASH":"453d4c78d8f66c9ce83d2e864030a4f3",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_4_B1.geb",
+      "Size":1417
     },
     {
       "Name":"maps\/too long\/bMPoison1_1.png",
@@ -8522,6 +8552,12 @@
       "Size":134
     },
     {
+      "Name":"maps\/too long\/M_2_G1.geb",
+      "HASH":"e1760d22d180b28b0dcc8b90e30a9b23",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_2_G1.geb",
+      "Size":1426
+    },
+    {
       "Name":"maps\/too long\/bMLaser2_3.ani",
       "HASH":"f1d0f88c200e27fc4361357f996b3d25",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMLaser2_3.ani",
@@ -8534,10 +8570,10 @@
       "Size":1480
     },
     {
-      "Name":"maps\/too long\/uM_1_2.png",
-      "HASH":"2d760ab9789b8587acb6b39e57858a4b",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_1_2.png",
-      "Size":96
+      "Name":"maps\/too long\/M_3_R1.opp",
+      "HASH":"833e938e9fd161e1cd28858b54fd7110",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_3_R1.opp",
+      "Size":215
     },
     {
       "Name":"maps\/too long\/bMLaser1_2.png",
@@ -8546,16 +8582,22 @@
       "Size":1235
     },
     {
-      "Name":"maps\/too long\/uM_4_3.png",
-      "HASH":"1e64b1bd1d991df2b706cf1edca661c4",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_4_3.png",
-      "Size":112
+      "Name":"maps\/too long\/uM_3_1.png",
+      "HASH":"2e484113ae389b164bf20c985406b00c",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_3_1.png",
+      "Size":102
     },
     {
-      "Name":"maps\/too long\/M_2_G4.opp",
-      "HASH":"5b6430618262f2b18884aefec53fb898",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_2_G4.opp",
-      "Size":220
+      "Name":"maps\/too long\/M_1_Y4.opp",
+      "HASH":"934fb5427d32add29a66fb7bfb74ccd1",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_1_Y4.opp",
+      "Size":219
+    },
+    {
+      "Name":"maps\/too long\/uM_2_3.png",
+      "HASH":"15a444a1b284e12310b9c32b0290c8ee",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_2_3.png",
+      "Size":107
     },
     {
       "Name":"maps\/too long\/bMLaser1_1.png",
@@ -8570,76 +8612,22 @@
       "Size":97
     },
     {
-      "Name":"maps\/too long\/uM_4_4.png",
-      "HASH":"8273251f325015a1b3e4423d042024cc",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_4_4.png",
-      "Size":114
+      "Name":"maps\/too long\/uM_4_1.png",
+      "HASH":"66a0733ba4888627aa271e26e16a030c",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_4_1.png",
+      "Size":75
     },
     {
-      "Name":"maps\/too long\/uM_3_1.png",
-      "HASH":"2e484113ae389b164bf20c985406b00c",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_3_1.png",
-      "Size":102
+      "Name":"maps\/too long\/uM_2_2.png",
+      "HASH":"a20104b9486fbffc147dbef1f4ef8724",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_2_2.png",
+      "Size":100
     },
     {
-      "Name":"maps\/too long\/M_4_B3.opp",
-      "HASH":"7685a279d8cb307471a059771997f57f",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_4_B3.opp",
-      "Size":215
-    },
-    {
-      "Name":"maps\/too long\/M_2_G1.geb",
-      "HASH":"e1760d22d180b28b0dcc8b90e30a9b23",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_2_G1.geb",
-      "Size":1426
-    },
-    {
-      "Name":"maps\/too long\/M_4_B1.opp",
-      "HASH":"d9da6e21320ad96ef9e9e735170d7175",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_4_B1.opp",
-      "Size":215
-    },
-    {
-      "Name":"maps\/too long\/M_1_Y1.geb",
-      "HASH":"bdf79b9784abe39b03aedd3028c7b4ba",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_1_Y1.geb",
-      "Size":1427
-    },
-    {
-      "Name":"maps\/too long\/M_4_B1.geb",
-      "HASH":"453d4c78d8f66c9ce83d2e864030a4f3",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_4_B1.geb",
-      "Size":1417
-    },
-    {
-      "Name":"maps\/too long\/bMLaser3_3.png",
-      "HASH":"aeae947a7052c4ec61a54ab9b9a48ba7",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMLaser3_3.png",
-      "Size":1558
-    },
-    {
-      "Name":"maps\/too long\/bMLaser2_1.ani",
-      "HASH":"9620283503771f2713f74c95c370fe48",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMLaser2_1.ani",
-      "Size":224196
-    },
-    {
-      "Name":"maps\/too long\/uM_2_3.png",
-      "HASH":"15a444a1b284e12310b9c32b0290c8ee",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_2_3.png",
-      "Size":107
-    },
-    {
-      "Name":"maps\/too long\/bMLaser2_2.ani",
-      "HASH":"f7ed107188093e6af937ecc8afd616c6",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMLaser2_2.ani",
-      "Size":224196
-    },
-    {
-      "Name":"maps\/too long\/uM_2_4.png",
-      "HASH":"08fcc587ddf13300419830a0816dde05",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_2_4.png",
-      "Size":113
+      "Name":"maps\/too long\/M_1_Y2.opp",
+      "HASH":"e2cfb45591eb65fb60d931195a799ca4",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_1_Y2.opp",
+      "Size":218
     },
     {
       "Name":"maps\/too long\/uM_3_2.png",
@@ -8648,22 +8636,46 @@
       "Size":105
     },
     {
-      "Name":"maps\/too long\/M_1_Y3.opp",
-      "HASH":"c04e69bc199eee5627d3006e14f0fa68",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_1_Y3.opp",
+      "Name":"maps\/too long\/bMLaser3_3.png",
+      "HASH":"aeae947a7052c4ec61a54ab9b9a48ba7",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMLaser3_3.png",
+      "Size":1558
+    },
+    {
+      "Name":"maps\/too long\/M_2_G3.opp",
+      "HASH":"0636f3f9d26e92f6cb7a0be7e1e866d0",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_2_G3.opp",
       "Size":216
+    },
+    {
+      "Name":"maps\/too long\/M_4_B2.opp",
+      "HASH":"58cbe03b8e3fbbf8d2afe2a4546128ec",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_4_B2.opp",
+      "Size":215
+    },
+    {
+      "Name":"maps\/too long\/uM_4_2.png",
+      "HASH":"f7636a5577986902ad7ac5f214c90148",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_4_2.png",
+      "Size":105
+    },
+    {
+      "Name":"maps\/too long\/bMLaser2_1.ani",
+      "HASH":"9620283503771f2713f74c95c370fe48",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMLaser2_1.ani",
+      "Size":224196
+    },
+    {
+      "Name":"maps\/too long\/bMLaser2_2.ani",
+      "HASH":"f7ed107188093e6af937ecc8afd616c6",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMLaser2_2.ani",
+      "Size":224196
     },
     {
       "Name":"maps\/too long\/uM_3_3.png",
       "HASH":"9693d0090afd91b2c65a624c864b9fad",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_3_3.png",
       "Size":111
-    },
-    {
-      "Name":"maps\/too long\/uM_1_5.png",
-      "HASH":"8fbd806831b515e9e1399ec8efe7dc5b",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_1_5.png",
-      "Size":99
     },
     {
       "Name":"maps\/too long\/wM_Red_1.bmp",
@@ -8678,28 +8690,16 @@
       "Size":157
     },
     {
-      "Name":"maps\/too long\/uM_2_1.png",
-      "HASH":"ca47630fb8559875407d2873472fd20b",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_2_1.png",
-      "Size":95
+      "Name":"maps\/too long\/uM_1_2.png",
+      "HASH":"2d760ab9789b8587acb6b39e57858a4b",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_1_2.png",
+      "Size":96
     },
     {
-      "Name":"maps\/too long\/M_3_R4.opp",
-      "HASH":"80d1f40b9f0473c3ff6d88098b144121",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_3_R4.opp",
-      "Size":216
-    },
-    {
-      "Name":"maps\/too long\/M_2_G2.opp",
-      "HASH":"960570d94253bd105a50e158407a0ccc",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_2_G2.opp",
-      "Size":218
-    },
-    {
-      "Name":"maps\/too long\/uM_1_3.png",
-      "HASH":"f0bc2457736fbb104a9b99558c18fd1d",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_1_3.png",
-      "Size":98
+      "Name":"maps\/too long\/uM_4_3.png",
+      "HASH":"1e64b1bd1d991df2b706cf1edca661c4",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_4_3.png",
+      "Size":112
     },
     {
       "Name":"maps\/too long\/bMLaser2_4.ani",
@@ -8708,22 +8708,16 @@
       "Size":224196
     },
     {
-      "Name":"maps\/too long\/M_1_Y2.opp",
-      "HASH":"0cc0fafd6b4e63990cb7db19c1db020a",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_1_Y2.opp",
-      "Size":218
-    },
-    {
-      "Name":"maps\/too long\/M_1_Y1.opp",
-      "HASH":"0f0bb30a3dfdcef83dc7e25969bc62fc",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_1_Y1.opp",
-      "Size":216
-    },
-    {
       "Name":"maps\/too long\/dc3.png",
       "HASH":"323aa827dd89f57966b4e90937ced591",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/dc3.png",
       "Size":109
+    },
+    {
+      "Name":"maps\/too long\/uM_1_1.png",
+      "HASH":"4110f9c129b2c952a3249c3790aef648",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_1_1.png",
+      "Size":73
     },
     {
       "Name":"maps\/too long\/too long.jpg",
@@ -8738,14 +8732,14 @@
       "Size":134
     },
     {
-      "Name":"maps\/too long\/M_3_R1.geb",
-      "HASH":"2cd0cdd6d35b2d9931065e6f2e5dcd7d",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_3_R1.geb",
-      "Size":1414
+      "Name":"maps\/too long\/uM_2_4.png",
+      "HASH":"08fcc587ddf13300419830a0816dde05",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_2_4.png",
+      "Size":113
     },
     {
       "Name":"maps\/too long\/data.map",
-      "HASH":"098097bf6d5e1bfd8f1996c6d84d36b0",
+      "HASH":"382d48b8785d21063f66e3b307ccb9c0",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/data.map",
       "Size":5316
     },
@@ -8756,34 +8750,40 @@
       "Size":1745
     },
     {
-      "Name":"maps\/too long\/uM_2_2.png",
-      "HASH":"a20104b9486fbffc147dbef1f4ef8724",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_2_2.png",
-      "Size":100
+      "Name":"maps\/too long\/M_1_Y5.opp",
+      "HASH":"16fd4b1764af1027a197921e02f74a6e",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_1_Y5.opp",
+      "Size":220
     },
     {
-      "Name":"maps\/too long\/uM_1_4.png",
-      "HASH":"0ff57318c553b9ff7e30b53eebef7621",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_1_4.png",
-      "Size":99
+      "Name":"maps\/too long\/uM_1_3.png",
+      "HASH":"f0bc2457736fbb104a9b99558c18fd1d",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_1_3.png",
+      "Size":98
     },
     {
-      "Name":"maps\/too long\/M_2_G3.opp",
-      "HASH":"923b0a051dbeaa44df99b268cfdb7a7d",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_2_G3.opp",
+      "Name":"maps\/too long\/M_1_Y1.opp",
+      "HASH":"b8e86f4265df2c66f9f4d299bb07f397",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_1_Y1.opp",
       "Size":216
     },
     {
-      "Name":"maps\/too long\/M_3_R1.opp",
-      "HASH":"ae097b59b47c58549565b67506e3e6a3",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_3_R1.opp",
-      "Size":215
+      "Name":"maps\/too long\/M_3_R3.opp",
+      "HASH":"100dbf53af822280c912a2df3d0e6517",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_3_R3.opp",
+      "Size":216
     },
     {
-      "Name":"maps\/too long\/uM_4_1.png",
-      "HASH":"66a0733ba4888627aa271e26e16a030c",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_4_1.png",
-      "Size":75
+      "Name":"maps\/too long\/uM_2_1.png",
+      "HASH":"ca47630fb8559875407d2873472fd20b",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_2_1.png",
+      "Size":95
+    },
+    {
+      "Name":"maps\/too long\/M_2_G1.opp",
+      "HASH":"0e67d74d48c2e283a3f649358f9f2e1e",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_2_G1.opp",
+      "Size":216
     },
     {
       "Name":"maps\/Spin\/dc4.png",
@@ -17978,6 +17978,18 @@
       "Size":228
     },
     {
+      "Name":"opponents\/M_3_R1\/M_3_R1.opp",
+      "HASH":"833e938e9fd161e1cd28858b54fd7110",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_3_R1\/M_3_R1.opp",
+      "Size":215
+    },
+    {
+      "Name":"opponents\/M_3_R1\/uM_3_1.png",
+      "HASH":"2e484113ae389b164bf20c985406b00c",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_3_R1\/uM_3_1.png",
+      "Size":102
+    },
+    {
       "Name":"opponents\/C_B_B2\/uC_Blue_2.ani",
       "HASH":"829b3e58e1b68c06a695a3497047b9b4",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/C_B_B2\/uC_Blue_2.ani",
@@ -18014,16 +18026,16 @@
       "Size":237
     },
     {
-      "Name":"opponents\/M_1_Y4\/M_1_Y4.opp",
-      "HASH":"6922b41accf3cbe51ec96b2c2c5422ee",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y4\/M_1_Y4.opp",
-      "Size":219
+      "Name":"opponents\/M_4_B1\/M_4_B1.opp",
+      "HASH":"c785a1c795264f54770281a2f932e04b",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B1\/M_4_B1.opp",
+      "Size":215
     },
     {
-      "Name":"opponents\/M_1_Y4\/uM_1_4.png",
-      "HASH":"0ff57318c553b9ff7e30b53eebef7621",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y4\/uM_1_4.png",
-      "Size":99
+      "Name":"opponents\/M_4_B1\/uM_4_1.png",
+      "HASH":"66a0733ba4888627aa271e26e16a030c",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B1\/uM_4_1.png",
+      "Size":75
     },
     {
       "Name":"opponents\/P_M_Tank4\/uP_tank4.bmp",
@@ -18048,30 +18060,6 @@
       "HASH":"7ea6e521e52d8690e44044a9a71a9e8d",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_Y_Knight4\/uCo_Knight_4.ani",
       "Size":885136
-    },
-    {
-      "Name":"opponents\/M_3_R3\/M_3_R3.opp",
-      "HASH":"51374da5b570ce65a1928935a5974a76",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_3_R3\/M_3_R3.opp",
-      "Size":216
-    },
-    {
-      "Name":"opponents\/M_3_R3\/uM_3_3.png",
-      "HASH":"9693d0090afd91b2c65a624c864b9fad",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_3_R3\/uM_3_3.png",
-      "Size":111
-    },
-    {
-      "Name":"opponents\/M_3_R6\/M_3_R6.opp",
-      "HASH":"e2ba1f935d3f6ecad4845c117d21c20a",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_3_R6\/M_3_R6.opp",
-      "Size":220
-    },
-    {
-      "Name":"opponents\/M_3_R6\/uM_3_6.png",
-      "HASH":"e0f3d9879cbc985ee041c8c314d4dff7",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_3_R6\/uM_3_6.png",
-      "Size":113
     },
     {
       "Name":"opponents\/Co_G_Slimy\/Co_G_Slimy.opp",
@@ -18122,18 +18110,6 @@
       "Size":1254
     },
     {
-      "Name":"opponents\/M_4_B4\/M_4_B4.opp",
-      "HASH":"d7fa9d8fd7ab4819c9e3b99f2b73a500",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B4\/M_4_B4.opp",
-      "Size":216
-    },
-    {
-      "Name":"opponents\/M_4_B4\/uM_4_4.png",
-      "HASH":"8273251f325015a1b3e4423d042024cc",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B4\/uM_4_4.png",
-      "Size":114
-    },
-    {
       "Name":"opponents\/Co_R_dwarf\/uCo_dwarf_1.ani",
       "HASH":"bdf8ce6e288f785dffb053245aad9e8f",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_R_dwarf\/uCo_dwarf_1.ani",
@@ -18182,6 +18158,18 @@
       "Size":1254
     },
     {
+      "Name":"opponents\/M_2_G1\/uM_2_1.png",
+      "HASH":"ca47630fb8559875407d2873472fd20b",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G1\/uM_2_1.png",
+      "Size":95
+    },
+    {
+      "Name":"opponents\/M_2_G1\/M_2_G1.opp",
+      "HASH":"0e67d74d48c2e283a3f649358f9f2e1e",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G1\/M_2_G1.opp",
+      "Size":216
+    },
+    {
       "Name":"opponents\/Co_G_spider\/uCo_Spider_1.ani",
       "HASH":"2a6ea5e40ffb86b6da2c72c35d8edff9",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_G_spider\/uCo_Spider_1.ani",
@@ -18194,42 +18182,6 @@
       "Size":244
     },
     {
-      "Name":"opponents\/M_4_B6\/uM_4_6.png",
-      "HASH":"8f7eede0b0203f8b7ff873e1ea12459a",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B6\/uM_4_6.png",
-      "Size":122
-    },
-    {
-      "Name":"opponents\/M_4_B6\/M_4_B6.opp",
-      "HASH":"328d17a7ef2832c007ad229b1ff85f16",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B6\/M_4_B6.opp",
-      "Size":219
-    },
-    {
-      "Name":"opponents\/M_3_R5\/uM_3_5.png",
-      "HASH":"296b1529e470b66dad4ac93558207469",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_3_R5\/uM_3_5.png",
-      "Size":112
-    },
-    {
-      "Name":"opponents\/M_3_R5\/M_3_R5.opp",
-      "HASH":"c16da41a1ea298a9fd34a508845ba837",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_3_R5\/M_3_R5.opp",
-      "Size":218
-    },
-    {
-      "Name":"opponents\/M_1_Y3\/M_1_Y3.opp",
-      "HASH":"c04e69bc199eee5627d3006e14f0fa68",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y3\/M_1_Y3.opp",
-      "Size":216
-    },
-    {
-      "Name":"opponents\/M_1_Y3\/uM_1_3.png",
-      "HASH":"f0bc2457736fbb104a9b99558c18fd1d",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y3\/uM_1_3.png",
-      "Size":98
-    },
-    {
       "Name":"opponents\/C_G_Gr6\/uC_Green_6.bmp",
       "HASH":"092bc315dc78ae5a89eb3e39188106cb",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/C_G_Gr6\/uC_Green_6.bmp",
@@ -18240,6 +18192,18 @@
       "HASH":"ddef70e9f1a97d908a151fd88e6bb3f2",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/C_G_Gr6\/C_G_Gr6.opp",
       "Size":242
+    },
+    {
+      "Name":"opponents\/M_4_B4\/uM_4_4.png",
+      "HASH":"8273251f325015a1b3e4423d042024cc",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B4\/uM_4_4.png",
+      "Size":114
+    },
+    {
+      "Name":"opponents\/M_4_B4\/M_4_B4.opp",
+      "HASH":"5dc0df2076c9c00f6214cac42f0ef5ae",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B4\/M_4_B4.opp",
+      "Size":216
     },
     {
       "Name":"opponents\/Co_B_Slimy6\/uCo_Slimy6_5.ani",
@@ -18314,18 +18278,6 @@
       "Size":257
     },
     {
-      "Name":"opponents\/M_1_Y2\/uM_1_2.png",
-      "HASH":"2d760ab9789b8587acb6b39e57858a4b",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y2\/uM_1_2.png",
-      "Size":96
-    },
-    {
-      "Name":"opponents\/M_1_Y2\/M_1_Y2.opp",
-      "HASH":"0cc0fafd6b4e63990cb7db19c1db020a",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y2\/M_1_Y2.opp",
-      "Size":218
-    },
-    {
       "Name":"opponents\/Co_R_PigWizzard2\/uCo_PigWizzard2_2.ani",
       "HASH":"7bf9a3d6a7b2455d69e2d06cf74cffb2",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_R_PigWizzard2\/uCo_PigWizzard2_2.ani",
@@ -18348,18 +18300,6 @@
       "HASH":"52af75b3b38dc126d95c3402a6975400",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/P_S_Tank5\/P_S_Tank5.opp",
       "Size":239
-    },
-    {
-      "Name":"opponents\/M_1_Y5\/M_1_Y5.opp",
-      "HASH":"4718d55c83988679e0d82d808c447462",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y5\/M_1_Y5.opp",
-      "Size":220
-    },
-    {
-      "Name":"opponents\/M_1_Y5\/uM_1_5.png",
-      "HASH":"8fbd806831b515e9e1399ec8efe7dc5b",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y5\/uM_1_5.png",
-      "Size":99
     },
     {
       "Name":"opponents\/Co_G_Big2\/Co_G_Big2.opp",
@@ -18410,6 +18350,18 @@
       "Size":1254
     },
     {
+      "Name":"opponents\/M_4_B6\/M_4_B6.opp",
+      "HASH":"30f5de78e74d3cd6e99ff98972e64fe2",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B6\/M_4_B6.opp",
+      "Size":219
+    },
+    {
+      "Name":"opponents\/M_4_B6\/uM_4_6.png",
+      "HASH":"8f7eede0b0203f8b7ff873e1ea12459a",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B6\/uM_4_6.png",
+      "Size":122
+    },
+    {
       "Name":"opponents\/P_P_Tank1\/uP_tank1.bmp",
       "HASH":"4be6d35290bd708181996ab41c44024b",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/P_P_Tank1\/uP_tank1.bmp",
@@ -18434,16 +18386,16 @@
       "Size":239
     },
     {
-      "Name":"opponents\/M_4_B3\/uM_4_3.png",
-      "HASH":"1e64b1bd1d991df2b706cf1edca661c4",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B3\/uM_4_3.png",
-      "Size":112
+      "Name":"opponents\/M_1_Y1\/uM_1_1.png",
+      "HASH":"4110f9c129b2c952a3249c3790aef648",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y1\/uM_1_1.png",
+      "Size":73
     },
     {
-      "Name":"opponents\/M_4_B3\/M_4_B3.opp",
-      "HASH":"7685a279d8cb307471a059771997f57f",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B3\/M_4_B3.opp",
-      "Size":215
+      "Name":"opponents\/M_1_Y1\/M_1_Y1.opp",
+      "HASH":"b8e86f4265df2c66f9f4d299bb07f397",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y1\/M_1_Y1.opp",
+      "Size":216
     },
     {
       "Name":"opponents\/P_S_Balloon_Red\/uP_redballoon.png",
@@ -18506,6 +18458,30 @@
       "Size":238
     },
     {
+      "Name":"opponents\/M_1_Y3\/M_1_Y3.opp",
+      "HASH":"03f75bf56fbc1a84e55ecd425f56ce15",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y3\/M_1_Y3.opp",
+      "Size":216
+    },
+    {
+      "Name":"opponents\/M_1_Y3\/uM_1_3.png",
+      "HASH":"f0bc2457736fbb104a9b99558c18fd1d",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y3\/uM_1_3.png",
+      "Size":98
+    },
+    {
+      "Name":"opponents\/M_3_R5\/uM_3_5.png",
+      "HASH":"296b1529e470b66dad4ac93558207469",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_3_R5\/uM_3_5.png",
+      "Size":112
+    },
+    {
+      "Name":"opponents\/M_3_R5\/M_3_R5.opp",
+      "HASH":"13fb732aea12cc6269e09d93a08619a4",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_3_R5\/M_3_R5.opp",
+      "Size":218
+    },
+    {
       "Name":"opponents\/Co_G_greenlady\/uCo_GreenLady_4.ani",
       "HASH":"8df79004e6286137a401110e1c90a50b",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_G_greenlady\/uCo_GreenLady_4.ani",
@@ -18528,18 +18504,6 @@
       "HASH":"63c5ebe58cce973de0f276ba86d481e3",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/P_M_Zombi\/P_M_Zombi.opp",
       "Size":238
-    },
-    {
-      "Name":"opponents\/M_1_Y1\/uM_1_1.png",
-      "HASH":"4110f9c129b2c952a3249c3790aef648",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y1\/uM_1_1.png",
-      "Size":73
-    },
-    {
-      "Name":"opponents\/M_1_Y1\/M_1_Y1.opp",
-      "HASH":"0f0bb30a3dfdcef83dc7e25969bc62fc",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y1\/M_1_Y1.opp",
-      "Size":216
     },
     {
       "Name":"opponents\/P_S_Schnecke\/uP_schnecke.bmp",
@@ -18578,6 +18542,18 @@
       "Size":9358
     },
     {
+      "Name":"opponents\/M_1_Y4\/uM_1_4.png",
+      "HASH":"0ff57318c553b9ff7e30b53eebef7621",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y4\/uM_1_4.png",
+      "Size":99
+    },
+    {
+      "Name":"opponents\/M_1_Y4\/M_1_Y4.opp",
+      "HASH":"934fb5427d32add29a66fb7bfb74ccd1",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y4\/M_1_Y4.opp",
+      "Size":219
+    },
+    {
       "Name":"opponents\/C_R_R2\/uC_Red_2.bmp",
       "HASH":"90604560a6a502b6f46726fea255455d",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/C_R_R2\/uC_Red_2.bmp",
@@ -18600,6 +18576,18 @@
       "HASH":"b9d758bd699557febaf75440b9a52cea",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_R_Bigger_2\/uCo_Red5.ani",
       "Size":322960
+    },
+    {
+      "Name":"opponents\/M_3_R4\/M_3_R4.opp",
+      "HASH":"083629f569ea1121aa54d2ea119aa9b3",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_3_R4\/M_3_R4.opp",
+      "Size":216
+    },
+    {
+      "Name":"opponents\/M_3_R4\/uM_3_4.png",
+      "HASH":"05fd7fe02f7fb5d7f64d377a4dc338bf",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_3_R4\/uM_3_4.png",
+      "Size":111
     },
     {
       "Name":"opponents\/P_A_Hubi\/P_A_Hubi.opp",
@@ -18626,18 +18614,6 @@
       "Size":235
     },
     {
-      "Name":"opponents\/M_2_G2\/M_2_G2.opp",
-      "HASH":"960570d94253bd105a50e158407a0ccc",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G2\/M_2_G2.opp",
-      "Size":218
-    },
-    {
-      "Name":"opponents\/M_2_G2\/uM_2_2.png",
-      "HASH":"a20104b9486fbffc147dbef1f4ef8724",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G2\/uM_2_2.png",
-      "Size":100
-    },
-    {
       "Name":"opponents\/C_G_Gr3\/C_G_Gr3.opp",
       "HASH":"4f6e19fcbd2805346c0b31fbc7755472",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/C_G_Gr3\/C_G_Gr3.opp",
@@ -18650,16 +18626,16 @@
       "Size":1254
     },
     {
-      "Name":"opponents\/M_2_G5\/M_2_G5.opp",
-      "HASH":"2b02feab2babbaf4d346188bfcc720cb",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G5\/M_2_G5.opp",
-      "Size":219
+      "Name":"opponents\/M_4_B3\/M_4_B3.opp",
+      "HASH":"8a98f1f07165a4d480b40fae8878ed5a",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B3\/M_4_B3.opp",
+      "Size":215
     },
     {
-      "Name":"opponents\/M_2_G5\/uM_2_5.png",
-      "HASH":"f398f7dd03380d695545764e2826a0cd",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G5\/uM_2_5.png",
-      "Size":123
+      "Name":"opponents\/M_4_B3\/uM_4_3.png",
+      "HASH":"1e64b1bd1d991df2b706cf1edca661c4",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B3\/uM_4_3.png",
+      "Size":112
     },
     {
       "Name":"opponents\/C_R_R5\/C_R_R5.opp",
@@ -18672,18 +18648,6 @@
       "HASH":"53a1cc53ef372542f431d4bc6a4c7440",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/C_R_R5\/uC_Red_5.bmp",
       "Size":1254
-    },
-    {
-      "Name":"opponents\/M_4_B2\/M_4_B2.opp",
-      "HASH":"95e0571c940cae715a3a24f06d48c75a",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B2\/M_4_B2.opp",
-      "Size":215
-    },
-    {
-      "Name":"opponents\/M_4_B2\/uM_4_2.png",
-      "HASH":"f7636a5577986902ad7ac5f214c90148",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B2\/uM_4_2.png",
-      "Size":105
     },
     {
       "Name":"opponents\/C_R_R6\/C_R_R6.opp",
@@ -18735,7 +18699,7 @@
     },
     {
       "Name":"opponents\/M_3_R2\/M_3_R2.opp",
-      "HASH":"96fedfadf8f9ca54f46175318e3cca1a",
+      "HASH":"ca7b211ae1c51c432685e09e1b477b16",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_3_R2\/M_3_R2.opp",
       "Size":217
     },
@@ -18744,6 +18708,18 @@
       "HASH":"a76f9e05c1857c9681c4cdeb31e8b165",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_3_R2\/uM_3_2.png",
       "Size":105
+    },
+    {
+      "Name":"opponents\/M_2_G2\/M_2_G2.opp",
+      "HASH":"ed626e0bed062302cbbc553733d45bfb",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G2\/M_2_G2.opp",
+      "Size":218
+    },
+    {
+      "Name":"opponents\/M_2_G2\/uM_2_2.png",
+      "HASH":"a20104b9486fbffc147dbef1f4ef8724",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G2\/uM_2_2.png",
+      "Size":100
     },
     {
       "Name":"opponents\/P_A_Plane\/uP_Plane.png",
@@ -18818,28 +18794,16 @@
       "Size":64912
     },
     {
-      "Name":"opponents\/M_4_B5\/uM_4_5.png",
-      "HASH":"a1797f4f84dd895009616ab7fe8cd11a",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B5\/uM_4_5.png",
-      "Size":120
+      "Name":"opponents\/M_4_B2\/M_4_B2.opp",
+      "HASH":"58cbe03b8e3fbbf8d2afe2a4546128ec",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B2\/M_4_B2.opp",
+      "Size":215
     },
     {
-      "Name":"opponents\/M_4_B5\/M_4_B5.opp",
-      "HASH":"eb1a44fe0717295dac8d205a642beb9f",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B5\/M_4_B5.opp",
-      "Size":216
-    },
-    {
-      "Name":"opponents\/M_2_G6\/M_2_G6.opp",
-      "HASH":"8f8c84a5f1bd62f49784ddab71f86da0",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G6\/M_2_G6.opp",
-      "Size":228
-    },
-    {
-      "Name":"opponents\/M_2_G6\/uM_2_6.png",
-      "HASH":"2d1fde47ef322f8783b14c486ba4cdb9",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G6\/uM_2_6.png",
-      "Size":140
+      "Name":"opponents\/M_4_B2\/uM_4_2.png",
+      "HASH":"f7636a5577986902ad7ac5f214c90148",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B2\/uM_4_2.png",
+      "Size":105
     },
     {
       "Name":"opponents\/P_P_Balloon_Green\/P_P_Balloon_Green.opp",
@@ -18902,6 +18866,18 @@
       "Size":3126
     },
     {
+      "Name":"opponents\/M_2_G3\/uM_2_3.png",
+      "HASH":"15a444a1b284e12310b9c32b0290c8ee",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G3\/uM_2_3.png",
+      "Size":107
+    },
+    {
+      "Name":"opponents\/M_2_G3\/M_2_G3.opp",
+      "HASH":"0636f3f9d26e92f6cb7a0be7e1e866d0",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G3\/M_2_G3.opp",
+      "Size":216
+    },
+    {
       "Name":"opponents\/Co_R_Big\/uCo_Black5.ani",
       "HASH":"8b8c095bc88a0a8ed0aa03c8ab5cf155",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_R_Big\/uCo_Black5.ani",
@@ -18938,18 +18914,6 @@
       "Size":230
     },
     {
-      "Name":"opponents\/M_4_B1\/M_4_B1.opp",
-      "HASH":"d9da6e21320ad96ef9e9e735170d7175",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B1\/M_4_B1.opp",
-      "Size":215
-    },
-    {
-      "Name":"opponents\/M_4_B1\/uM_4_1.png",
-      "HASH":"66a0733ba4888627aa271e26e16a030c",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B1\/uM_4_1.png",
-      "Size":75
-    },
-    {
       "Name":"opponents\/Co_Y_Tiny\/Co_Y_Tiny.opp",
       "HASH":"5f685a73dcffc50389d7fab8360ecaa5",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/Co_Y_Tiny\/Co_Y_Tiny.opp",
@@ -18974,18 +18938,6 @@
       "Size":3126
     },
     {
-      "Name":"opponents\/M_3_R4\/uM_3_4.png",
-      "HASH":"05fd7fe02f7fb5d7f64d377a4dc338bf",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_3_R4\/uM_3_4.png",
-      "Size":111
-    },
-    {
-      "Name":"opponents\/M_3_R4\/M_3_R4.opp",
-      "HASH":"80d1f40b9f0473c3ff6d88098b144121",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_3_R4\/M_3_R4.opp",
-      "Size":216
-    },
-    {
       "Name":"opponents\/C_B_B1\/uC_Blue_1.ani",
       "HASH":"a69a2c2c12710618c384e2efe1f6a820",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/C_B_B1\/uC_Blue_1.ani",
@@ -18998,40 +18950,16 @@
       "Size":235
     },
     {
-      "Name":"opponents\/M_2_G1\/M_2_G1.opp",
-      "HASH":"dcb814e2f4fd21f257346bdcf678b582",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G1\/M_2_G1.opp",
-      "Size":216
-    },
-    {
-      "Name":"opponents\/M_2_G1\/uM_2_1.png",
-      "HASH":"ca47630fb8559875407d2873472fd20b",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G1\/uM_2_1.png",
-      "Size":95
-    },
-    {
-      "Name":"opponents\/M_1_Y6\/M_1_Y6.opp",
-      "HASH":"239eb8d03309b2c6f497e2d46795bf9b",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y6\/M_1_Y6.opp",
+      "Name":"opponents\/M_2_G4\/M_2_G4.opp",
+      "HASH":"10ec366f6c210b73241a946e0be8c91c",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G4\/M_2_G4.opp",
       "Size":220
     },
     {
-      "Name":"opponents\/M_1_Y6\/uM_1_6.png",
-      "HASH":"d488c67800c5f2d37c3d6141d0b4247f",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y6\/uM_1_6.png",
-      "Size":99
-    },
-    {
-      "Name":"opponents\/M_2_G3\/uM_2_3.png",
-      "HASH":"15a444a1b284e12310b9c32b0290c8ee",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G3\/uM_2_3.png",
-      "Size":107
-    },
-    {
-      "Name":"opponents\/M_2_G3\/M_2_G3.opp",
-      "HASH":"923b0a051dbeaa44df99b268cfdb7a7d",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G3\/M_2_G3.opp",
-      "Size":216
+      "Name":"opponents\/M_2_G4\/uM_2_4.png",
+      "HASH":"08fcc587ddf13300419830a0816dde05",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G4\/uM_2_4.png",
+      "Size":113
     },
     {
       "Name":"opponents\/Co_Y_Knight2\/Co_Y_Knight2.opp",
@@ -19070,16 +18998,16 @@
       "Size":238
     },
     {
-      "Name":"opponents\/M_3_R1\/uM_3_1.png",
-      "HASH":"2e484113ae389b164bf20c985406b00c",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_3_R1\/uM_3_1.png",
-      "Size":102
+      "Name":"opponents\/M_2_G6\/uM_2_6.png",
+      "HASH":"2d1fde47ef322f8783b14c486ba4cdb9",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G6\/uM_2_6.png",
+      "Size":140
     },
     {
-      "Name":"opponents\/M_3_R1\/M_3_R1.opp",
-      "HASH":"ae097b59b47c58549565b67506e3e6a3",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_3_R1\/M_3_R1.opp",
-      "Size":215
+      "Name":"opponents\/M_2_G6\/M_2_G6.opp",
+      "HASH":"61515338f75d055e358b9178d8f6449c",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G6\/M_2_G6.opp",
+      "Size":228
     },
     {
       "Name":"opponents\/P_M_Balloon_Blue\/uP_blueballoon.png",
@@ -19104,6 +19032,30 @@
       "HASH":"b0f77a90974ccdea021343988cbef7dd",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/P_P_Spider\/uP_spider.png",
       "Size":182
+    },
+    {
+      "Name":"opponents\/M_1_Y2\/M_1_Y2.opp",
+      "HASH":"e2cfb45591eb65fb60d931195a799ca4",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y2\/M_1_Y2.opp",
+      "Size":218
+    },
+    {
+      "Name":"opponents\/M_1_Y2\/uM_1_2.png",
+      "HASH":"2d760ab9789b8587acb6b39e57858a4b",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y2\/uM_1_2.png",
+      "Size":96
+    },
+    {
+      "Name":"opponents\/M_3_R6\/uM_3_6.png",
+      "HASH":"e0f3d9879cbc985ee041c8c314d4dff7",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_3_R6\/uM_3_6.png",
+      "Size":113
+    },
+    {
+      "Name":"opponents\/M_3_R6\/M_3_R6.opp",
+      "HASH":"2121e321194ab7d6f7a629fa8ed0c4e7",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_3_R6\/M_3_R6.opp",
+      "Size":220
     },
     {
       "Name":"opponents\/P_P_Balloon_White\/P_P_Balloon_White.opp",
@@ -19178,16 +19130,40 @@
       "Size":235
     },
     {
-      "Name":"opponents\/M_2_G4\/M_2_G4.opp",
-      "HASH":"5b6430618262f2b18884aefec53fb898",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G4\/M_2_G4.opp",
+      "Name":"opponents\/M_4_B5\/uM_4_5.png",
+      "HASH":"a1797f4f84dd895009616ab7fe8cd11a",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B5\/uM_4_5.png",
+      "Size":120
+    },
+    {
+      "Name":"opponents\/M_4_B5\/M_4_B5.opp",
+      "HASH":"47e3c3ddc8670f6ab59e8d9bf47ede17",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_4_B5\/M_4_B5.opp",
+      "Size":216
+    },
+    {
+      "Name":"opponents\/M_2_G5\/uM_2_5.png",
+      "HASH":"f398f7dd03380d695545764e2826a0cd",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G5\/uM_2_5.png",
+      "Size":123
+    },
+    {
+      "Name":"opponents\/M_2_G5\/M_2_G5.opp",
+      "HASH":"34011102a5bcfe50c228d1795578fc0c",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G5\/M_2_G5.opp",
+      "Size":219
+    },
+    {
+      "Name":"opponents\/M_1_Y6\/M_1_Y6.opp",
+      "HASH":"1efafcdc5b6d74a60143e82c7dbd1d15",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y6\/M_1_Y6.opp",
       "Size":220
     },
     {
-      "Name":"opponents\/M_2_G4\/uM_2_4.png",
-      "HASH":"08fcc587ddf13300419830a0816dde05",
-      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_2_G4\/uM_2_4.png",
-      "Size":113
+      "Name":"opponents\/M_1_Y6\/uM_1_6.png",
+      "HASH":"d488c67800c5f2d37c3d6141d0b4247f",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y6\/uM_1_6.png",
+      "Size":99
     },
     {
       "Name":"opponents\/P_A_Ufo\/uP_ufo.bmp",
@@ -19214,6 +19190,18 @@
       "Size":226
     },
     {
+      "Name":"opponents\/M_1_Y5\/uM_1_5.png",
+      "HASH":"8fbd806831b515e9e1399ec8efe7dc5b",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y5\/uM_1_5.png",
+      "Size":99
+    },
+    {
+      "Name":"opponents\/M_1_Y5\/M_1_Y5.opp",
+      "HASH":"16fd4b1764af1027a197921e02f74a6e",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_1_Y5\/M_1_Y5.opp",
+      "Size":220
+    },
+    {
       "Name":"opponents\/C_Y_Ge6\/uC_Yellow_6.bmp",
       "HASH":"b573b4ddf96d481dfc9f47ef1c5c4ba5",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/C_Y_Ge6\/uC_Yellow_6.bmp",
@@ -19224,6 +19212,18 @@
       "HASH":"5ed8fca0d24fb0b51ff2770a16425e02",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/C_Y_Ge6\/C_Y_Ge6.opp",
       "Size":242
+    },
+    {
+      "Name":"opponents\/M_3_R3\/uM_3_3.png",
+      "HASH":"9693d0090afd91b2c65a624c864b9fad",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_3_R3\/uM_3_3.png",
+      "Size":111
+    },
+    {
+      "Name":"opponents\/M_3_R3\/M_3_R3.opp",
+      "HASH":"100dbf53af822280c912a2df3d0e6517",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/opponents\/M_3_R3\/M_3_R3.opp",
+      "Size":216
     },
     {
       "Name":"opponents\/P_S_Car\/P_S_Car.opp",
