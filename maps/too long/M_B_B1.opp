@@ -1,0 +1,17 @@
+[opponent]
+name=B1
+description=
+lifepoints0=0
+lifepoints1=0
+lifepoints2=0
+lifepoints3=10
+lifefactor0=0.5
+lifefactor1=1
+lifefactor2=1.5
+speed=4
+size=0.70x0.70
+image=uM_B_1.png
+canfly=1
+boss=0
+bonus=0
+imagerotation=0

@@ -1,0 +1,17 @@
+[opponent]
+name=Gr2
+description=
+lifepoints0=0
+lifepoints1=40
+lifepoints2=0
+lifepoints3=0
+lifefactor0=0.5
+lifefactor1=1
+lifefactor2=1.5
+speed=3.5
+size=0.50x0.50
+image=uM_G_2.png
+canfly=0
+boss=0
+bonus=0
+imagerotation=1

@@ -1,0 +1,17 @@
+[opponent]
+name=B3
+description=
+lifepoints0=0
+lifepoints1=0
+lifepoints2=0
+lifepoints3=63
+lifefactor0=0.5
+lifefactor1=1
+lifefactor2=1.5
+speed=5
+size=0.90x0.90
+image=uM_B_3.png
+canfly=1
+boss=0
+bonus=0
+imagerotation=0
