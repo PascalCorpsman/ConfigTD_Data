@@ -2534,6 +2534,42 @@
       "Size":12125
     },
     {
+      "Name":"graphics\/textures\/Colored\/Buildable.sys",
+      "HASH":"acfee22f7be0bdf0298bd5a795aa1f5a",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/textures\/Colored\/Buildable.sys",
+      "Size":104
+    },
+    {
+      "Name":"graphics\/textures\/Colored\/Walkable.bmp",
+      "HASH":"5b4a255e5ad2293b87e1f6ed2e6eb3bf",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/textures\/Colored\/Walkable.bmp",
+      "Size":374
+    },
+    {
+      "Name":"graphics\/textures\/Colored\/Nothing.bmp",
+      "HASH":"1aeaa1a17798595686eb1e35c448feab",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/textures\/Colored\/Nothing.bmp",
+      "Size":374
+    },
+    {
+      "Name":"graphics\/textures\/Colored\/Nothing.sys",
+      "HASH":"22eac8a9d7b70c4a6b42bf9528672469",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/textures\/Colored\/Nothing.sys",
+      "Size":102
+    },
+    {
+      "Name":"graphics\/textures\/Colored\/Walkable.sys",
+      "HASH":"9112011867d3d56ca468dcd999f5d2f0",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/textures\/Colored\/Walkable.sys",
+      "Size":99
+    },
+    {
+      "Name":"graphics\/textures\/Colored\/Buildable.bmp",
+      "HASH":"5ff4f4cce88c25feeda2cd4b40679da0",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/textures\/Colored\/Buildable.bmp",
+      "Size":1254
+    },
+    {
       "Name":"graphics\/damage_classes\/comic\/dc4.png",
       "HASH":"3cd4508753f27805a490dfa67749b735",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/graphics\/damage_classes\/comic\/dc4.png",
@@ -8366,28 +8402,328 @@
       "Size":1254
     },
     {
+      "Name":"maps\/too long\/M_Y_Y4.opp",
+      "HASH":"6922b41accf3cbe51ec96b2c2c5422ee",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_Y_Y4.opp",
+      "Size":219
+    },
+    {
+      "Name":"maps\/too long\/bMLaser3_1.png",
+      "HASH":"ea5e5ea0bbc06abce212d2de65cfb2cc",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMLaser3_1.png",
+      "Size":1078
+    },
+    {
       "Name":"maps\/too long\/dc4.png",
-      "HASH":"af4a34a52ce908819b5c63739f69921a",
+      "HASH":"b929ed79eda72141199bee521faf9e8c",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/dc4.png",
-      "Size":233
+      "Size":117
+    },
+    {
+      "Name":"maps\/too long\/bMPoison1_4.png",
+      "HASH":"c04c0b1f25e29f6ee029c446ade45671",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMPoison1_4.png",
+      "Size":884
+    },
+    {
+      "Name":"maps\/too long\/M_R_R3.opp",
+      "HASH":"51374da5b570ce65a1928935a5974a76",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_R_R3.opp",
+      "Size":216
+    },
+    {
+      "Name":"maps\/too long\/uM_Y_1.png",
+      "HASH":"4110f9c129b2c952a3249c3790aef648",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_Y_1.png",
+      "Size":73
+    },
+    {
+      "Name":"maps\/too long\/wM_Blue_1.bmp",
+      "HASH":"239ffb74a0373a730f10bb34fb18b39f",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/wM_Blue_1.bmp",
+      "Size":134
+    },
+    {
+      "Name":"maps\/too long\/M_B_B4.opp",
+      "HASH":"d7fa9d8fd7ab4819c9e3b99f2b73a500",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_B_B4.opp",
+      "Size":216
+    },
+    {
+      "Name":"maps\/too long\/M_R_R2.opp",
+      "HASH":"96fedfadf8f9ca54f46175318e3cca1a",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_R_R2.opp",
+      "Size":217
+    },
+    {
+      "Name":"maps\/too long\/uM_R_4.png",
+      "HASH":"05fd7fe02f7fb5d7f64d377a4dc338bf",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_R_4.png",
+      "Size":111
+    },
+    {
+      "Name":"maps\/too long\/M_B_B2.opp",
+      "HASH":"95e0571c940cae715a3a24f06d48c75a",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_B_B2.opp",
+      "Size":215
+    },
+    {
+      "Name":"maps\/too long\/M_G_G1.opp",
+      "HASH":"dcb814e2f4fd21f257346bdcf678b582",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_G_G1.opp",
+      "Size":216
+    },
+    {
+      "Name":"maps\/too long\/bMPoison1_2.png",
+      "HASH":"e1b574c44d13852718dca3c620a6d182",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMPoison1_2.png",
+      "Size":586
+    },
+    {
+      "Name":"maps\/too long\/bMPoison1_3.png",
+      "HASH":"5e92d2cefdbeb23e7ea52e5c6311a818",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMPoison1_3.png",
+      "Size":755
+    },
+    {
+      "Name":"maps\/too long\/bMLaser1_3.png",
+      "HASH":"967f7cfd6fadf689d7f1514a57b16666",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMLaser1_3.png",
+      "Size":1447
+    },
+    {
+      "Name":"maps\/too long\/uM_B_2.png",
+      "HASH":"f7636a5577986902ad7ac5f214c90148",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_B_2.png",
+      "Size":105
+    },
+    {
+      "Name":"maps\/too long\/M_Y_Y5.opp",
+      "HASH":"4718d55c83988679e0d82d808c447462",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_Y_Y5.opp",
+      "Size":220
+    },
+    {
+      "Name":"maps\/too long\/bMPoison1_1.png",
+      "HASH":"07683833c4de219c02b656d7dae71228",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMPoison1_1.png",
+      "Size":496
+    },
+    {
+      "Name":"maps\/too long\/bMLaser3_2.png",
+      "HASH":"fec322318dc1b9704cde0ec5da637a90",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMLaser3_2.png",
+      "Size":1569
+    },
+    {
+      "Name":"maps\/too long\/wM_Green_1.bmp",
+      "HASH":"46542c3a5724a1df747a0301d5c4a0d1",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/wM_Green_1.bmp",
+      "Size":134
+    },
+    {
+      "Name":"maps\/too long\/bMLaser2_3.ani",
+      "HASH":"f1d0f88c200e27fc4361357f996b3d25",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMLaser2_3.ani",
+      "Size":224196
+    },
+    {
+      "Name":"maps\/too long\/bMLaser1_4.png",
+      "HASH":"b3725ab7eabf6ed094fa6621aabca0ea",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMLaser1_4.png",
+      "Size":1480
+    },
+    {
+      "Name":"maps\/too long\/uM_Y_2.png",
+      "HASH":"2d760ab9789b8587acb6b39e57858a4b",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_Y_2.png",
+      "Size":96
+    },
+    {
+      "Name":"maps\/too long\/bMLaser1_2.png",
+      "HASH":"0575e4949b5466e6eda7647a5ebfe71d",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMLaser1_2.png",
+      "Size":1235
+    },
+    {
+      "Name":"maps\/too long\/uM_B_3.png",
+      "HASH":"1e64b1bd1d991df2b706cf1edca661c4",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_B_3.png",
+      "Size":112
+    },
+    {
+      "Name":"maps\/too long\/M_G_G4.opp",
+      "HASH":"5b6430618262f2b18884aefec53fb898",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_G_G4.opp",
+      "Size":220
+    },
+    {
+      "Name":"maps\/too long\/bMLaser1_1.png",
+      "HASH":"8ab241cadab2b7679ce2169a5fc6de2b",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMLaser1_1.png",
+      "Size":792
     },
     {
       "Name":"maps\/too long\/dc1.png",
-      "HASH":"e1d10248ad98754afa0d6596ecbc7104",
+      "HASH":"546a2aed4c41de3c159962cadb16b309",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/dc1.png",
-      "Size":227
+      "Size":97
+    },
+    {
+      "Name":"maps\/too long\/uM_B_4.png",
+      "HASH":"8273251f325015a1b3e4423d042024cc",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_B_4.png",
+      "Size":114
+    },
+    {
+      "Name":"maps\/too long\/uM_R_1.png",
+      "HASH":"2e484113ae389b164bf20c985406b00c",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_R_1.png",
+      "Size":102
+    },
+    {
+      "Name":"maps\/too long\/M_B_B3.opp",
+      "HASH":"7685a279d8cb307471a059771997f57f",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_B_B3.opp",
+      "Size":215
+    },
+    {
+      "Name":"maps\/too long\/M_G_G1.geb",
+      "HASH":"e1760d22d180b28b0dcc8b90e30a9b23",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_G_G1.geb",
+      "Size":1426
+    },
+    {
+      "Name":"maps\/too long\/M_B_B1.opp",
+      "HASH":"d9da6e21320ad96ef9e9e735170d7175",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_B_B1.opp",
+      "Size":215
+    },
+    {
+      "Name":"maps\/too long\/M_Y_Y1.geb",
+      "HASH":"bdf79b9784abe39b03aedd3028c7b4ba",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_Y_Y1.geb",
+      "Size":1427
+    },
+    {
+      "Name":"maps\/too long\/M_B_B1.geb",
+      "HASH":"453d4c78d8f66c9ce83d2e864030a4f3",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_B_B1.geb",
+      "Size":1417
+    },
+    {
+      "Name":"maps\/too long\/bMLaser3_3.png",
+      "HASH":"aeae947a7052c4ec61a54ab9b9a48ba7",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMLaser3_3.png",
+      "Size":1558
+    },
+    {
+      "Name":"maps\/too long\/bMLaser2_1.ani",
+      "HASH":"9620283503771f2713f74c95c370fe48",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMLaser2_1.ani",
+      "Size":224196
+    },
+    {
+      "Name":"maps\/too long\/uM_G_3.png",
+      "HASH":"15a444a1b284e12310b9c32b0290c8ee",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_G_3.png",
+      "Size":107
+    },
+    {
+      "Name":"maps\/too long\/bMLaser2_2.ani",
+      "HASH":"f7ed107188093e6af937ecc8afd616c6",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMLaser2_2.ani",
+      "Size":224196
+    },
+    {
+      "Name":"maps\/too long\/uM_G_4.png",
+      "HASH":"08fcc587ddf13300419830a0816dde05",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_G_4.png",
+      "Size":113
+    },
+    {
+      "Name":"maps\/too long\/uM_R_2.png",
+      "HASH":"a76f9e05c1857c9681c4cdeb31e8b165",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_R_2.png",
+      "Size":105
+    },
+    {
+      "Name":"maps\/too long\/M_Y_Y3.opp",
+      "HASH":"c04e69bc199eee5627d3006e14f0fa68",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_Y_Y3.opp",
+      "Size":216
+    },
+    {
+      "Name":"maps\/too long\/uM_R_3.png",
+      "HASH":"9693d0090afd91b2c65a624c864b9fad",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_R_3.png",
+      "Size":111
+    },
+    {
+      "Name":"maps\/too long\/uM_Y_5.png",
+      "HASH":"8fbd806831b515e9e1399ec8efe7dc5b",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_Y_5.png",
+      "Size":99
+    },
+    {
+      "Name":"maps\/too long\/wM_Red_1.bmp",
+      "HASH":"d4c728d60951b563394b4468a7b756d8",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/wM_Red_1.bmp",
+      "Size":134
     },
     {
       "Name":"maps\/too long\/dc2.png",
-      "HASH":"fe4616e05a4e830b89c344ffb23d3122",
+      "HASH":"81f196f329fbe6f9557c294639b3523d",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/dc2.png",
-      "Size":213
+      "Size":157
+    },
+    {
+      "Name":"maps\/too long\/uM_G_1.png",
+      "HASH":"ca47630fb8559875407d2873472fd20b",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_G_1.png",
+      "Size":95
+    },
+    {
+      "Name":"maps\/too long\/M_R_R4.opp",
+      "HASH":"80d1f40b9f0473c3ff6d88098b144121",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_R_R4.opp",
+      "Size":216
+    },
+    {
+      "Name":"maps\/too long\/M_G_G2.opp",
+      "HASH":"960570d94253bd105a50e158407a0ccc",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_G_G2.opp",
+      "Size":218
+    },
+    {
+      "Name":"maps\/too long\/uM_Y_3.png",
+      "HASH":"f0bc2457736fbb104a9b99558c18fd1d",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_Y_3.png",
+      "Size":98
+    },
+    {
+      "Name":"maps\/too long\/bMLaser2_4.ani",
+      "HASH":"4c80600051bdb554fb43ef1318390404",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMLaser2_4.ani",
+      "Size":224196
+    },
+    {
+      "Name":"maps\/too long\/M_Y_Y2.opp",
+      "HASH":"0cc0fafd6b4e63990cb7db19c1db020a",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_Y_Y2.opp",
+      "Size":218
+    },
+    {
+      "Name":"maps\/too long\/M_Y_Y1.opp",
+      "HASH":"0f0bb30a3dfdcef83dc7e25969bc62fc",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_Y_Y1.opp",
+      "Size":216
     },
     {
       "Name":"maps\/too long\/dc3.png",
-      "HASH":"78637d40cb0f938b62305e5afb26639f",
+      "HASH":"323aa827dd89f57966b4e90937ced591",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/dc3.png",
-      "Size":221
+      "Size":109
     },
     {
       "Name":"maps\/too long\/too long.jpg",
@@ -8396,10 +8732,58 @@
       "Size":46729
     },
     {
+      "Name":"maps\/too long\/wM_Yellow_1.bmp",
+      "HASH":"f396d12800f197b108843d4da81552a2",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/wM_Yellow_1.bmp",
+      "Size":134
+    },
+    {
+      "Name":"maps\/too long\/M_R_R1.geb",
+      "HASH":"2cd0cdd6d35b2d9931065e6f2e5dcd7d",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_R_R1.geb",
+      "Size":1414
+    },
+    {
       "Name":"maps\/too long\/data.map",
-      "HASH":"c7fd637d8facfa8ecf9f4b27d84648cb",
+      "HASH":"098097bf6d5e1bfd8f1996c6d84d36b0",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/data.map",
-      "Size":1323
+      "Size":5316
+    },
+    {
+      "Name":"maps\/too long\/bMLaser3_4.png",
+      "HASH":"bfed08704d6ca3fe96864c11de17e2be",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/bMLaser3_4.png",
+      "Size":1745
+    },
+    {
+      "Name":"maps\/too long\/uM_G_2.png",
+      "HASH":"a20104b9486fbffc147dbef1f4ef8724",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_G_2.png",
+      "Size":100
+    },
+    {
+      "Name":"maps\/too long\/uM_Y_4.png",
+      "HASH":"0ff57318c553b9ff7e30b53eebef7621",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_Y_4.png",
+      "Size":99
+    },
+    {
+      "Name":"maps\/too long\/M_G_G3.opp",
+      "HASH":"923b0a051dbeaa44df99b268cfdb7a7d",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_G_G3.opp",
+      "Size":216
+    },
+    {
+      "Name":"maps\/too long\/M_R_R1.opp",
+      "HASH":"ae097b59b47c58549565b67506e3e6a3",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/M_R_R1.opp",
+      "Size":215
+    },
+    {
+      "Name":"maps\/too long\/uM_B_1.png",
+      "HASH":"66a0733ba4888627aa271e26e16a030c",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/too long\/uM_B_1.png",
+      "Size":75
     },
     {
       "Name":"maps\/Spin\/dc4.png",
