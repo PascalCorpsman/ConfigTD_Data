@@ -29,7 +29,7 @@ All file names (except *.map files) are build from "shortcut" patterns, as follo
 ### List of damage classes per package identifier
 
 | \<pi> | Damage class 1 | Damage class 2 | Damage class 3 | Damage class 4 |
-| --- | --- | --- | --- | --- |
+| --- | ---:| ---:| ---:| ---:|
 | C | Y(ellow) ![](../graphics/damage_classes/colored/dc1.png) | G(reen) ![](../graphics/damage_classes/colored/dc2.png)| R(ed) ![](../graphics/damage_classes/colored/dc3.png) | B(lue) ![](../graphics/damage_classes/colored/dc4.png)
 | Co | Y(ellow) ![](../graphics/damage_classes/comic/dc1.png) | G(reen) ![](../graphics/damage_classes/comic/dc2.png)| R(ed) ![](../graphics/damage_classes/comic/dc3.png) | B(lue) ![](../graphics/damage_classes/comic/dc4.png)
 | M | 1 ![](../graphics/damage_classes/MiniTD/dc1.png) | 2 ![](../graphics/damage_classes/MiniTD/dc2.png) | 3 ![](../graphics/damage_classes/MiniTD/dc3.png)| 4 ![](../graphics/damage_classes/MiniTD/dc4.png)
