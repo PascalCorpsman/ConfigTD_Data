@@ -1,9 +1,9 @@
 [Images]
 Count=4
-Image0=../../Colored/Nothing.bmp
-Image1=../../Colored/Nothing.bmp
-Image2=../../Colored/Nothing.bmp
-Image3=../../Colored/Nothing.bmp
+Image0=../../Colored/WalkBuildable.bmp
+Image1=../../Colored/WalkBuildable.bmp
+Image2=../../Colored/WalkBuildable.bmp
+Image3=../../Colored/WalkBuildable.bmp
 ImageP0=100
 ImageL0=2
 ImageR0=2
