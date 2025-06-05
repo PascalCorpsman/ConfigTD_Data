@@ -10106,6 +10106,42 @@
       "Size":1575
     },
     {
+      "Name":"maps\/G6\/dc4.png",
+      "HASH":"3cd4508753f27805a490dfa67749b735",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/G6\/dc4.png",
+      "Size":189
+    },
+    {
+      "Name":"maps\/G6\/Background.png",
+      "HASH":"076a02ca714d98e3f5f21268c6ccf770",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/G6\/Background.png",
+      "Size":4449
+    },
+    {
+      "Name":"maps\/G6\/dc1.png",
+      "HASH":"58373f6c9f58e15e8a971d9ca50f5b23",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/G6\/dc1.png",
+      "Size":185
+    },
+    {
+      "Name":"maps\/G6\/dc2.png",
+      "HASH":"ba43a3b41194a95940ecd27c5290d996",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/G6\/dc2.png",
+      "Size":183
+    },
+    {
+      "Name":"maps\/G6\/dc3.png",
+      "HASH":"1c38772c75115c206293970ead9d970e",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/G6\/dc3.png",
+      "Size":188
+    },
+    {
+      "Name":"maps\/G6\/data.map",
+      "HASH":"0b0188649adb7c8b04d11af1bc95f6f0",
+      "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/G6\/data.map",
+      "Size":2403
+    },
+    {
       "Name":"maps\/Green\/dc4.png",
       "HASH":"af4a34a52ce908819b5c63739f69921a",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/Green\/dc4.png",
@@ -16905,9 +16941,9 @@
     },
     {
       "Name":"maps\/G8\/data.map",
-      "HASH":"914c0a0e77bffe401e19ee50c4dcfe6a",
+      "HASH":"14269ee9eb64955df0809d5a2584aa82",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/G8\/data.map",
-      "Size":4635
+      "Size":4503
     },
     {
       "Name":"maps\/Merge2\/dc4.png",
