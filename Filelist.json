@@ -2619,9 +2619,9 @@
     },
     {
       "Name":"maps\/Islands\/data.map",
-      "HASH":"ef8b7119116080a99ad0805ff51fed45",
+      "HASH":"1e92fdd11c3a41b07f01b7e97c16cb90",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/Islands\/data.map",
-      "Size":9878
+      "Size":9883
     },
     {
       "Name":"maps\/Islands\/uC_Blue_1.ani",
@@ -6141,9 +6141,9 @@
     },
     {
       "Name":"maps\/Big_Maze\/data.map",
-      "HASH":"5aeda6245aea0c496944b4433e73eb4c",
+      "HASH":"301d026684dbdc1fb4c48814c89e0955",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/Big_Maze\/data.map",
-      "Size":12499
+      "Size":12504
     },
     {
       "Name":"maps\/Big_Maze\/P_SPMA_Chaostower.geb",
@@ -8781,9 +8781,9 @@
     },
     {
       "Name":"maps\/Castle\/data.map",
-      "HASH":"ffc55f0d99394e5abf22de48aa8d8846",
+      "HASH":"4e09df3c674c9dd97af6a8ec9918f7c9",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/Castle\/data.map",
-      "Size":20363
+      "Size":20367
     },
     {
       "Name":"maps\/Castle\/uC_Blue_1.ani",
@@ -16089,9 +16089,9 @@
     },
     {
       "Name":"maps\/Chaos\/data.map",
-      "HASH":"025d43359807b054db538ed27fc0e7cc",
+      "HASH":"17deff4496c4f89c407f2dc76855a4e0",
       "URL":"https:\/\/raw.githubusercontent.com\/PascalCorpsman\/ConfigTD_Data\/main\/maps\/Chaos\/data.map",
-      "Size":4157
+      "Size":4162
     },
     {
       "Name":"maps\/Chaos\/P_S_Splashtower.geb",
