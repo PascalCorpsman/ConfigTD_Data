@@ -163,7 +163,7 @@ opponent_filename0=C_Y_Ge2.opp
 opponent_count0=25
 opponent_refund0=2
 unitsperspawn0=1
-spawndelay0=2500
+spawndelay0=7500
 spawndelta0=1000
 
 [wave1]
@@ -174,13 +174,13 @@ opponent_filename0=C_G_Gr1.opp
 opponent_count0=25
 opponent_refund0=3
 unitsperspawn0=1
-spawndelay0=5000
+spawndelay0=10000
 spawndelta0=1000
 opponent_filename1=C_Y_Ge2.opp
 opponent_count1=25
 opponent_refund1=2
 unitsperspawn1=1
-spawndelay1=2500
+spawndelay1=7500
 spawndelta1=1000
 
 [wave2]
@@ -191,19 +191,19 @@ opponent_filename0=C_R_R1.opp
 opponent_count0=25
 opponent_refund0=5
 unitsperspawn0=1
-spawndelay0=5000
+spawndelay0=10000
 spawndelta0=1000
 opponent_filename1=C_Y_Ge2.opp
 opponent_count1=50
 opponent_refund1=2
 unitsperspawn1=2
-spawndelay1=2500
+spawndelay1=7500
 spawndelta1=1000
 opponent_filename2=C_G_Gr1.opp
 opponent_count2=25
 opponent_refund2=3
 unitsperspawn2=1
-spawndelay2=2500
+spawndelay2=7500
 spawndelta2=1000
 
 [wave3]
@@ -214,25 +214,25 @@ opponent_filename0=C_B_B1.opp
 opponent_count0=25
 opponent_refund0=2
 unitsperspawn0=1
-spawndelay0=5000
+spawndelay0=10000
 spawndelta0=1000
 opponent_filename1=C_Y_Ge2.opp
 opponent_count1=50
 opponent_refund1=2
 unitsperspawn1=2
-spawndelay1=2500
+spawndelay1=7500
 spawndelta1=1000
 opponent_filename2=C_G_Gr1.opp
 opponent_count2=50
 opponent_refund2=3
 unitsperspawn2=2
-spawndelay2=2500
+spawndelay2=7500
 spawndelta2=1000
 opponent_filename3=C_R_R1.opp
 opponent_count3=25
 opponent_refund3=5
 unitsperspawn3=1
-spawndelay3=3500
+spawndelay3=8500
 spawndelta3=1000
 
 [wave4]
